@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	4	Retrieve the content of meta description from web-page using selenium webdriver
+Q2	4	XPathFactory not working
+Q3	3	Selenium webdriver .click() method fails with chrome browser
+Q4	3	Using a SAX parser when I need a DocumentBuilder
+Q5	3	Weird behaviour of Java XPath resolver for documents with namespaces
+Q6	2	XPath Expression to get element after an other
+Q7	2	Stuck with java XPath
+Q8	2	How to determine whether XPath targets (returns) attribute or node?
+Q9	2	Escape a dollar sign in Selenium xpath locator
+Q10	2	Moxy&#39;s getValueByXPath returns null for all but root element

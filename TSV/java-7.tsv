@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	42	Why is StringBuilder#append(int) faster in Java 7 than in Java 8?
+Q2	33	Can there be a (Java 7) FileSystem for which a Path .isAbsolute() but has a null root?
+Q3	22	Java ternary operator influence on generics type inference
+Q4	17	Coldfusion 10 slower when using Java 1.7 compared to 1.6
+Q5	16	Performance regression when migrating from jdk1.7.0_25 to jdk1.7.0_40
+Q6	16	Why can&#39;t Java 7 diamond operator be used with anonymous classes?
+Q7	13	Why switch on String compiles into two switches
+Q8	11	How can I prevent Eclipse from supplying deprecated classes when importing?
+Q9	9	Generic type inference not working with method chaining?
+Q10	9	Are resources closed before or after the finally?

@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	3	ValueError: Could not find stanford-postagger.jar file for hazm library- python NLP
+Q2	2	Using NLP for extracting domain-specific data from unstructured text

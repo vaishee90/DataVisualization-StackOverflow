@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	2	Parallel drop/create on postgres using DBA fails with: ERROR: tuple concurrently updated

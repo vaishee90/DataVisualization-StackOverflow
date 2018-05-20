@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	5	Why does spring-security-core exclude commons-logging?
+Q2	4	How should a custom Guice scope be integrated with TestNG?
+Q3	4	Starting apache server before integration testing not working
+Q4	3	Unable to generate Allure reports using allure-maven plugin
+Q5	3	How to count number of images available on a web page using selenium webdriver?
+Q6	3	Can&#39;t figure out why verification doesn&#39;t work properly
+Q7	2	Getting string value from two dimesional object array
+Q8	2	Define shared or fresh fixture on test method level with TestNG (or any other framework)
+Q9	2	TestNG iterate over test data instead of test methods
+Q10	2	Parameterized Selenium Tests in Parallel with TestNg

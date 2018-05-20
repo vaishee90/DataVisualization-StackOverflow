@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	13	Cast to unimplemented interface compiles
+Q2	8	Return copies of private data rather than references
+Q3	5	How to return reference to object as parameter in Java
+Q4	5	how does a swap method work in C# at a memory level?
+Q5	4	Does a Java constructor return the Object reference?
+Q6	4	What is clear cut comparison between two objects of same class when using == operator per jvm level?
+Q7	3	Ways to avoid passing-by-reference in Java
+Q8	3	two objects have same reference are definitely same?
+Q9	3	How to reference a subclass as a type parameter?
+Q10	3	Let a method modify the reference instead of a new object

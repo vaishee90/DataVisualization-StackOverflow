@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	7	How to get Audio for encoding using Xuggler
+Q2	5	java sound on linux: how to capture from TargetDataLine quickly enough to keep up?
+Q3	3	Does the Java Sound API have access to sound being played by other (non-java) applications?
+Q4	3	Clip plays WAV file with bad lag in Java
+Q5	3	java watch processes that are using mic to record audio
+Q6	2	Should an extracted audio sample be contained inside its original source when comparing bytes?
+Q7	2	Quality issue with audio conversion
+Q8	2	Java Use a Clip and a Try - with - resources block which results with no sound
+Q9	2	how do i change volume of Clip that is playing in loop?
+Q10	2	disable other sounds in java

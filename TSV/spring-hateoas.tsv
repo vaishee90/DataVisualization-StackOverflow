@@ -1,0 +1,8 @@
+Number	Votes	Question
+Q1	11	How to configure MappingJackson2HttpMessageConverter registered by spring-hateoas
+Q2	5	Spring HATEOAS embedded resource support
+Q3	3	Cannot do HAL+JSON Level 3 RESTful API with Spring HATEOAS due to lack of clarity surrounding HAL+JSON media-type
+Q4	3	How to mix Spring Data Repositories and Spring Rest Controllers
+Q5	2	Spring HATEOAS ControllerLinkBuilder removes trailing slash?
+Q6	2	Including snippets of linked entities in ResourceSupports
+Q7	2	How to add query string parameters with Spring HATEOAS?

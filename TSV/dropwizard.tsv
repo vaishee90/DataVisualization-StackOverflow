@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	6	How to create a one-to-many relationship with JDBI SQL object API?
+Q2	6	Advice deploying war files vs executable jar with embedded container
+Q3	5	Integration Testing DropWizard Apps
+Q4	5	How do you inject jdbiFactory DAOs into a Dropwizard Command?
+Q5	4	Dropwizard ScheduledExecutorService
+Q6	4	Dropwizard Integrated Testing with TestResource
+Q7	4	Passing JSON to WebService
+Q8	3	Using Weld with Dropwizard
+Q9	3	Optional jDBI parameter
+Q10	3	Calling a micro service

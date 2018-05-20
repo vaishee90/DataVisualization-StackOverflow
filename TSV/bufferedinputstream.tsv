@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	3	When I close a BufferedInputStream  is the underlying InputStream also closed?
+Q2	2	How to read a line in BufferedInputStream?
+Q3	2	BufferedInputStream Mark/Reset invalid mark
+Q4	2	Bytes Downloaded is slightly higher than Total Bytes of a File - Java

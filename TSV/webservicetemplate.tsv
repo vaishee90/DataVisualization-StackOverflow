@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	0	javax.jms.IllegalStateException: Error deleting temporary destination - temporary destination in use

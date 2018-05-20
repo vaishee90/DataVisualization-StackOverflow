@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	1	Exception: access denied (&quot;java.net.SocketPermission&quot; &quot;localhost:80&quot; &quot;listen resolve&quot;)

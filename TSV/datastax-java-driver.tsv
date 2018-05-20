@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	3	Fixing Inconsistent query behaviour between datastax driver and cqlsh
+Q2	3	Is there a good way to check whether a Datastax Session.executeAsync() has thrown an exception?
+Q3	2	Cassandra object mapping annotations with Datastax Java driver
+Q4	2	Cassandra Java Driver- QueryBuilder API vs PreparedStatements
+Q5	2	Re-using PreparedStatement when using Datastax Cassandra Driver?

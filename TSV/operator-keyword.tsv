@@ -1,0 +1,8 @@
+Number	Votes	Question
+Q1	14	Java autoboxing and ternary operator madness
+Q2	7	Regular Expression match all \\p{L} but not \\p{Alpha}
+Q3	3	String append without double-quotes
+Q4	3	Why does (&quot;str&quot; + x == y) only compile for reference types?
+Q5	3	Java: Conditional Operator differs from if/else
+Q6	3	JSP compiler shows error when using &quot;+&quot; operator
+Q7	2	Java &gt;&gt;&gt;= operator

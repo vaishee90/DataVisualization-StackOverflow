@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	2	JMS TextMessage - not working after deployment to WebLogic
+Q2	2	Weblogic10.3.5 eclipse server configuration issue
+Q3	2	httpServletRequest.getParameter returns null

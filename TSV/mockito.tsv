@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	12	How do Mockito matchers work?
+Q2	9	Why does mockito report error on thenReturn() in java 7 but not in java 6
+Q3	9	Mockito verify order / sequence of method calls
+Q4	7	Can you make mockito (1.10.17) work with default methods in interfaces?
+Q5	7	Mockito swallows up stack trace?
+Q6	6	What is the difference between Mockito.mock(SomeClass) and the @Mock annotation?
+Q7	5	How to use InjectMocks if the instance to be injected has a final class
+Q8	5	Android Tests: Stubbing out Retrofit with Mockito
+Q9	4	Using PowerMockit to mock method with void return-type: &quot;invalid void parameter&quot;
+Q10	4	How can I test a method which invoke protected (unwanted) methods of parent class?

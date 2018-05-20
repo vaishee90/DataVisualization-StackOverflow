@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	4	How activemq wildcard consumers work?
+Q2	4	Java BlockingQueue take() vs poll()
+Q3	4	Java ThreadPoolExecutor and BlockingQueue to be used
+Q4	3	Supermarket Simulator using Queue
+Q5	3	Why does method Queue#add() has boolean return value?
+Q6	3	Java - lock acquisition on get method
+Q7	3	Making a Java PriorityQueue into a stable priority queue
+Q8	2	Store and Process Messages in ActiveMQ
+Q9	2	How to get a message from MQ using selectors Java
+Q10	2	Java&#39;s Queue cannot specify limited size  so what&#39;s difference between &quot;add&quot; and &quot;offer&quot;

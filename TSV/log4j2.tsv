@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	5	Programaticly find the log4j2 (beta9) log filename
+Q2	4	using slf4j with log4j2
+Q3	4	log4j2 configuration will not load custom pattern converter
+Q4	4	Difference between Asynclogger and AsyncAppender in Log4j2
+Q5	4	Programmatically change log level in Log4j2
+Q6	4	log4j 2 adding multiple colors to console appender
+Q7	4	Log4j 2 JSON Configuration
+Q8	3	How to do programmatic configuration for log4j2 RollingFileAppender
+Q9	3	Log4j 2 doesn&#39;t write to file
+Q10	2	log4j2 not writing in the log files

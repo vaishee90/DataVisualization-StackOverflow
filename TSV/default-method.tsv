@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	107	Why is &quot;final&quot; not allowed in Java 8 interface methods?
+Q2	93	What is the reason why “synchronized” is not allowed in Java 8 interface methods?
+Q3	71	When is an interface with a default method initialized?
+Q4	13	Java8: Why is it forbidden to define a default method for a method from java.lang.Object
+Q5	12	java8: dealing with default methods
+Q6	11	Extending List&lt;T&gt; in Java 8
+Q7	7	Can you make mockito (1.10.17) work with default methods in interfaces?
+Q8	6	can marker interface like serializable contain default methods?
+Q9	6	Visitor pattern with Java 8 default methods
+Q10	5	What happens  if two interfaces contain the same default method?

@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	3	Mockito vs JMock
+Q2	3	Should I mock local method invocation inside a tested method?
+Q3	2	Using RestTemplate with local json file
+Q4	2	PowerMockito. Mock static method. why does not PowerMockito#stub work?

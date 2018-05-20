@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	7	Threadsafe Singleton without synchronization in Java?
+Q2	5	why is Immutable Objects safe in Double-Checked Locking?
+Q3	4	Is `volatile` required for double-checked locking in Java but not C#?
+Q4	3	Can Java write to the reference to the object before it is constructed by some method?
+Q5	2	Non volatile double checked locking  is it possible?

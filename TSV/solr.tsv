@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	4	Testing a Solr distributed component
+Q2	4	Filter query exclusion with SolrJ
+Q3	3	Changes in Lucene Index files when document gets add/update/delete?
+Q4	3	Solr Custom Similarity Class loaded but no effect on ranking result. Why is override not working?
+Q5	3	How to get no of documents before commit of full-import in solr?
+Q6	3	solr-solrj 4.9.0 run on jdk 1.6?
+Q7	2	@NotNull type annotation - Solrj
+Q8	2	Web crawler with incremental crawling support for windows
+Q9	2	Testing a setting of a parameter by a custom Solr search component
+Q10	2	Java code for testing Solr token filters?

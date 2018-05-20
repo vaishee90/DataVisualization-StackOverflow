@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	8	Manually Register Class in CDI Container
+Q2	6	Weld not initializing properly
+Q3	6	Creating and wiring related instances at runtime with CDI
+Q4	5	@Specializes in Spring
+Q5	5	How to use InjectMocks if the instance to be injected has a final class
+Q6	5	Understanding CDI/Weld in multi-module application
+Q7	4	Cannot create connection from persistence.xml
+Q8	4	What is best way of injecting values from environment variables?
+Q9	4	DeploymentException: WELD-001408: Unsatisfied dependencies for type [] with qualifiers @Default
+Q10	4	Hibernate makes Weld not initializing in Java SE

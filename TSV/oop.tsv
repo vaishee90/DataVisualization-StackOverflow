@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	48	What&#39;s the size cost of Java inheritance?
+Q2	22	Usage of multiple inheritance in Java 8
+Q3	22	Do Collections.unmodifiableXXX methods violate LSP?
+Q4	16	Why can private method be final?
+Q5	15	What is the design logic behind Fragments as static inner classes vs standalone public classes?
+Q6	13	Extends JFrame vs. creating it inside the the program
+Q7	12	What is the best way of reading configuration parameters from configuration file in Java?
+Q8	10	Are Constructors not members of a class?
+Q9	8	Polymorphism  how to avoid type casting?
+Q10	7	Separate Logic Thread From Event Dispatch Thread

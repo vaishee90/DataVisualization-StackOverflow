@@ -1,0 +1,8 @@
+Number	Votes	Question
+Q1	3	How Cassandra select the node to send request?
+Q2	3	Using Apache Cassandra In Coldfusion
+Q3	3	Cassandra generates “java.lang.OutOfMemoryError: Java heap space” error on startup
+Q4	2	Cassandra Java driver: how many contact points is reasonable?
+Q5	2	Cassandra Java Driver- QueryBuilder API vs PreparedStatements
+Q6	2	Cassandra Error :Invalid method name &quot;describe local ring&quot;
+Q7	2	Correct Way to Scale Cassandra Cluster Using Authentication

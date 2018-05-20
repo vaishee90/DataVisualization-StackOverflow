@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	8	Draw a car wheel
+Q2	5	How to determine if 2 components are on the same frame? (SWING)
+Q3	5	Try - Except in Python for given amount of time
+Q4	3	Does using setOpaque(false) impact painting performance on Swing JComponents?
+Q5	3	Does Component#removeAll() clean up Observer/Listeners of removed controlls?
+Q6	2	Mouse contain within object
+Q7	2	How to get the parent object of a clicked component using getParent()?
+Q8	2	JComponents disappearing after calling mouseClicked()
+Q9	2	How to add a scrollbar for long JComponents in a JPanel? How to center a JComponent?
+Q10	2	Change the origin of the JScrollpane

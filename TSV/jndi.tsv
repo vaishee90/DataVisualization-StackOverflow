@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	8	Glassfish 4: how to set application or module name for JNDI
+Q2	4	spring jndi NamingException: Name [spring.liveBeansView.mbeanDomain] is not bound in this Context
+Q3	3	How should I name the EJB to lookup it correctly?
+Q4	3	Quartz scheduler failed to get JNDI DB resource but starts anyway
+Q5	3	JNDI Directory services
+Q6	3	Eclipse: Overriding JNDI Resource in Tomcat
+Q7	2	Tomcat JNDI resource name aliases
+Q8	2	Spring Boot - Tomcat JNDI fails in Service beans
+Q9	2	Communication exception for SerialContext[myEnv= Exception in Glassfish 3.1.2.2
+Q10	2	javax.naming.initialcontext is a restricted class google app engine

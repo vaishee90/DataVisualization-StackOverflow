@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	6	Very weird PreparedStatement in java?
+Q2	5	PreparedStatement is faster in Java  How db do it?
+Q3	4	preparedstatement setting values in IN clause efficiency
+Q4	4	How do I escape a literal question mark (&#39;?&#39;) in a JDBC prepared statement
+Q5	3	Set parameter for identical subquery in PreparedStatement
+Q6	3	How to use JPA Prepared statment for Insert query in java
+Q7	3	does my batch really execute as expected if autocommit is set to true?
+Q8	3	JDBC preparedstatement convert controll character to question mark
+Q9	3	What does it mean when I say Prepared statement is pre-compiled?
+Q10	3	How to bind ascii stream to a prepared statement

@@ -1,0 +1,7 @@
+Number	Votes	Question
+Q1	4	Is there a way to block on a socket and a blockingqueue in java?
+Q2	4	Java BlockingQueue take() vs poll()
+Q3	3	How to remove elements from a queue in Java with a loop
+Q4	3	Java BlockingQueue produces/consumes not properly
+Q5	2	Java LinkedBlockingQueue source code confusion
+Q6	2	Equivalent of golang channel in Java

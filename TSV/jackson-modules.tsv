@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	4	Spring MVC configuration + Jackson + Guava multimap
+Q2	4	How to map the Mixins for the nested JSON response
+Q3	2	Jackson and the Guava datatype module: Ignore missing fields  but serialize explicit nulls

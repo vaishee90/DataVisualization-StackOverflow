@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	8	Scala async vs. Java ForkJoinTask
+Q2	7	Where does say that Java&#39;s parallel stream operations use fork/join?
+Q3	3	Iterative Fork-Join for base case of divide-and-conquer

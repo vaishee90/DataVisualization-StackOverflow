@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	5	Rollback Spring JDBC operation when not in transaction
+Q2	5	Why large number changes value when saved into Oracle DB
+Q3	3	How to dynamically change database/catalog when using Spring JdbcTemplate
+Q4	3	Method not being intercepted by transaction advisor even though &quot;adding transactional method&quot; seen in logs
+Q5	3	How to properly use JdbcTemplate.update with KeyHolder?
+Q6	3	What is difference between org.apache.commons.dbcp.BasicDataSource and com.ibm.db2.jcc.DB2DataSource
+Q7	2	How to get last auto-incremented value using JdbcTemplate?
+Q8	2	Inconstant number of parameters in stored-proc-outbound-gateway
+Q9	2	Design Suggestion - JSON parsing and processing of MSSQL DB records
+Q10	2	BatchUpdateException updateCounts is 1 always

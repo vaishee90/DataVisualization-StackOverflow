@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	4	Validate soap requests against schema in a JAX-WS code-first approach
+Q2	4	How create a java object from CXF Webclient response
+Q3	4	Apache CXF AtomPullServer
+Q4	4	SOAP over WebSockets in Apache CXF?
+Q5	4	NoSuchFieldError: QUALIFIED when integrating web service in Tomcat project
+Q6	4	A recommended JAX-WS framework for working with Moxy
+Q7	3	How to resolve collision in the ObjectFactory on wsdl2java?
+Q8	3	How to write a WS-SecurityPolicy entry for security configured with a WSSJInInterceptor?
+Q9	3	changing client timeout for a particular request in Apache CXF
+Q10	2	How CXF and spring support each other

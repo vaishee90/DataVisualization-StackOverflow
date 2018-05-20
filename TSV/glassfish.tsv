@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	8	Glassfish 4: how to set application or module name for JNDI
+Q2	8	GRIZZLY0023 Glassfish warning
+Q3	7	org.glassfish.jersey.servlet.ServletContainer ClassNotFoundException
+Q4	6	glassfish throwing org.postgresql.xa.PGXAException
+Q5	5	Does not connect to Java websocket in Tomcat
+Q6	5	Netbeans GlassFish Server 4  deploy  Connection refused: connect  false   The module has not been deployed. See the server log for details
+Q7	5	GlassFish vs tomcat
+Q8	4	GlassFish 4.1 + Hibernate 4.3 = Cannot override mapping through orm.xml
+Q9	4	use endorsed standard override mechanism for xerces in GlassFish 4.0
+Q10	4	Glassfish 4.1 can&#39;t run RestFul service when using ear/ejb/web module

@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	4	FileOutputStream access is denied : JAVA
+Q2	2	FileOutputStream writing strange characters
+Q3	2	File is not received unless i call os.close()
+Q4	2	Does java.io.FileWriter buffer bytes before writing to the output stream

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	7	Extract words in rectangles from text
+Q2	5	Understanding BufferedImage.getRGB output values
+Q3	5	Java - resize image without losing quality
+Q4	5	Possible memory leak when caching BufferedImage
+Q5	4	How to make gradient border of an image using java?
+Q6	4	Android alternative to java.awt (BufferedImage and Raster)
+Q7	3	How to create BufferedImage for 32 bits per sample  3 samples image data
+Q8	3	How do you write every paintComponent call simultaneously to BufferedImage?
+Q9	3	How do you access an attachment stored as MIME Part?
+Q10	3	BufferedImage.getGraphics().drawImage() alters pixels values

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	32	How to serialize a lambda?
+Q2	11	Java 8 lambdas that access instance fields and methods can&#39;t be deserialized
+Q3	8	Why java.util.Optional is not Serializable  how to serialize the object with such fields
+Q4	7	How to trigger calls to .serializeWithType() of a class implementing JsonSerializable in Jackson?
+Q5	7	Possibility to explicit remove Serialization support for a lambda
+Q6	7	Jackson ObjectMapper using custom Serializers and Deserializers
+Q7	7	Spring RedisTemplate : Serialise multiple Model classes into JSON.Need to use Multiple RedisTemplates?
+Q8	6	Is Object deserialization a proper way to implement Prototype pattern in Java?
+Q9	5	Generating unique serializable id for each of the generated classes in JAXB
+Q10	5	Why should Java&#39;s value-based classes not be serialized?

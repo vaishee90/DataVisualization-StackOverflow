@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	3	not annotated method overrides method annotated with @notnull
+Q2	2	No FindBugs warning for null return value if annotated with @Nonnull

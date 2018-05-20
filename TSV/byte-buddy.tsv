@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	2	Can I redefine private methods using Byte Buddy?
+Q2	2	ByteBuddy Proxy Interface
+Q3	2	Caching generated classes in Byte Buddy?

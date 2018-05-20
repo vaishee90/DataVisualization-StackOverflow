@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	2	Assert that certain parameterized vectors will throw an exception in JUnit?
+Q2	2	Junit @Parameters for domain testing
+Q3	2	Is it possible to call both default and parameterized constructors of SubClass and SuperClass for a particular instance(parameterized) in Java?

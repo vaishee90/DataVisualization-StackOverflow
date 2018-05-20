@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	1	Does it matter whether secured communication using symmetric/ pre-shared keys is happening over normal Socket or SSLSocket? How?

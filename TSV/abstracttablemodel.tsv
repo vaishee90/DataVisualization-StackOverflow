@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	2	Working with several custom table models avoiding repetitive code
+Q2	2	AbstractTableModel setValueAt method not being called
+Q3	2	Not able to use a method declared in a class extending AbstractTableModel in JTable UI programming

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	26	How does HashSet not allow duplicates?
+Q2	6	Accessing a HashSet using the HashCode directly? (Java)
+Q3	5	HashSet - ensuring the earlier object persistence
+Q4	5	What is the time and space complexity of method retainAll when used on HashSets in Java?
+Q5	4	Java HashSet what happens if
+Q6	4	Using Hashsets to Count Amount of Strings in Array without Duplicates
+Q7	3	Should I dump java.util.HashSet in favor of CompactHashSet?
+Q8	3	How to use java empty HashSet in if-statement?
+Q9	3	Adding an element to an HashMap causes ArrayIndexOutofBoundsException in java 1.7.0_45
+Q10	3	JAVA HashSet Order

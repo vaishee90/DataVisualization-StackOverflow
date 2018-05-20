@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	5	Integrating JSR-356 WebSocket @ServerEndpoint with Spring 3 beans
+Q2	3	JSR-356 WebSockets with Tomcat - How to limit connections within single IP address?
+Q3	2	Add header on WebSocket handshake with modifyHandshake
+Q4	2	Java WebSockets: The remote endpoint was in state [TEXT_FULL_WRITING]

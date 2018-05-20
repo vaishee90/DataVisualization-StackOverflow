@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	3	How to stop Marshaller class adding XML tag in my output file
+Q2	3	using JaxB to unmarshall object which contains List&lt;String&gt; field
+Q3	2	JAXB marshalling boolean into a complex type
+Q4	2	convert java object using jaxb to xml and vice versa (marshal and unmarshal)
+Q5	2	Create Marshaller for JSON from unknown JAXBContext (XML)
+Q6	2	Two different schemas and JAXB Marshaller
+Q7	2	Marshalling List&lt;Object&gt; with MOXy
+Q8	2	Jaxb Mapping Bidirectional Relationship
+Q9	2	Strange Jackson Illegal character ((CTRL-CHAR  code 0)) Exception in Map Reduce Combiner
+Q10	2	Converting Large XML file to java object?

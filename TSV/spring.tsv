@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	25	IntelliJ does not terminate Spring Boot applications build with gradle
+Q2	21	Spring Security on Wildfly / Undertow: error executing the filter chain
+Q3	17	Repeatable not found when using Spring 4 PropertySource
+Q4	16	Difference between spring @Controller and @RestController annotation
+Q5	16	Spring Java Config: how do you create a prototype-scoped @Bean with runtime arguments?
+Q6	14	Java 1.8 ASM ClassReader failed to parse class file - probably due to a new Java class file version that isn&#39;t supported yet
+Q7	13	Store Java 8 Instant as BSON date using SpringData-MongoDB
+Q8	13	Inheritance (Late Binding) via Dependency Injection in Java
+Q9	12	Using JPA entity graph with complex conditions
+Q10	12	Understanding spring @Configuration class usage

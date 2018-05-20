@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	10	Good pattern? &lt;X extends Exception&gt; ... method() throws X
+Q2	5	Scala&#39;s @throws annotation is ignored in javac if I declare the variable as its abstract superclass

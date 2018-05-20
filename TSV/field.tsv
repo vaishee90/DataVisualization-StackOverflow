@@ -1,0 +1,8 @@
+Number	Votes	Question
+Q1	21	How can I improve performance of Field.set (perhap using MethodHandles)?
+Q2	12	Why can we reduce visibility of a property in extended class?
+Q3	5	Why doesn&#39;t java have .field and .method reflection keywords like .class?
+Q4	3	Which method should change the field  when calling a hierarcy of private methods?
+Q5	2	Can&#39;t reach field from inside action
+Q6	2	Sorting an ArrayList of Objects by field recursively
+Q7	2	Java getDeclaredFields of a class with missing dependencies

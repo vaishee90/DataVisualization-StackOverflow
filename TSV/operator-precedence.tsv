@@ -1,0 +1,8 @@
+Number	Votes	Question
+Q1	49	In Java  which gets executed first  &quot;+&quot; or &quot;++&quot;?
+Q2	4	In Java  why does an assignment in parentheses not occur before the rest of the expression is evaluated?
+Q3	4	Operator precedence or Maximal Munch Rule comes first for Unary Operators
+Q4	3	Why does the &quot;or&quot; go before the &quot;and&quot;?
+Q5	2	Operator Precedence Algorithm
+Q6	2	Java boolean precedence comparation with ternary operator
+Q7	2	Java8: Why a lambda expression could do a logical and(or) with boolean

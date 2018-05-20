@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	8	Saved bitmap in android is 3 bytes long when read
+Q2	6	Why does Android draw View inside another (with width and height defined in pixels) in incorrect way?
+Q3	6	Clueless About a (Possible) Android Memory Leak
+Q4	4	How to save image through capturing in android to php?
+Q5	4	call to Bitmap.compress does not return - and NO exception
+Q6	4	Why is my bitmap sort not infintely faster than my mergesort?
+Q7	3	Sqlite Database - How to save Image taken from camera intent as well as hashmap to sqlite to retrieve later?
+Q8	3	ANR Input dispatching timed out on Android 4.4
+Q9	3	Android: How to use grantUriPermission to be able to create and send an email with a bitmap attachment
+Q10	3	How to make snow fall motion for a bitmap in android

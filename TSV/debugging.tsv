@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	20	Understanding Eclipse debug source lookup with dynamically compiled and loaded code
+Q2	16	How to debug stream().map(...) with lambda expressions?
+Q3	11	Why is conditional debugging so slow?
+Q4	9	Eclipse Luna debug slow only up to the very first breakpoint
+Q5	9	Breakpoint that stops if statement would throw an exception
+Q6	9	Monitor All Android Devices events remotely
+Q7	8	Hashtable values displayed in Eclipse debugger
+Q8	8	How can I troubleshoot a ArrayStoreException
+Q9	7	Eclipse debugger does not recognize new java code
+Q10	7	IntelliJ IDEA 13 debugger don&#39;t stop on breakpoint in java for maven project

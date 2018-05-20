@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	2	SocketTimeoutException: connect timed out immediatly when arp is not established
+Q2	2	java.net.SocketTimeoutException: connect timed out in GET HTTP call
+Q3	2	java.net.SocketTimeoutException: Read timed out error when trying to read from table

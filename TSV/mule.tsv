@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	3	Mule standalone (command line) cant find a file in its classes folder
+Q2	3	How to expose a jax-ws which is located in a mule devkit connector?
+Q3	2	Mule hot deploy running out of PermGen
+Q4	2	mule:xml schema-validation-filter where a custom errorHandler is not being executed
+Q5	2	Failed to invoke Method. Message payload is of type: String
+Q6	2	Mule: How to track non-deletable &amp; non-movable files
+Q7	2	How could i create a static string array using MEL as methodArguments of Invoke
+Q8	2	JAXB mixed versions? undefined &#39;required&#39; attribute
+Q9	2	Executing &quot;Export Studio Documentation&quot; from Maven plugin
+Q10	2	Mule SFTP endpoint fails to open local file

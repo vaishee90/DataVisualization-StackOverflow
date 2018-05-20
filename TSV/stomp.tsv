@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	3	RPC over STOMP using Spring  and correctly handling server side errors propagated to clients
+Q2	3	Spring websocket with stomp security - every user can subscribe to any other users queue?
+Q3	2	Error on Delivery Message on Spring WebSocket using StompClient

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	15	Copy a stream to avoid &quot;stream has already been operated upon or closed&quot; (java 8)
+Q2	10	Using a semaphore inside a nested Java 8 parallel stream action may DEADLOCK. Is this a bug?
+Q3	10	Filter Java Stream to 1 and only 1 element
+Q4	8	Collect HashSet / Java 8 / Regex Pattern / Stream API
+Q5	8	Playing MP3 in chunks with Java?
+Q6	7	Nested Java 8 parallel forEach loop perform poor. Is this behavior expected?
+Q7	6	Getting two different outputs from a Stream
+Q8	6	How to create a Java 8 Stream from an iterator?
+Q9	5	How to read an image from stream?
+Q10	5	Java Lambda expression to avoid multiple iterations

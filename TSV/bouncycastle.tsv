@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	5	Bouncy Castle DSA with SHA1 signature verification
+Q2	5	Getting too short array with RSA encryption when data array&#39;s first entry is zero
+Q3	4	Java BouncyCastle ECC Keys and Self Signed Certificates
+Q4	3	Managing DTLS using a non-blocking architecture
+Q5	2	winzipaes is slow to decrypt a 10 MB file on Android
+Q6	2	RSA_NO_PADDING is different between Java and C++?
+Q7	2	`JCE cannot authenticate the provider BC` when running a JAR
+Q8	2	BouncyCastle lightweight API equivalence for PBEWITHSHA256AND256BITAES-CBC-BC
+Q9	2	How can I get a PublicKey object from EC public key bytes?
+Q10	2	Key length limit with Java Cryptography Extension

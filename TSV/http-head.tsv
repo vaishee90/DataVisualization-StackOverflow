@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	2	With HttpClient 4.3.x  executing a HttpHead for a specific URL gives NoHttpResponseException

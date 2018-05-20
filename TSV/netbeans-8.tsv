@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	4	The NetBeans IDE issues unusual compiler errors on &quot;Clean and Build&quot; or external changes.The IDE becomes unaware of the JPA generated static metamodel
+Q2	3	How do I enable &quot;JAX-RPC&#160;Web&#160;Services&quot;&#160;plugin in NetBeans 8.0
+Q3	3	JavaFX8 - sun.util.logging.PlatformLogger not found Exception in NetBeans 8
+Q4	3	How to remove varargs suggested variables in Netbeans 8?
+Q5	2	NetBeans 8: Java heap space error on start of the IDE
+Q6	2	Why does NetBeans warn about passing int[] to vararg?
+Q7	2	NetBeans project context menu
+Q8	2	STS-Secured Service EndorsingSupportingTokens support in java/metro
+Q9	2	Lambda expression issue in Netbeans
+Q10	2	Conflict between Netbeans IDE 8.0 and UCanAccess?

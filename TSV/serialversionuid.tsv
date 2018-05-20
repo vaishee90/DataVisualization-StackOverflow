@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	4	Can HashMap serialized in 1.7  be used in 1.6?
+Q2	2	why method name is considered generating the hash for serialversionuid
+Q3	2	how to load libsvm model in java after serialVersionUID has changed

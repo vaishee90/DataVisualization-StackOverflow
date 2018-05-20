@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	6	what difference between execute a map-reduce job using hadoop and java command
+Q2	6	Yarn MapReduce Job Issue - AM Container launch error in Hadoop 2.3.0
+Q3	4	Hadoop &quot;Spill Failed&quot; Exception in an ec2 instance with 420GB of instance storage
+Q4	3	Datanode daemon not running on Hadoop 2.5.0
+Q5	3	Hadoop YARN simple yarn application
+Q6	2	CDH5.2: MR  Unable to initialize any output collector
+Q7	2	Debug a Java application remotely on Yarn without a deterministic port
+Q8	2	namenode does not come up with hadoop YARN
+Q9	2	Troubles writing temp file on datanode with Hadoop
+Q10	2	Can&#39;t run a MapReduce job on hadoop 2.4.0

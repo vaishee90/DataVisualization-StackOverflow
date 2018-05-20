@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	3	Thymeleaf - Error resolving template &quot;email-inlineimage.html&quot;
+Q2	3	Thymeleaf change variable
+Q3	3	Including JavaScript variable inside thymeleaf
+Q4	3	Thymeleaf  fragments and default parameters
+Q5	3	Thymeleaf: Parameters In URLs Not Being Replaced
+Q6	2	java.lang.IllegalArgumentException: Cannot find a factory to create the request context
+Q7	2	Spring and thymeleaf with html as resources
+Q8	2	spring security with thymeleaf simple example
+Q9	2	Spring boot sending emails using Thymeleaf as template - configuration does not work
+Q10	2	Changing part of the html page without refreshing whole page

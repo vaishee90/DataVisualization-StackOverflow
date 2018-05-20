@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	6	Grails maven plugin wants Groovy 2.4.2
+Q2	5	NullPointerException only after I have setServiceAccountUser() for GoogleCredential object (Grails/Java)
+Q3	5	Grails: simulate a hibernate proxy for testing
+Q4	5	grails spock testing failing with &#39;java.lang.IllegalArgumentException: ServletContext must not be null&#39;
+Q5	4	XML document structures must start and end within the same entity
+Q6	4	Vaadin With Grails
+Q7	4	spring bean initialization depends on variable number of other beans
+Q8	4	Load spring beans from custom groovy files in grails app
+Q9	4	Groovy/Grails vs Java/Spring performance for REST
+Q10	4	Grails app - JNDI on Tomcat Vs Weblogic

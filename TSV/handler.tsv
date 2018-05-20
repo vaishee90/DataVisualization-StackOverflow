@@ -1,0 +1,7 @@
+Number	Votes	Question
+Q1	4	Android Handler for repeated task - will it overlap ? need Singletone
+Q2	3	How to avoid using instanceof / how to use polymorphism here
+Q3	2	Android Get Location
+Q4	2	Does postDelayed cause the message to jump to the front of the queue?
+Q5	2	Jersey global ExceptionHandler doesn&#39;t work
+Q6	2	How to test Handler callbacks from a Service in an Android JUnit Test?

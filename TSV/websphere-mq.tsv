@@ -1,0 +1,7 @@
+Number	Votes	Question
+Q1	4	Websphere MQ v8 - MQRC_NOT_AUTHORIZED - 2035
+Q2	3	How to get number of consumers connected to Websphere MQ queue from Java
+Q3	2	String to Bytes Conversion-If already byte and taking it as string
+Q4	2	Advantage of using IBM MQ Resource adapter over RemoteJMSProvider?
+Q5	2	MQ\\Java - accessQueue() method - what should be the openOptions to avoid queue lock
+Q6	2	WMQ/JMS no lost and duplicated messages principle

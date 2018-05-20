@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	1	String is truncated at NUL-character when passing data to @JavascriptInterface method

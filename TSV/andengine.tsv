@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	3	AndEngine GLES 2 remove Sprite without java.lang.IndexOutOfBoundsException
+Q2	2	Sprite does not get removed when already new sprites have been spawned
+Q3	2	Issues extending AndEngine to render 3D models

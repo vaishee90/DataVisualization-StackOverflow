@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	8	Glassfish 4: how to set application or module name for JNDI
+Q2	4	GlassFish 4.1 + Hibernate 4.3 = Cannot override mapping through orm.xml
+Q3	4	Can implementing Java copy constructor result in same instance?
+Q4	4	Using web.xml to configure JX-RS with Glassfish 4 is causing errors
+Q5	4	Issue Glassfish 4 doesn&#39;t appear glassfish-web
+Q6	4	Glassfish eclipse Plugin with jdk 8
+Q7	4	Gateway Pattern using Java EE
+Q8	4	Why am I getting NullPointerExceptions in my JSPs when I upgrade from Glassfish 3 to 4?
+Q9	3	Parameter value did not match expected type
+Q10	3	Hibernate 4.3.6 and Glassfish 4.0 JPA 2.1 object is not an instance of declaring class

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	7	Weird behavior when downloading html using HttpURLConnection
+Q2	6	Submitting a form using html unit
+Q3	4	Why are there streams in the HttpURLConnection API?
+Q4	4	HttpURLConnection.getResponseCode() throws IOException when code is known
+Q5	3	Send PUT  DELETE HTTP request in HttpURLConnection
+Q6	3	Got stuck at java.net.SocketInputStream.socketRead0(Native Method)
+Q7	3	HttpURLConnection Invalid HTTP method: PATCH
+Q8	3	Get the downloaded file name using java
+Q9	3	DataOutputSteam is throwing me a &#39;java.io.IOException: unexpected end of stream&#39;?
+Q10	3	Android HttpUrlConnection result string truncated

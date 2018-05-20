@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	3	Why is InputStream constructed from Channel much faster than one constructed from FileDescriptor?
+Q2	2	Java NIO - Memory mapped files

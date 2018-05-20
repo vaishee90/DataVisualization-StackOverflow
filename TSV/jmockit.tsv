@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	3	Unit Testing Java Code - Mocking a non-static method of a different class
+Q2	3	ClassCastException and NoSuchMethodException with sophisticated generic class hierarchy
+Q3	3	How to pass null string to a private method using jmockit while unit testing it?
+Q4	2	How to Write TestCase in Java for this Service?
+Q5	2	Mockito vc JMockit and Dependency injetion
+Q6	2	JMockit / Netbeans - verify AccessController.doPrivileged() was called
+Q7	2	Include JMockit Coverage in Sonarqube dashboard
+Q8	2	Mocking simple property access with JMockIt
+Q9	2	Mocking private method of class under test using JMockit
+Q10	2	Log4j Logger.getLogger(Class) throws NPE when running with jMockit and Cobertura

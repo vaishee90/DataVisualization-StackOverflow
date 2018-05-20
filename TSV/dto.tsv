@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	8	Best Practice - Multi Layer Architecture and DTOs
+Q2	2	Converting Json into a DTO array
+Q3	2	org.hibernate.NonUniqueObjectException: A different object with the same identifier value was already associated with the session

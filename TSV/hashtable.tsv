@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	8	Hashtable values displayed in Eclipse debugger
+Q2	6	Is there a HashMap implementation in Java that produces no garbage?
+Q3	5	HashTable Issue
+Q4	4	Why is the initial capacity in HashMap 16 (power of two) and the initial capacity of Hashtable 11(prime number)?
+Q5	4	Hash table reverse lookup to find smallest key
+Q6	3	Hashtable&#39;s Value doesn&#39;t increaing
+Q7	2	HashMap internally uses Node&lt;K  V&gt; array vs Hashtable internally uses Map.Entry&lt;K  V&gt; array  Why is this internal difference?
+Q8	2	JAVA: how to input data into a Hashtable using a scanner?
+Q9	2	Confusion with hashmap in Java?
+Q10	2	Calculating the occurrence of a random number

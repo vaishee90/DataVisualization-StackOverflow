@@ -1,0 +1,8 @@
+Number	Votes	Question
+Q1	4	Java API for running UIMA Ruta scripts
+Q2	3	Get next word (or POS) suggestion for a given sentence. Autocomplete a sentence
+Q3	2	Running java program by considering import dependencies
+Q4	2	Using Apache UIMA ConceptMapper in a &quot;proof-of-concept mode&quot;
+Q5	2	How to serialize UIMA CAS combined with Java Serialization
+Q6	2	UIMA Ruta with Maven
+Q7	2	Using more than one model for entity extraction- OpenNLP

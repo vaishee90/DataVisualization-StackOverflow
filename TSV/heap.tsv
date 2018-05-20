@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	10	How does string interning work in Java 7+?
+Q2	9	Java - Does a loop takes longer to execute each time?
+Q3	7	Android graphics huge heap memory consumption? - LibGDX
+Q4	7	Role of hibernate queries in heap dump
+Q5	4	Unreachable objects are not garbage collected from heap
+Q6	3	Why is tomcat using more and more heap space during idling?
+Q7	3	Is it possible to force JVM to create an object in stack other than heap?
+Q8	3	Can Java allocate a list on stack?
+Q9	3	How full does the old generation have to be to trigger a major GC cycle?
+Q10	3	Object[] with unique instances loops much slower than Object[] filled with identical instance

@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	4	Spring Security OAuth2 simple configuration
+Q2	2	Spring-Oauth2 Access Token request never succeeds due to missing CSRF &#39;preserved state&#39;

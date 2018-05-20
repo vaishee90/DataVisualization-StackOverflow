@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	25	Uploading a file over SSL with Client Side Certificate and Android&#39;s HttpsURLConnection
+Q2	19	Unable to import .p12 keystore
+Q3	11	How to disable the SSLv3 protocol in Jetty to prevent Poodle Attack
+Q4	6	Do the Apache DefaultHttpClient (Android) and NSURLConnection (iOS) retry failed connections with older protocol versions?
+Q5	6	Securing a Thrift server aginst the POODLE SSL vulnerability
+Q6	6	Groovy SSL signature verification: signature length not correct?
+Q7	5	Why IE rejects a self-signed localhost certificate for 127.0.0.1 only  when Chrome accepts it?
+Q8	5	Why does SSLSocketFactory lack setEnabledCipherSuites?
+Q9	4	How can i test a URL is SSL secured
+Q10	4	Java Https client certificate works absolutely differently than browsers or other tools

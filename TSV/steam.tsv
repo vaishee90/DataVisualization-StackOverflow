@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	2	Do we really need to call flush() just before close() today?

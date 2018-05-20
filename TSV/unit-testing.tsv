@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	21	How to compile and run my Maven unit tests for Java 8  while having my code compiled for Java 7
+Q2	15	&quot;You need to use a Theme.Appcompat theme...&quot; when testing ActionBarActivity  but I am
+Q3	9	Mocking Method that Takes a Class&lt;?&gt; Type Argument with JMock
+Q4	9	Mockito verify order / sequence of method calls
+Q5	8	Should I write tests for class A if it&#39;s covered from class B
+Q6	7	Multiple RunWith Statements in jUnit
+Q7	7	Mockito swallows up stack trace?
+Q8	6	@ReplaceWithMock with @Qualifier
+Q9	6	What is the difference between Mockito.mock(SomeClass) and the @Mock annotation?
+Q10	6	Unit-testing of libgdx-using classes

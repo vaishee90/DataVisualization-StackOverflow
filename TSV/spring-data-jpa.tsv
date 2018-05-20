@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	9	Use abstract super class as parameter to Spring data repository
+Q2	5	Hibernate updatable = false UUID field is updated
+Q3	5	Should I use Java 8 default methods for manually implemented Spring Data repository methods?
+Q4	4	What is the appropriate way persist extended classes?
+Q5	4	How to manually start a transaction on a shared EntityManager in Spring?
+Q6	4	Spring data jpa- No bean named &#39;entityManagerFactory&#39; is defined; Injection of autowired dependencies failed
+Q7	4	spring-data-rest  can you provide full details of entity instead of (or with) link
+Q8	4	Spring-Data-JPA with QueryDslPredicateExecutor and Joining into a collection
+Q9	3	How to customize the schema for an entity in Spring Data Rest
+Q10	3	Filter child object in Spring Data Query

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	3	Why is InputStream constructed from Channel much faster than one constructed from FileDescriptor?
+Q2	3	How to save a picture in Java into Multiple blob?
+Q3	2	App force closing - OutOfMemoryError
+Q4	2	File is not received unless i call os.close()
+Q5	2	Clarification on reading data from a simple Text file in Java
+Q6	2	read(byte[] b  int off  int len) : Reading A File To Its End
+Q7	2	Path not found for a property file in Web application?
+Q8	2	Serializing a HashMap but Text File for input is clearing self every program run. -- Java
+Q9	2	Reading JPEG Stream over socket gives Null characters
+Q10	2	BufferedReader returning Null for no apparent reason

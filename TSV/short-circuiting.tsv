@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	5	How to perform short-circuit evaluation in Java on two parallel threads that return boolean values?
+Q2	5	Why don&#39;t common Map implementations cache the result of Map.containsKey() for Map.get()
+Q3	5	How to preventing short-circuiting?
+Q4	4	If conditions are not short-circuiting correctly
+Q5	3	Replacing an if statement with a disjunction

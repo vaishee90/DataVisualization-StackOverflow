@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	3	ElasticSearch returning only documents with distinct value
+Q2	2	Spring Data elasticsearch @Query annotation for nested objects
+Q3	2	Spring Data ElasticSearch TransportClient Java Config

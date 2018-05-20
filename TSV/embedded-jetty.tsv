@@ -1,0 +1,9 @@
+Number	Votes	Question
+Q1	5	Embedded Jetty - Spring MVC - view resolver - NO XML - HTTP ERROR: 404
+Q2	4	Cross-domain $http request with AngularJS
+Q3	3	Different behaviour when running Jetty embedded from IDE and command-line
+Q4	2	Starting a WebAppContext in isolation
+Q5	2	Cannot get logging to work right with embedded Jetty
+Q6	2	Jetty + Programatic SPNEGO configuration
+Q7	2	How to terminate javaw.exe when jetty web browser is closed
+Q8	2	How do you set both port and thread pool using embedded jetty  v 9.1.0

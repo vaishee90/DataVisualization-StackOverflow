@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	7	Is there a way to generate a periodic java thread dump using JVMTI?
+Q2	2	Can javac supply a class&#39; &quot;source debug extension information&quot; attribute?

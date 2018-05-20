@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	3	Spring-Cloud configuration server ignores configuration properties file
+Q2	2	Kill Spring Cloud Client if Server is not running
+Q3	2	Hystrix async methods within javanica not running inside spring-boot java application

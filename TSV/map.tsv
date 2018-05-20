@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	16	Comparing two maps
+Q2	15	Is there a Java Map implementation that enforces final keys?
+Q3	12	Lazily initialize a Java map in a thread safe manner
+Q4	11	In Java 8 how do I transform a Map&lt;K V&gt; to another Map&lt;K V&gt; using a lambda?
+Q5	8	Find the combinations  given n number of box with x number of balls
+Q6	8	JSONObject to Map
+Q7	7	Efficient way to find min value in Map
+Q8	6	Why doesn&#39;t Java have a putIfAbsent(key  supplier) method in Map?
+Q9	6	How to increment value for a specific key in a Map in java?
+Q10	6	While sorting the map based on value  some values are missing. What causes this weird behaviour?

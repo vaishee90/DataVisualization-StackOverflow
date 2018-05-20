@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	6	CSRF protection in web application
+Q2	4	Spring CSRF override &quot;POST&quot; logout behaviour in security XML config
+Q3	4	CSRF token in GET method
+Q4	3	Csrfguard behind a reverse proxy

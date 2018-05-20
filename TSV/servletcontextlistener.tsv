@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	4	When is contextDestroyed called?
+Q2	2	install a ServletContextListener in axis2  Tomcat 7
+Q3	2	CDI - Injecting a SessionBean into a ServletContextListener triggered service

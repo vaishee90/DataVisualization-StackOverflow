@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	4	JAXB throwing InstantiationException when accessing Opendaylight northbound APIs
+Q2	3	jaxb2-maven-plugin only executing first execution
+Q3	2	Marshall map into &lt;key&gt;value&lt;/key&gt; failed
+Q4	2	Jersey XML indentation
+Q5	2	How to marshall a set with jaxb?
+Q6	2	How to get effective default value of XmlType#name?
+Q7	2	JAXB2 type restriction not working?
+Q8	2	JAXB complex mapping
+Q9	2	Injecting Jaxb2Marshaller in Spring MVC controller
+Q10	2	How parse xml using jaxb

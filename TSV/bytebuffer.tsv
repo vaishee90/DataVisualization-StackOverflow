@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	3	Java - Casting Int to Byte - odd results
+Q2	3	Extract String from ReadOnly java.nio.ByteBuffer
+Q3	3	The best way to read a huge file (for example a very large text document)
+Q4	2	Query on reading bytes from &quot;UTF-8&quot; world to Java &quot;char&quot;
+Q5	2	Websocket @OnMessage is never firing for binary messages only text
+Q6	2	File Channel reads/adds wrong data
+Q7	2	convert byte array to guid using bytebuffer and UUID  byte size has 4
+Q8	2	Why are absolute reads from a ByteBuffer not considered thread-safe?
+Q9	2	How to construct one Byte Array which will have multiples data types values in it?
+Q10	2	Java ByteBuffer class

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	11	Adding mapping to a type from Java - how do I do it?
+Q2	8	Elasticsearch 1.2.1 exception: Root type mapping not empty after parsing
+Q3	6	Elasticsearch and luke
+Q4	5	Elasticsearch client maven dependencies
+Q5	5	Diminutive words stemming / lemmatization
+Q6	5	What does percolator mean/do in elasticsearch?
+Q7	4	Elasticsearch  how to get all unique values of a field and count of total unique values?
+Q8	4	ElasticSearch: is there a way to get new documents inserted in all indexes after a previous SearchRequest?
+Q9	4	Implementing twitter and facebook like hashtags
+Q10	4	Run/Debug ElasticSearch in IntelliJ

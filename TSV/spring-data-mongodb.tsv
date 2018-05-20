@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	13	Store Java 8 Instant as BSON date using SpringData-MongoDB
+Q2	4	Spring data mongodb auditing not working.. (Java config)
+Q3	4	Java 8 Date/Time (JSR-310) types mapping with Spring Data MongoDB
+Q4	3	How to save an object with null dbref in mongodb java spring?
+Q5	3	Mongodb select all fields group by one field and sort by another field
+Q6	3	Save and load Guava Optional&lt;?&gt;s in MongoDB using Spring-Data
+Q7	3	Is is possible to inject a custom Jackson ObjectMapper in spring-data-mongodb?
+Q8	2	MongoDB Spring Data Repository - Cache methods
+Q9	2	Spring Data MongoDB sort performance
+Q10	2	java mongodb findOne with long type _id

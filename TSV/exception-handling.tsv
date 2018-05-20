@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	17	What is the reason for this finally clause containing close() calls
+Q2	13	Unexpected exception handling during compilation
+Q3	12	Using AssertionError and assertions in java
+Q4	8	Whats the best way to notify admin about new exceptions of the Java application?
+Q5	7	Do errors thrown within UncaughtExceptionHandler get swallowed?
+Q6	6	Why does the caller of the method that throws an exception not have to handle the exception in this situation?
+Q7	6	Why does not java detect unreachable catch block if I use multiple catch blocks?
+Q8	6	try with resources introduce unreachable bytecode
+Q9	6	Throws clause in Exception Handling
+Q10	6	How do you design a services layer that&#39;s not all try/catch blocks?

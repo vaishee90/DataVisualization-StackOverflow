@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	4	Java: GarbageCollectorMXBean getCollectionCount throws java.io.IOException: The client has been closed.
+Q2	3	Alternate of getSystemLoadAverage() for Windows?
+Q3	2	Abstract types in MXBean operation signatures

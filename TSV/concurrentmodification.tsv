@@ -1,0 +1,9 @@
+Number	Votes	Question
+Q1	4	What is a good way to implement reloading of a Typesafe config
+Q2	3	How to avoid the ConcurrentModificationException
+Q3	3	Why is there a ConcurrentModificationException even when list is synchronized?
+Q4	3	ConcurrentModificationException without modifying object
+Q5	2	Custom Validation Annotation introduces ConcurrentModificationException
+Q6	2	ConcurrentModificationException: .add() vs .addAll()
+Q7	2	Spurious ConcurrentModificationException
+Q8	2	ConcurrentModificationException is not thrown in DVM for 1 list member

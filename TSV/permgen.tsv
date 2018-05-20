@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	8	What is the difference between PermGen and Metaspace?
+Q2	4	JVM memory cleaned up without any GC activity
+Q3	4	Java program to deliberately fill up PermGen?
+Q4	3	Understanding the difference between a static and a non-static method representation on the heap
+Q5	3	Permgen and Garbage collection Java  Busting permgen myths

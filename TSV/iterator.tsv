@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	17	Java8 Iterator to Stream
+Q2	8	It does not throw exception ConcurrentModificationException
+Q3	8	How to create an infinite Stream&lt;E&gt; out of an Iterator&lt;E&gt;?
+Q4	6	Is it possible to reasonably emulate yield-syntax  perhaps with help of Java 8?
+Q5	4	iterator hasNext returns true but next throws exception
+Q6	4	Scala HashMap throwing key not found exception
+Q7	3	Fail fast iterators in Java
+Q8	3	Arraylist.contains wont check string
+Q9	3	How to avoid the ConcurrentModificationException
+Q10	3	Use of emptyIterator in java

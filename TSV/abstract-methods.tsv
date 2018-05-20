@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	5	Creating new Abstract Method vs Interface Method
+Q2	5	Why can abstract methods only be declared in abstract classes?
+Q3	4	How to use generic EnumMap as parameter in abstract methods

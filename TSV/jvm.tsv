@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	164	What actually causes a Stack Overflow error?
+Q2	91	Android Studio was unable to find a valid Jvm (Related to MAC OS)
+Q3	58	A simple &quot;Hello World&quot; needs 10G virtual memory on a 64-bit machine vs 1G at 32-bit?
+Q4	56	64-bit JVM limited to 300GB of memory?
+Q5	48	What&#39;s the size cost of Java inheritance?
+Q6	36	Hidden performance cost in Scala?
+Q7	30	Android Studio - No JVM Installation found
+Q8	27	Does verification of byte code happen twice?
+Q9	24	How is ArrayOutOfBoundsException possible in String.valueOf(int)?
+Q10	24	How to efficiently manage memory using Strings?

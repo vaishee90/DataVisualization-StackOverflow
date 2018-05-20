@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	4	Starting apache server before integration testing not working
+Q2	3	MAVEN_HOME  MVN_HOME or M2_HOME
+Q3	3	Configure Maven not to run tests if nothing changed
+Q4	3	NoClassDefFoundError for dependent library projects in Android app project (using maven as build tool)
+Q5	3	building and using jhears usind maven2
+Q6	2	flattened pom is not being used?
+Q7	2	Suppressing findbugs warning Step by Step
+Q8	2	Tell Eclipse to skip tests
+Q9	2	How do I get the path of a resource when using Maven?
+Q10	2	struts 2.3.16.1 upgrades giving TypeMismatchException for struts xwork and SimpleMessageListenerContainer in Spring framework

@@ -1,0 +1,10 @@
+Number	Votes	Question
+Q1	79	Why doesn&#39;t RecyclerView have onItemClickListener()? and How RecyclerView is different from Listview?
+Q2	6	Andorid RecyclerView LayoutManager Exception
+Q3	4	RecyclerView Scrolling Performance
+Q4	4	java.lang.NullPointerException at android.support.v7.widget.RecyclerView.onMeasure
+Q5	3	Android RecyclerView Error
+Q6	2	App crashing when trying to use RecyclerView on android 5.0
+Q7	2	How to set RecyclerView in android widget
+Q8	2	How to scroll to the bottom of a RecyclerView? scrollToPosition doesn&#39;t work
+Q9	2	How to fixed first row in RecyclerView Android?

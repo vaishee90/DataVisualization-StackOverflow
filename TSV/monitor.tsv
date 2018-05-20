@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	2	If a thread gets interrupted on wait()  will the monitor be re-acquired before reaching the catch block outside of the synchronization block?
+Q2	2	Java determine screen instance when monitor is added

@@ -1,0 +1,9 @@
+Number	Votes	Question
+Q1	56	64-bit JVM limited to 300GB of memory?
+Q2	5	Hazelcast Logging 70% threshold Message with out adding anything to map
+Q3	3	Embedded Tomcat 7 cluster using spring-boot
+Q4	2	Is it necessary to execute a task on Hadoop DataNode?
+Q5	2	Simple cluster HA singleton
+Q6	2	JPA + Hibernate in a JBoss Cluster
+Q7	2	What is the best way for coordinating workers in tomcat cluster?
+Q8	2	Jboss 7 App servers : Dividing work by type of task

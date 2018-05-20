@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	25	IntelliJ does not terminate Spring Boot applications build with gradle
+Q2	15	Spring Boot - Cannot determine embedded database driver class for database type NONE
+Q3	9	spring boot default H2 jdbc connection (and H2 console)
+Q4	8	Spring Security LDAP and Remember Me
+Q5	7	Terminating mvn spring-boot:run doesn&#39;t stop tomcat
+Q6	6	Java 1.8u20 fails to start with spring boot and groovy 2.3.7
+Q7	6	Using @Profile in spring boot
+Q8	6	Spring boot @ResponseBody doesn&#39;t serialize entity id
+Q9	6	Advice deploying war files vs executable jar with embedded container
+Q10	6	How do I run a spring boot executable jar in a Production environment?

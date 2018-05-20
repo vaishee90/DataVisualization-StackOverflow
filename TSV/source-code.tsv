@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	23	Why does java.lang.Long&#39;s .longValue() cast its (long) instance value to long?
+Q2	4	How to determine if a string is english sentence or code
+Q3	2	Java debugging: Where is the source zip/jar for: sun.net.www.protocol.https.Handler?

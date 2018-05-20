@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	6	renaming a field using javassist at runtime in the pre-main method (java instrumentation)
+Q2	2	connectedCheck/connectedInstrumentTest am instrument parameter
+Q3	2	Is it possible to redefine core JDK classes using instrumentation?
+Q4	2	Unable to resolve superclass in Android instrumentation test using maven with dependencies
+Q5	2	ClassFileTransformer.transform() is not invoked when loading some classes

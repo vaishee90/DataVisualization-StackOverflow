@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	70	Populating a Boolean Array in Java
+Q2	64	Why does one long string take MORE space than lots of small strings?
+Q3	62	Why are arrays Objects  but can not be used as a base class?
+Q4	33	Arrays should not be statically initialized by an array initializer. Why?
+Q5	30	Fastest way to check if a byte array is all zeros
+Q6	26	Why are new java.util.Arrays methods in Java 8 not overloaded for all the primitive types?
+Q7	24	Why doesn&#39;t Java have true multidimensional arrays?
+Q8	24	Java 2D array fill - innocent optimization caused terrible slowdown
+Q9	20	How do arrays &quot;remember&quot; their types in Java?
+Q10	14	2d array diagonally filling

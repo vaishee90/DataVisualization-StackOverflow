@@ -1,0 +1,9 @@
+Number	Votes	Question
+Q1	6	How to add elements of a Java8 stream into an existing List
+Q2	6	Collectors.groupingBy doesn&#39;t accept null keys
+Q3	5	Convert List&lt;Long&gt; to Map&lt;Long  Long&gt; that counts occurences
+Q4	4	Java 8 Collectors API
+Q5	3	Java8: HashMap&lt;X  Y&gt; to HashMap&lt;X  Z&gt; using Stream / Map-Reduce / Collector
+Q6	3	What kind of List&lt;E&gt; does Collectors.toList() return?
+Q7	2	Is there a Collector that collects to an order-preserving Set?
+Q8	2	Create an efficient ImmutableMap collector that holds an ImmutableList for each key

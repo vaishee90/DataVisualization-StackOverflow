@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	4	How to send a string with many lines from command line
+Q2	4	How to gracefully shutdown a Java application that is terminated as a result of closing the command line from which it was executed?
+Q3	2	How to override the properties file value through command line arguments?
+Q4	2	Compile and build with single command line Java (Linux)
+Q5	2	Java program works from the IDE but not the command line
+Q6	2	Synonyms when parsing command line using commons-cli
+Q7	2	Java &quot;could not find or load main class&quot; with classpath error
+Q8	2	Organize imports of java files using eclipse from command line
+Q9	2	How to create args[] from string in java
+Q10	2	When a Java system property is set on the command line without value (&quot;-Dkey&quot;)  what value does it get?

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	4	JAXB Moxy mixed whitespace lost
+Q2	4	How to bind a xml element into an object member variable?
+Q3	4	A recommended JAX-WS framework for working with Moxy
+Q4	3	Deserializing JSON with Jersey and MOXy into a List collection
+Q5	3	Jersey: parsing json key with colon
+Q6	3	JAXBMarshaller and JAXBUnmarshaller are not compatible with each other
+Q7	2	How to configure JAXB / Moxy to throw an error on potential lost data in XML
+Q8	2	Collection&lt;?&gt; wrap elements in plural name of actual type in JAXB
+Q9	2	Query parameter triggered pretty printing of MOXy JSON / XML with JAX-RS 2
+Q10	2	Moxy&#39;s getValueByXPath returns null for all but root element

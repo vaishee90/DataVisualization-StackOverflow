@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	4	Does setting head and tail references on a doubly linked list in Java REALLY clear it from memory?
+Q2	3	Syntax to move backwards in LinkedList?
+Q3	2	java LinkedList vs own implementation
+Q4	2	Linked List getValue(int n) should be O(n / 2)

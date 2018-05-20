@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	6	Are Named Queries pre-compiled in true sense?
+Q2	3	Search keywords in database
+Q3	2	How to call a SQL function like &quot;HOUR()&quot; in a @NamedQuery in Java Persistence

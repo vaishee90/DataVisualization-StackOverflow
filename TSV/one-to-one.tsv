@@ -1,0 +1,7 @@
+Number	Votes	Question
+Q1	3	OneToOne + No Foreginkey + Unidirectional + Datamissing =&gt; EntityNotFoundException
+Q2	3	Hibernate: Inconsistent results with @OneToOne unidirectional relationships
+Q3	3	Hibernate @OneToOne relationship with multiple objects?
+Q4	2	Null Pointer Exception in setter of entity in hibernate
+Q5	2	Hibernate One to One relationship
+Q6	2	How can I join 3 entities JPA?

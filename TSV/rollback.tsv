@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	5	Do I really need to rollback failed read-only transaction?
+Q2	3	Transactions don&#39;t rollback
+Q3	2	How to perform Savepoint and rollback in Hibernate?

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	14	Why did Java 8 introduce a new &quot;::&quot; operator for method references?
+Q2	14	Is method reference caching a good idea in Java 8?
+Q3	9	What&#39;s the difference between instance method reference types in Java 8?
+Q4	7	Java 8: Get Operator-Function-Object with method reference
+Q5	6	Reference to an instance method of a particular object
+Q6	6	Is there a method reference available for throwing an exception?
+Q7	5	Is there any difference between Objects::nonNull and x -&gt; x != null?
+Q8	5	Limits of static method references in Java 8
+Q9	5	Invalid method reference for overloaded method with different arities
+Q10	4	How to convert lambda filters with dynamic values to method references

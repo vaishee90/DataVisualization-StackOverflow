@@ -1,0 +1,10 @@
+Number	Votes	Question
+Q1	5	Crashlytics not finding API Key in crashlytics.properties at runtime
+Q2	3	How to create a dynamic Interface with properties file at compile time?
+Q3	2	Properties file for slf4j not read even though on classpath
+Q4	2	Immutable @ConfigurationProperties
+Q5	2	Reading from properties file
+Q6	2	Why does Java ignore the first line of a .properties file?
+Q7	2	Reading/Writing to Properties Files inside the jar file
+Q8	2	Referencing java resource files from ColdFusion
+Q9	2	Updating database with values in properties file in Java

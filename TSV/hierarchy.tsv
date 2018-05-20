@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	4	Should I create an object outside of a hierarchy  or pass arguments to create it inside?
+Q2	3	Can strange paths cause a wrong structure of the file system?
+Q3	3	Throw exception when second instance is created
+Q4	2	Naming conventions for classes when you have two classes with the same name

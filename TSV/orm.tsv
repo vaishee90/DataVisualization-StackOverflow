@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	5	Hibernate exception _$$_javassist_0 cannot be cast to javassist.util.proxy.Proxy
+Q2	5	Globally set default &#39;nullable=false&#39; for @Column definition
+Q3	4	org.hibernate.TransientObjectException if any many-to-one fields are null (or not selected in form)
+Q4	4	ORM mapping to lucene
+Q5	4	JPA &amp; enum table (aka &quot;the one true lookup table&quot;)
+Q6	4	Hibernate Entity proxy initialization
+Q7	4	OrientDB POJO mapping with embedded objects
+Q8	4	Hibernate ORM - supporting java8 Optional for persistence
+Q9	4	JPA 2 / Hibernate orphan removal still not working with @OneToMany?
+Q10	4	Both key column and map-key are PK

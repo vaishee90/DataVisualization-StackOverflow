@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	23	Why NullPointerException?
+Q2	14	Why is throwing a checked exception type allowed in this case?
+Q3	12	java.util.ConcurrentModificationException not thrown when expected
+Q4	11	ScheduledExecutorService and uncaught Error
+Q5	11	CompletableFuture swallows exceptions?
+Q6	11	What type of exception is (0)null?
+Q7	10	Good pattern? &lt;X extends Exception&gt; ... method() throws X
+Q8	8	Elasticsearch 1.2.1 exception: Root type mapping not empty after parsing
+Q9	8	Is it good programming to have a return type of Exception?
+Q10	7	Why do I need to handle an exception for Thread.sleep()?

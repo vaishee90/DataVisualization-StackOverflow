@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	4	java.lang.RuntimeException:Unable to instantiate org.apache.hadoop.hive.metastore.HiveMetaStoreClient
+Q2	3	what is the difference between hive jdbc client and hive metastore java api
+Q3	3	NoSuchMethodError: JobConf.getCredentials()
+Q4	3	Java - MySQL to Hive Import where MySQL Running on Windows and Hive Running on Cent OS (Horton Sandbox)
+Q5	2	Query remote Hive server2 using Spring hangs
+Q6	2	Hive UDTF returning ArrayList Column
+Q7	2	how to write java udf in impala
+Q8	2	Hiveserver2 not responding
+Q9	2	Architecture/Technology advice for pipeline using Hadoop/Hive
+Q10	2	Create multiple columns from single Hive UDF

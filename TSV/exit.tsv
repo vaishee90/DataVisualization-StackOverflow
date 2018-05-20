@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	10	Java&#39;s System.exit(0); vs C++ return 0;
+Q2	4	How to gracefully shutdown a Java application that is terminated as a result of closing the command line from which it was executed?
+Q3	4	Differentiate shutdowns more than Runtime.setShutdownHook() in Java
+Q4	3	Way to create an exception when program forced to exit?

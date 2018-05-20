@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	33	Arrays should not be statically initialized by an array initializer. Why?
+Q2	9	Eclipse Errors/Warnings ignore assert in unused variable analysis
+Q3	6	Is there a separate FindBugs plug-in for Android Studio?
+Q4	5	Find out if one method could call another
+Q5	4	In Java  why does @Nullable have runtime rentention
+Q6	4	FindBugs: Detect invocation of Object.hashCode()
+Q7	4	Netbeans tells me to remove null comparison  but that breaks my code
+Q8	3	Java: Ways for source code autocompletion on netbeans having external source
+Q9	2	Cyclomatic Complexity  joining conditions and readability
+Q10	2	SonarQube with FindBugs Plugin

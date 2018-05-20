@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	6	What is Manifest-Version in MANIFEST.MF?
+Q2	4	Hiding manifest entries with maven
+Q3	3	Java unit tests set Manifest property
+Q4	3	Specify Manifest.MF during test - Fat / Shaded JAR

@@ -1,0 +1,7 @@
+Number	Votes	Question
+Q1	4	Is it possible to detect comparison of incompatible types with the Java type system?
+Q2	4	Java: How to write generic function that accepts Enum constants that implement a given interface?
+Q3	3	ArrayList contains wrong type objects without explicit raw-type casting
+Q4	3	Design patterns for type-safe integers?
+Q5	3	Why are &quot;TypeToken Collections&quot; Considered Typesafe? (Effective Java #29)
+Q6	2	Is this raw type assignment type-safe? List&lt;T&gt; = new ArrayList();

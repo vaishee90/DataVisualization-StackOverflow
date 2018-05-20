@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	4	unable to marshal type as an element because it is missing an @XmlRootElement annotation for auto generated classes
+Q2	3	Derived types as part of XML messages
+Q3	3	Hibernate add custom prefix to the catalogs
+Q4	2	Two different schemas and JAXB Marshaller
+Q5	2	Java: Binding the XML Schema itself to classes

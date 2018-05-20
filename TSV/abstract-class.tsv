@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	31	What are the differences between abstract classes and interfaces in Java 8?
+Q2	23	Does abstract class extend Object?
+Q3	13	Abstract class with default value
+Q4	8	Same method for multiple classes that implement the same interface
+Q5	5	Creating Custom Spinner Model
+Q6	5	What&#39;s the point in having an abstract class with no abstract methods?
+Q7	5	Why is Java.Lang.Math not abstract?
+Q8	5	Multiple object types in one ArrayList
+Q9	5	Why can abstract methods only be declared in abstract classes?
+Q10	5	Performance difference between passing interface and class reloaded

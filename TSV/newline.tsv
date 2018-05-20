@@ -1,0 +1,10 @@
+Number	Votes	Question
+Q1	4	Why &quot;\\r\\n&quot;.split(&quot;\\r\\n&quot;) returns an empty array?
+Q2	3	\\n and \\r seem to work everywhere. Why is line.separator more portable?
+Q3	2	New line in different languages
+Q4	2	Restrict EOF on newline java
+Q5	2	How to HTML-ize a String in Java
+Q6	2	Replace everything with spaces except line terminators
+Q7	2	Why do strings with newlines do not match regular expressions in Java?
+Q8	2	How to copy a file line by line keeping its original line breaks
+Q9	2	removing extra white spaces from text files

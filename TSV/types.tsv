@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	107	Why does the Java API use int instead of short or byte?
+Q2	23	What kinds of type errors can Haskell catch at compile time that Java cannot?
+Q3	17	Generics  Type Parameters and Wildcards
+Q4	5	Can&#39;t add (int  double) pair to HashMap&lt;Integer  Double&gt;
+Q5	5	Why the maxValue + 1 of an int is the same as maxValue  but not for shorts and bytes?
+Q6	5	Double Brace initialization Type Confusion
+Q7	5	Why are Java wildcards more powerful than use-site variance?
+Q8	5	Why is `Stream.collect` type-safe and `Stream.toArray(IntFunction&lt;A[]&gt;)` is not?
+Q9	5	Understanding Java data types
+Q10	4	Implementing a Java interface featuring recursive type and bounds from Scala

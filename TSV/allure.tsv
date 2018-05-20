@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	3	Unable to generate Allure reports using allure-maven plugin
+Q2	3	Allure report: nothing shown in Chrome
+Q3	2	How can i invoke my methods before and after mtd annotated by @Step?
+Q4	2	Allure Framework: TestNG adapter generates duplicate XML files

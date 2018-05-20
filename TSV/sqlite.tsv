@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	11	UnsatisfiedLinkError (Native method not found)
+Q2	10	Android: Cannot perform this operation because the connection pool has been closed
+Q3	5	Android SqLite error: table AppData has no column named _Player_8
+Q4	5	Android: How to sum all the columns in a SQLite database and return 1 single variable
+Q5	4	Sqlite long parameter bound as string with java 7  not with java 6
+Q6	4	UnsatisfiedLinkError with sqlite4java  no sqlite4java-osx-amd64
+Q7	4	Sqlite4java on Raspberry Pi
+Q8	3	Sqlite Database - How to save Image taken from camera intent as well as hashmap to sqlite to retrieve later?
+Q9	3	How to parse Date like &quot;Fri Oct 31 14:51:47 ??????+03:00 2014&quot;
+Q10	3	How to add sqlite-jdbc jar in netbeans java desktop application while creating a installation setup file?

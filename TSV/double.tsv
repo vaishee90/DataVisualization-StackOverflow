@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	122	Why does this random value have a 25/75 distribution instead of 50/50?
+Q2	25	How does Double.intValue() work?
+Q3	23	Is this Java double-parsing behavior according to spec?
+Q4	10	Why this weird output with truncate and BigDecimal?
+Q5	8	Assigning floating value to a double value
+Q6	6	Why is casting double to char allowed in Java?
+Q7	5	In current C++ and Java  double type and float type : if (x == 0.0) is correct?
+Q8	5	How to produce a compilation error on implicit long to double conversion?
+Q9	5	Double value with two decimal using NumberFormat
+Q10	4	Inputting double type numbers with &quot;.&quot; returning error. It works with &quot; &quot;

@@ -1,0 +1,9 @@
+Number	Votes	Question
+Q1	94	Java Multiple Inheritance
+Q2	24	Why is the diamond case with its common ancestor used to explain Java multiple inheritance issue  instead of two unrelated parent classes?
+Q3	22	Usage of multiple inheritance in Java 8
+Q4	8	Generics function call not compiling in java 8 extending multiple interfaces
+Q5	4	Factory method which returns generic extending two types
+Q6	4	Java: Dealing with multiple complex interfaces without duplicate code
+Q7	3	java.lang.Class and java.lang.Object
+Q8	2	Use Java methods in multiple classes

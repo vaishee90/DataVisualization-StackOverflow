@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	13	Abstract methods and the varargs annotation
+Q2	9	Scala and Java futures apparently having unexpected interactions
+Q3	6	Implementing Multilevel Java Interfaces in Scala
+Q4	5	scala operators as methods in java
+Q5	4	Using a scala generic class in java
+Q6	3	Implementing a Scala function in Java
+Q7	3	How do I monitor all Terminated messages in akka?
+Q8	3	Convert java.lang.String to Scala string
+Q9	3	Loop through scala ListBuffer in java
+Q10	2	scala overrides java class method with inner class and type parameters

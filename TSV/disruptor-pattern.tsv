@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	4	What&#39;s the best way to asynchronously handle low-speed consumer (database) in high performance Java application
+Q2	3	Is there any point in using Netty with Disruptor performance-wise?

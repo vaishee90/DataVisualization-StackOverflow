@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	8	Play Framework  OneToOne relationship not working
+Q2	6	Creating a connection with Java ODBC results in a java.sql.SQLException: Invalid Cursor Type exception
+Q3	6	Very weird PreparedStatement in java?
+Q4	6	Most effective way to multi-thread SQL (Java)
+Q5	5	Hazelcast query in custom objects
+Q6	5	Better to query once  then organize objects based on returned column value  or query twice with different conditions?
+Q7	5	ORA-00918: &quot;Column ambiguously defined&quot;
+Q8	5	Android SqLite error: table AppData has no column named _Player_8
+Q9	5	Using TIMESTAMPDIFF with JPA criteria query and hibernate as the provider
+Q10	5	java.sql.SQLException: No suitable driver found for jdbc:mysql://localhost:3306/dbname

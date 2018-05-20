@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	0	How do I set SSL protocol version in java? And how do I know which one? javax.net.ssl.SSLException: Received fatal alert: protocol_version

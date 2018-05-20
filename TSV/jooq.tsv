@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	4	jOOQ - Concisely Representing Both Columns and Aggregate/Window Functions in a Query
+Q2	4	Java Set not adding object when selecting items from Listbox
+Q3	4	UPSERT in PostgreSQL using jOOQ
+Q4	3	How to insert a updatable record with JSON column in PostgreSQL using JOOQ?
+Q5	3	Why does jOOQ suggest to put generated code under &quot;/target&quot; and not under &quot;/src&quot;?
+Q6	3	jOOQ - method invoking
+Q7	3	How to generate SQL statement with LIMIT clause but without OFFSET clause in jOOQ?
+Q8	3	Packaging common code for better code reuse in java
+Q9	3	JDBC getUpdateCount is returning 0  but 1 row is updated  in SQL Server
+Q10	2	JOOQ class generation and gradle

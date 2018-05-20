@@ -1,0 +1,8 @@
+Number	Votes	Question
+Q1	3	antlr4 simplifying math expression
+Q2	3	Applying OGNL expression to a context variable
+Q3	3	Mvel iterate a list
+Q4	3	Why xor operation on constants (character) is working differently when used variables in its place
+Q5	2	Recognize pattern matches in String with regular expression
+Q6	2	Does Java re-evaluate the entire boolean expression in a for loop header?
+Q7	2	Regex fall through in Java

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	36	Hidden performance cost in Scala?
+Q2	17	Why the bounds check doesn&#39;t get eliminated?
+Q3	16	Strange JIT pessimization of a loop idiom
+Q4	11	Is branch prediction not working?
+Q5	8	What can explain the huge performance penalty of writing a reference to a heap location?
+Q6	7	What JVM optimization is causing these performance results?
+Q7	5	Strange behavior in sun.misc.Unsafe.compareAndSwap measurement via JMH
+Q8	3	Caliper benchmark fails due to JIT compilation
+Q9	3	Do java caches results of the methods
+Q10	2	Is it possible to use a micro-benchmark framework to only time some statements?

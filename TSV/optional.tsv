@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	22	Should java 8 getters return optional type?
+Q2	16	Is Java 8 missing an OptionalBoolean?
+Q3	15	Uses for Java8 Optional
+Q4	8	Why java.util.Optional is not Serializable  how to serialize the object with such fields
+Q5	5	Functional style of Java 8&#39;s Optional.ifPresent and if-not-Present?
+Q6	3	Java 8 flatMap + Optional.of doesn&#39;t compile
+Q7	3	Get value from one Optional or another
+Q8	2	Java 8 Optional asSet()
+Q9	2	Using Optional with Streams in Java
+Q10	2	Have multiple optional parameters

@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	2	What is difference between mutable and immutable String in java
+Q2	2	Mutability of Date with getter and setter in java
+Q3	2	Is it good practice to use AtomicInteger as a substitute for mutable Integer?

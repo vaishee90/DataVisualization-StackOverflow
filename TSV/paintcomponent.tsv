@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	8	Draw a car wheel
+Q2	4	Why isn&#39;t the ENTIRE JPanel repainting?
+Q3	4	Drawing a circle based from user input in Java
+Q4	3	JLabels in GridLayout are Not Always Painted
+Q5	3	How do you write every paintComponent call simultaneously to BufferedImage?
+Q6	3	Why does this this Swing bug occur when using repaint() and not with getParent().repaint()?
+Q7	2	paintComponent() gets called only when Minimizing-Maximizing Screen
+Q8	2	Custom painting JPanel offsets the drawing
+Q9	2	How to Apply the background gradient of a JFrame
+Q10	2	Paint program not using parallel arrays to store size and color properly

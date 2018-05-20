@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	3	How to create custom URLs with Struts2?Like twitter:www.twitter.com/goodyzain
+Q2	2	How to map URL like &quot;/user/{user_id}&quot; to a specific action?
+Q3	2	Why the Interceptor brokes the wildcard in Struts 2?

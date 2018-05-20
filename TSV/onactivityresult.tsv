@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	3	When getting the errror: ResultInfo{who=null  request=0  result=-1  data=null}  What is the who=null?
+Q2	2	Android onactivityresult() not being called in fragment
+Q3	2	Why doesn&#39;t onActivityResult() work?

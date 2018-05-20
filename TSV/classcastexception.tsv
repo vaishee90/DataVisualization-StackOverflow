@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	13	No ClassCastException is thrown inside Java generics
+Q2	12	No ClassCastException when casting to generic type different to actual class
+Q3	5	Getting class cast exception while using android.support.v7.widget.SearchView
+Q4	4	Why does this program involving a generic interface method compile?
+Q5	3	Why a ClassCastException but not a compilation error?
+Q6	3	Unable to cast a class error
+Q7	3	getting java.lang.ClassCastException: class java.lang.String in running a simple MapReduce Program
+Q8	2	ClassCastException on Hashmap to Integer
+Q9	2	Casting HashMap Key Iterator to AbstractIterator
+Q10	2	ClassCastException in JTable.getValueAt(...)

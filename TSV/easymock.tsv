@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	4	Easy mock: Setting expectation inside @PostConstruct
+Q2	3	How to call a private constructor of an abstract class for mocking.
+Q3	3	Can we call EasyMock.expect() on plain java object?
+Q4	2	How to JUnit4-test Spring&#39;s el-Expressions on mocked request?

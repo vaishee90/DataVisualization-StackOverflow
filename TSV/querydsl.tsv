@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	4	Eclipse issue with maven build and JDK when generating Qclasses in Querydsl
+Q2	4	Configure QueryDSL on Play 2 Framework
+Q3	4	Spring-Data-JPA with QueryDslPredicateExecutor and Joining into a collection
+Q4	3	Query not returning any results for time difference of 1 minute?
+Q5	3	QueryDSL NumberPath/SimplePath mixup on x64/x86
+Q6	3	How to group by date in QueryDSL?
+Q7	2	JPA QueryDSL exists and count
+Q8	2	QueryDSL sorting not working with Spring Data
+Q9	2	How can I dynamically add where clauses with querydsl?
+Q10	2	Is it possible to combine MyBatis and QueryDSL/jOOQ?

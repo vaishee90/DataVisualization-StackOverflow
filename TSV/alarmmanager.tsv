@@ -1,0 +1,7 @@
+Number	Votes	Question
+Q1	3	AlarmManager skips alarms set using set() / setExact() in a 48hrs+ cycle
+Q2	2	Setting up AlarmManager to run when Android app isn&#39;t running?
+Q3	2	Alarm Manager fail to setRepeating
+Q4	2	Android alarm manger with fixed date and repetitive
+Q5	2	Android  onReceive in BroadCastReceiver is being called multiple times  i have no idea why
+Q6	2	The static field Context.ALARM_SERVICE should be accessed in a static way

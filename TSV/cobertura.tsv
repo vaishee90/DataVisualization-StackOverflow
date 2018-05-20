@@ -1,0 +1,10 @@
+Number	Votes	Question
+Q1	4	cobertura-maven-plugin with Java 8
+Q2	3	ANT xmlproperty: demux properties with multiple values
+Q3	3	Caused by: java.lang.ClassNotFoundException: net.sourceforge.cobertura.coveragedata.HasBeenInstrumented
+Q4	3	org.sonar.api.utils.SonarException: Can not add twice the same measure on org.sonar.api.resources.File
+Q5	2	Code Coverage with Cobertura
+Q6	2	Sonar Cobertura Plugin not finding coverage.xml file
+Q7	2	Cobertura coverage ignore annotation in maven project?
+Q8	2	Log4j Logger.getLogger(Class) throws NPE when running with jMockit and Cobertura
+Q9	2	Cobertura 2.0.3 - unable to instrument

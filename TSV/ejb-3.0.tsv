@@ -1,0 +1,10 @@
+Number	Votes	Question
+Q1	4	When is the stateful session bean destroyed?
+Q2	3	Best way to consume http resource from EJB or Java EE webapp
+Q3	3	Create a vendor-neutral EJB3 client
+Q4	3	Timer is creating multiple timer instances
+Q5	2	Accessing ejb in ear from war via local interface
+Q6	2	EJB3 DataSource DataSource.getConnection
+Q7	2	Advantage of using IBM MQ Resource adapter over RemoteJMSProvider?
+Q8	2	MDB is inserting duplicate records
+Q9	2	Transaction is not rolled back in ejb

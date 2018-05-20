@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	5	Why the maxValue + 1 of an int is the same as maxValue  but not for shorts and bytes?
+Q2	4	JAVA &amp; Joda Time API: compare intervals  detect overlapping and generate new intervals
+Q3	4	From 5 dice rolls  generate a random number in the range [1 - 100]
+Q4	3	Number generator  but within a range that the user put in. Java
+Q5	3	MySQL: Out of range  but the column isn&#39;t last?
+Q6	2	Finding out range in Java
+Q7	2	Why does Range throw UnsupportedOperationException?
+Q8	2	Java: Could not find IntRange in Apache Commons Lang 3.3.2
+Q9	2	get random BigInteger in range (x  y)
+Q10	2	No concept of &quot;size&quot; in Guava&#39;s RangeSet / Range?

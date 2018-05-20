@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	7	How to use custom type annotations in Java
+Q2	7	How to get generic type information from getAnnotatedParameterTypes() in Java 8?
+Q3	2	Is it possible to access Java 8 type informations at runtime?

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	5	android.os.deadobjectexception in service android
+Q2	3	No found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations:
+Q3	3	EditText value in a Service
+Q4	3	Android: Connect to service through Activites  localBinder returns null
+Q5	3	Does it make sense to use the same methodology in android programming as in java programing?
+Q6	2	Overlay App that reacts only on some touch events
+Q7	2	I want to make a service in android but my service not running?
+Q8	2	Best way to have a multi-purpose service?
+Q9	2	Schedule execution of mediaplayer in android
+Q10	2	Mockito - InvalidUseOfMatchersException

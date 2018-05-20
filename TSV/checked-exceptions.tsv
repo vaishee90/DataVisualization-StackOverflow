@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	14	Why is throwing a checked exception type allowed in this case?
+Q2	10	Good pattern? &lt;X extends Exception&gt; ... method() throws X
+Q3	3	Can a terminal operation (e.g. forEach) rethrow checked exceptions?
+Q4	2	How to decide whether I should add an exception to the method signature or handle it in the method?

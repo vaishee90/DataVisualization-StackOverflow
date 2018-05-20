@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	15	java does not properly reserve huge initial heap size
+Q2	8	Why do -Xmx and Runtime.maxMemory not agree
+Q3	4	heap size usage using &quot;javaw.exe&quot; vs &quot;java.exe&quot;
+Q4	4	JDOM Is using too much memory
+Q5	4	How to shrink java heap space?
+Q6	3	Retained Heap size is more while using jackson ObjectMapper
+Q7	3	VisualVM: Ideal Heap Memory Usage Graph
+Q8	3	Java OutOfMemoryError even with Correct Structuring?
+Q9	3	Understanding the difference between a static and a non-static method representation on the heap
+Q10	3	Object[] with unique instances loops much slower than Object[] filled with identical instance

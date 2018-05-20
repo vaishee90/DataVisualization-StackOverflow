@@ -1,0 +1,8 @@
+Number	Votes	Question
+Q1	23	Version 1.8 of project facet java does not exist
+Q2	14	Eclipse build loop caused by protobuf generated code (related to Maven Project Builder)
+Q3	4	Eclipse keeps forgetting JDK compliance  sets it to 1.6
+Q4	3	My m2eclipse seems to be missing the automatic dependency resolution in Eclipse &quot;fix it&quot; menu
+Q5	2	How to convert an instance of Project to MavenProject?
+Q6	2	m2eclipse&#39;s &quot;Resolve workspace artifacts&quot; non-functional?
+Q7	2	&quot;Could not find or load main class&quot; after removing Maven nature and files (pom.xml  target/) from an Eclipse Project

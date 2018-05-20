@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	2	Is there a way to instantiate a Python class from Java using Jython *without* making that Python class extend a Java interface?

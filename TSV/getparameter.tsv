@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	2	Java.security.Access.ControlException: access denied(&quot;java.io.FilePermission&quot; &quot;[object file]&quot; &quot;read&quot;)

@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	5	Does Java strictfp modifier have any effect on modern CPUs?
+Q2	4	How to measure efficiency (in particular: assembly code) for java programs?
+Q3	3	Using an Annotation Processor to create a list of classes with a certain annotation
+Q4	2	Using JNIEnv from a nasm-created dll

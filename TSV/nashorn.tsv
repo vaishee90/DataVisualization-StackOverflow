@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	10	IllegalArgumentException exception from Nashorn - Is it a bug in Java 8?
+Q2	8	Nashorn bug when calling overloaded method with varargs parameter
+Q3	6	How make Java 8 Nashorn fast?
+Q4	5	Can Nashorn startup slowness be overcome?
+Q5	5	Nashorn  Java collections  How to implement equals and hashCode in pure javascript
+Q6	5	New to scripting with Java and Nashorn  any tutorials?
+Q7	5	Java 8 Javascript Engine backwards compatibility
+Q8	4	Interrupt java thread running nashorn script
+Q9	4	Java Scripting With Nashorn (JSR 223) &amp; Pre-compilation
+Q10	4	Avatar.js and Project Avatar

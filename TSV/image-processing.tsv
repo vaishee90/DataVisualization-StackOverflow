@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	13	Color quantization with N out of M predefined colors
+Q2	9	Convert TIF to JPG without increasing Bit Depth
+Q3	8	How to get color name by rgb values?
+Q4	7	Programmatically find shaky OR out-of-focus Images
+Q5	7	Extract words in rectangles from text
+Q6	7	Detecting an object (words) in an image
+Q7	6	Java 8 ImageIO reads JPEG incorrectly in Linux
+Q8	5	Convert grayscale image to RGB
+Q9	5	Understanding BufferedImage.getRGB output values
+Q10	5	Java - resize image without losing quality

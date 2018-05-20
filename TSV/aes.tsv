@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	7	AES-NI intrinsics enabled by default?
+Q2	4	Python AES decryption
+Q3	4	android cipher doesn&#39;t decrypt first 16 bytes / characters of encrypted data
+Q4	3	Java 7 -&gt; Java 8: AES Causes exception: &quot;BadPaddingException: Given final block not properly padded&quot; in conjunction with BufferedReader &amp; ZipStreams
+Q5	3	AES 256 decryption - Is IV safe to share?
+Q6	3	What exactly does specifying &quot;AES&quot; as the algorithm in KeyGenerator.getInstance() do?
+Q7	3	Invalid AES key length: 128 bytes?
+Q8	2	winzipaes is slow to decrypt a 10 MB file on Android
+Q9	2	Slow service response Times : Java SecureRandom &amp; /dev/random
+Q10	2	How come putting the GCM authentication tag at the end of a cipher stream require internal buffering during decryption?

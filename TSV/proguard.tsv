@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	13	Reducing android app (apk) size
+Q2	13	Obfuscating Play 2 web app on dist with Proguard?
+Q3	5	How to tell ProGuard to keep private fields without specifying each field
+Q4	4	ProGuard: keep implementations for interface annotated with @Keep
+Q5	3	Using Otto  method only subscribes if I call it directly elsewhere
+Q6	3	ProGuard for Android and GSON
+Q7	3	Error : Unable to run the app with Firebase jar included
+Q8	3	How to configure ProGuard to omit methods with SupressWarning(&quot;unused&quot;)
+Q9	2	Custom Error Handling with Retrofit when obfuscated using proguard gives java.lang.reflect.UndeclaredThrowableException
+Q10	2	Running Android app from Eclipse after setting up for obfuscation

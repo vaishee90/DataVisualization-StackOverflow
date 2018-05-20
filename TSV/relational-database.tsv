@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	2	hibernate sets dirty flag (and issues update) even though client did not change value
+Q2	2	Hibernate One to One relationship
+Q3	2	jOOQ H2 Case sensitivity issues without codegen

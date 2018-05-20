@@ -1,0 +1,84 @@
+body {
+	margin: 0px;
+}
+
+.navbar .navbar-inverse .navbar-fixed-top {
+	margin: 0px;
+	max-width: 100%;
+	max-height: 100%;
+}
+
+#dashboard-content{
+    float: left;
+    max-width: 100%;
+}
+
+.d3-tip {
+  line-height: 1;
+  font-weight: bold;
+  padding: 12px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border-radius: 2px;
+}
+
+#card1 {
+	border-radius: 5px;
+	width: 600px;
+	height: 610px;
+	margin-left: 20px;
+	margin-top: 0px;
+	float: left;
+}
+
+#bar_chart {
+	background-color: white;
+	border-radius: 5px;
+	width: 570px;
+	height: 300px;
+	margin-left: 630px;
+	margin-top: 20px;
+	margin-right: 20px;
+}
+
+#tag_trend-card {
+	background-color: white;
+	border-radius: 5px;
+	width: 570px;
+	height: 300px;
+	margin-left: 630px;
+	margin-top: 10px;
+	margin-right: 20px;
+}
+
+path { 
+  stroke-width: 2;
+  fill: none;
+}
+
+.bar:hover {
+  fill: black ;
+}
+ 
+.axis path,
+.axis line {
+	fill: none;
+	stroke: grey;
+	stroke-width: 1;
+	shape-rendering: crispEdges;
+}
+
+@media (max-width: 2000px) and (min-width: 645px) and (max-height: 1200px) and (min-height: 400px){
+	#bubble-chart {
+		max-width: 100%;
+		max-height: 100%;
+		background-blend-mode: overlay;
+	}
+
+	#orbit-chart {
+		max-width: 100%;
+		min-height: 100%;
+		background-blend-mode: overlay;
+	}
+}
+

@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	4	From 5 dice rolls  generate a random number in the range [1 - 100]
+Q2	2	Make Math.Random loop until specific number is reached
+Q3	2	Adding Two Dice 36 Million Times

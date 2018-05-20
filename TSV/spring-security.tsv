@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	21	Spring Security on Wildfly / Undertow: error executing the filter chain
+Q2	11	How To Inject AuthenticationManager using Java Configuration in a Custom Filter
+Q3	8	404 with response.sendRedirect
+Q4	8	Spring Security LDAP and Remember Me
+Q5	7	Where should I keep the credentials of my database?
+Q6	6	Spring Security Warning: Class AuthorityUtils is abstract?
+Q7	6	How to enable HTTP caching for the resource handler with Spring MVC and Spring Security
+Q8	6	Java Config Spring Security FORM_LOGIN_FILTER
+Q9	6	Why this Spring application with java-based configuration don&#39;t work properly
+Q10	5	Spring Boot with custom UserDetailsService

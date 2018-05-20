@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	9	spring boot default H2 jdbc connection (and H2 console)
+Q2	7	H2 in Tomcat SqlException locked by another process when embeded mode
+Q3	7	Why is my embedded h2 program writing to a .mv.db file
+Q4	5	H2 Console Cant see tables created by JAVA
+Q5	3	spring-boot hibernate JPA generating drop constraint errors on startup with H2 database
+Q6	3	Generic error [50000-175] caused by NullPointerException
+Q7	2	H2 - General&#160;error:&#160;&quot;java.lang.NullPointerException&quot;&#160;[50000-182]
+Q8	2	Connection problems with H2 when starting from Java and usage of dbunit
+Q9	2	Understanding JdbcConnectionPool with H2 database
+Q10	2	Shutting down H2 database; Compact vs Defrag?

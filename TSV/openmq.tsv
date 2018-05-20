@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	1	Strange phenomenon in Open MQ: unexpectedly messages start to get stuck in the JMS Queue for a while before delivering them to the MDB

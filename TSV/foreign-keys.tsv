@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	2	Violation of foreign key constraint
+Q2	2	How to avoid foreign-key-constraint violations using pure JPA/Hibernate annotations
+Q3	2	Hibernate XML Subclassing with composite-key
+Q4	2	DB table with &quot;my type&quot; column
+Q5	2	MySQLIntegrityConstraintViolationException: Cannot add or update a child row

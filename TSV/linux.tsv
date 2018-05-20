@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	37	Gradle finds wrong JAVA_HOME even though it&#39;s correctly set
+Q2	13	Who sends a SIGKILL to my process mysteriously on ubuntu server
+Q3	13	Why does my Eclipse Luna 4.4 crash on Debian Wheezy 7.4 with Oracle JDK8 64bit?
+Q4	13	What&#39;s the location of the JavaFX runtime JAR file  jfxrt.jar  on Linux?
+Q5	9	What is the best way to handle out of memory conditions in Java?
+Q6	7	How do I disable Java stack frame optimizations  or profile stacks using system profilers?
+Q7	7	FindBugs can&#39;t locate org.apache.bcel.classfile.ClassFormatException
+Q8	6	How do I run a spring boot executable jar in a Production environment?
+Q9	6	Why does Java memory mapped buffer cause massive unexpected disk IO?
+Q10	5	java sound on linux: how to capture from TargetDataLine quickly enough to keep up?

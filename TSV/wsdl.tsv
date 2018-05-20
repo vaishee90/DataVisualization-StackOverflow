@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	6	Single WSDL with no schema imports in WebLogic with JAX-WS
+Q2	4	Validate soap requests against schema in a JAX-WS code-first approach
+Q3	3	WSDL with duplicate names -- how to force Java Class names
+Q4	3	C# SOAP: The specified type was not recognized: name=&#39;arrayList&#39;
+Q5	3	How do I enable &quot;JAX-RPC&#160;Web&#160;Services&quot;&#160;plugin in NetBeans 8.0
+Q6	3	Resolving conflicts when generating code with CXF and wsdl2java
+Q7	3	How to respect an existing WSDL but rename targetNamespace or package containing the services?
+Q8	2	How to pass user defined class to wsdl in android using k2soap?
+Q9	2	In Java 8  MyServicePort.java class is missing when generating java classes by using wsimport
+Q10	2	Database access with SOAP WS

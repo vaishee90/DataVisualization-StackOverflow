@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	18	Intellij (Android studio) member variable prefix
+Q2	8	relying on Java&#39;s short-circuiting evaluation (coding style)
+Q3	6	why use putFloat(String key  float value)  putInt(String key  int value) instead of overload put(...)
+Q4	5	Java - Static Programming Style
+Q5	5	naming conventions for constants and their units
+Q6	4	Extending a class vs. adding boolean parameter
+Q7	3	Eclipse: opening braces on a new line  except when they are empty
+Q8	3	Is it considered correct to omit curly braces strictly on one-liners?
+Q9	3	Throwing and exception or returning and error message
+Q10	2	How to organize imports with blanks between packages?

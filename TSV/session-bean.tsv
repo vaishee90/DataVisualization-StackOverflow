@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	1	start transaction AFTER not BEFORE start of synchronized method in singleton bean

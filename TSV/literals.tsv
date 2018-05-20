@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	5	Why are in-range narrowed long values not implicitly converted?
+Q2	3	Why int=012 giving output 10?
+Q3	2	Does Java compiler recognize byte and short as literals?

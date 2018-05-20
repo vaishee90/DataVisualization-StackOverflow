@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	7	FindBugs can&#39;t locate org.apache.bcel.classfile.ClassFormatException
+Q2	3	ASMifier class missing from ASM 3.3.1
+Q3	2	fedora 21 javafx not creating mediaplayer
+Q4	2	Maven can&#39;t find a compiler on Linux

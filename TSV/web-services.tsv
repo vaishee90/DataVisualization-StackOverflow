@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	14	Are there any coding examples of a full application in a microservice style?
+Q2	13	Any workaround for ignoring unexpected elements in Apache Axis 1.4?
+Q3	9	Cannot start Netbeans 8.0.1 after JAX-RPC Web Services plugin installation
+Q4	7	Using JAX-WS 2.2.5 client with JDK/JRE 1.5
+Q5	7	How to sync large lists between client and server
+Q6	7	How to send multiple asynchronous requests to different web services?
+Q7	6	Single WSDL with no schema imports in WebLogic with JAX-WS
+Q8	5	Trapping a ConnectException in a JAX-WS webservice call
+Q9	5	How to know if a web service has started
+Q10	5	spring 4 vs jersey for rest webservices

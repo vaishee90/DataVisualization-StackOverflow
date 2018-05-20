@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	4	Spring Batch - skippable exception in a TaskletStep
+Q2	4	Spring Batch step without chunk processing
+Q3	4	Why does destroy method &#39;close&#39; fail for JPAPagingItemReader configured with Java config?
+Q4	4	override spring batch admin to use mysql database
+Q5	3	Is there a way to integrate spring-batch-admin and spring-boot properly?
+Q6	3	Spring Batch Transaction Exception:Existing transaction detected in JobRepository
+Q7	3	Spring-Batch proxy class cannot be cast to Class?
+Q8	3	Spring Batch SplitBuilder does not execute the starting flow
+Q9	3	Spring batch Partitioning with multiple steps in parallel?
+Q10	3	Spring batch restrict single instance of job only

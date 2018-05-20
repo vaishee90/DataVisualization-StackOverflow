@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	5	javax.validation.ValidationException: HV000183: Unable to load &#39;javax.el.ExpressionFactory&#39;
+Q2	4	Bean validation group sequence not working
+Q3	3	hibernate-validator strange IOException: Stream closed
+Q4	2	Decode Regex expression - ^[a-zA-Z0-9 &amp;quot;&amp;apos;&amp;amp;!#$%()*+ -./:;?@[\\\\]^_`{|}~]+$
+Q5	2	Spring boot &amp; hibernate validator version

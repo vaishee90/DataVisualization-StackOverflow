@@ -1,0 +1,9 @@
+Number	Votes	Question
+Q1	4	Spring 4 CachingConnectionFactory with JMS 2.0 doesn&#39;t properly cache Producers
+Q2	3	JMS Listener fires before Hibernate is setup on Server startup
+Q3	3	Multiple DefaultMessageListenerContainer feeding a single TaskExecutor/ThreadPool (fairly)
+Q4	2	DefaultMessageListenerContainer: is it possible to cache consumer when using global transactions
+Q5	2	Unable to locate Spring Namespace Handler for XML schema namespace (JMS)
+Q6	2	Apache CXF-JMS 3.0 and Spring configuration
+Q7	2	Difference between sessionTransacted and JmsTransactionManager
+Q8	2	ActiveMQ Consumers Are In A Blocked State

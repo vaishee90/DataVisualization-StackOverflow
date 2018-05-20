@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	9	JAX-RS HATEOAS Using Jersey  Unwanted Link properties in JSON
+Q2	7	Ignoring web.xml error-page with Jersey&#39;s ExceptionMapper
+Q3	5	Preventing &#39;PersistentObjectException&#39;
+Q4	5	Handling custom error response in JAX-RS 2.0 client library
+Q5	4	Is it correct to return 404 when a REST resource is not found?
+Q6	4	Jersey RESTful Services: Resources &amp; Responses
+Q7	4	Jersey not obeying response media type rules from @Produces
+Q8	4	Java + JAX-RS + JSON + JPA 2 Sample on GAE and Restlet
+Q9	4	JAX-RS: Is there a serializer for json for root element  part of a list  param in Web service
+Q10	4	which init-param to use: jersey.config.server.provider.packages or javax.ws.rs.Application?

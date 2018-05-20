@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	2	Autopilot and java.lang.RuntimeException: Unable to start receiver com.urbanairship.push.GCMPushReceiver: java.lang.NullPointerException
+Q2	2	read last sms from inbox
+Q3	2	Can&#39;t call getActivity() from FREContext in a new thread?

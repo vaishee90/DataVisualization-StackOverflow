@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	6	Can Apache Storm spouts communicate with each other?
+Q2	6	java.lang.NoSuchFieldError: INSTANCE
+Q3	4	When using field grouping in storm  is there a limit to known field values or a timeout?
+Q4	4	How to achieve multi-tenancy in the context of Kafka and storm?
+Q5	4	Storm Runtime Files
+Q6	3	Simple node discovery method
+Q7	3	ClassNotFoundException when trying to start topology
+Q8	2	why storm backtype.storm.utils.TimeCacheMap deprecated
+Q9	2	storm hdfs connector ... trying to write data into hdfs using storm
+Q10	2	Assign strictly one special bolt on each machine in storm cluster

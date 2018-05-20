@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	5	Which languages &quot;have subclassing but no inheritance&quot;?
+Q2	5	Which members are not inherited in a child class?
+Q3	4	cast on object of type superclass returns object of type subclass in java
+Q4	4	Java memory usage in inheritance
+Q5	4	Chaining methods on a subclass object  methods that return this from both classes
+Q6	4	Can Java cast anything?
+Q7	4	How can I get an instance of a subclass of abstract class from a static method of another class?
+Q8	4	Inheritance: weaker accessibility of a method in subclass
+Q9	3	What is detailed explanation of argument &quot;Subclass Only Where It Makes Sense&quot;?
+Q10	3	Java : Super class array object assigned with sub class array object

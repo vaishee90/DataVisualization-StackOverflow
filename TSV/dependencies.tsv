@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	6	Jar Dependencies in GitHub
+Q2	5	Excluding .class files from Gradle dependecy
+Q3	4	Loading a jar at runtime causes a NoClassDefFoundError/ClassNotFoundException
+Q4	4	MavenError: Failed to execute goal on project: Could not resolve dependencies In Maven Multimodule project
+Q5	4	How can I run a Java class inside a Maven artifact  automatically resolving dependencies?
+Q6	4	Android .jar library within .jar library - Nested dependencies
+Q7	3	A gradle plugin that adds dependencies and a sample project in the same project
+Q8	3	Google Cloud Storage Java Client Library uses Unknown Dependencies
+Q9	3	Gradle exclude specific files inside dependency
+Q10	3	NoSuchMethodError with Hamcrest 1.3 and Maven on GAE

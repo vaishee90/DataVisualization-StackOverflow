@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	8	BufferedReader.readLine blocks my program but BufferedReader.read() reads properly
+Q2	7	Does finally completely execute if an exception is thrown within finally block
+Q3	5	Android App Retrieve Data from Server but in a Secure way
+Q4	4	BufferedReader giving non-zero exit code
+Q5	4	Why is Scanner slower than BufferedReader when reading from input?
+Q6	3	Why am I getting *worse* performance with a *larger* buffer in my BufferedReader?
+Q7	3	Trouble printing odd lines
+Q8	3	Fastest way to extract longitude and latitude from .JPG
+Q9	3	The best way to read a huge file (for example a very large text document)
+Q10	3	Java: while((line = bufferedReader.readLine()) != null) MISSING 2 LINES

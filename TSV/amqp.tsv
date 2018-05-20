@@ -1,0 +1,9 @@
+Number	Votes	Question
+Q1	8	Demultiplexing messages from a queue to process in parallel streams using amqp?
+Q2	2	Retrieve arguments and attributes of a queue in RabbitMQ
+Q3	2	Configuring priority in rabbitmq
+Q4	2	rabbitmq-priority-queue plugin install issue
+Q5	2	RabbitMQ Java client - How to sensibly handle exceptions and shutdowns?
+Q6	2	How is concurrency in Spring AMQP Listener Container implemented?
+Q7	2	RabbitMQ new connectoin refused due to SocketException
+Q8	2	Spring AMQP Rabbit template send timeout

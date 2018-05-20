@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	29	C++ and PHP vs C# and Java - unequal results
+Q2	18	Why is &quot;a^=b^=a^=b;&quot; different from &quot;a^=b; b^=a; a^=b;&quot;?
+Q3	8	updating references in an expression with a nested assignment
+Q4	5	Does Java strictfp modifier have any effect on modern CPUs?

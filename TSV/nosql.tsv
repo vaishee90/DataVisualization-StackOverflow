@@ -1,0 +1,9 @@
+Number	Votes	Question
+Q1	3	DynamoDB API: How can I build an &quot;add JSON attribute if not present&quot; update request?
+Q2	3	Combining SQL and NOSQL databases using Hibernate ORM and OGM
+Q3	3	ElasticSearch returning only documents with distinct value
+Q4	2	Searching multiple strings in all fields in Elasticsearch using Java API
+Q5	2	Aerospike: how do I get record key?
+Q6	2	Hazelcast and MapDB - implementing a simple distributed database
+Q7	2	Jedis : Could not get a resource from the pool
+Q8	2	Couchbase backoff with Java API

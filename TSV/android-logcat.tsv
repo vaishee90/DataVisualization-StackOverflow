@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	4	RecognizerIntent.ACTION_RECOGNIZE_SPEECH blocked when a tap occurs
+Q2	2	logcat filled with java.io.IOException: Connection refused messages

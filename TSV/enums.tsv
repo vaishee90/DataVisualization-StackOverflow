@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	30	Does Garbage Collector run on Enum type?
+Q2	29	Difference between java enum with no values and utility class with private constructor
+Q3	22	How to use fields in java enum by overriding the method?
+Q4	17	Why can enum implementations not access private fields in the enum class
+Q5	14	Convert from String to a Java enum with large amount of values
+Q6	14	Enums ordering in javadoc
+Q7	13	Java enum overkill?
+Q8	13	Why is `enum of enum of enum..` allowed?
+Q9	13	Java enum-based state machine (FSM): Passing in events
+Q10	10	Can a non-changing enum method be optimized by the JVM at runtime?

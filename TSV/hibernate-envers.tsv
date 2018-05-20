@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	2	mysql: keep auto-increment counter after server restart - inconsistent envers audit tables
+Q2	2	Play Framework 2.2.2 with Hibernate Envers
+Q3	2	How to retrieve audited register with relationship @ManyToOne using Hibernate Envers

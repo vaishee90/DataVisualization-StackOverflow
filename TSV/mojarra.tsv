@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	2	Is it bad to use JSF #view.attributes map instead of #viewScope to store view scoped application data?

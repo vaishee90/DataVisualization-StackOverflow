@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	3	How to investigate a class loader leak with yourkit
+Q2	2	How to profile Domino Agents (AMgr) with YourKit?
+Q3	2	is there an API for analying yourkit snapshot (memory/cpu)?

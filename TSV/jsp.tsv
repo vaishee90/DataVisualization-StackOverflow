@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	40	The superclass &quot;javax.servlet.http.HttpServlet&quot; was not found on the Java Build Path
+Q2	12	Unable to fix java.lang.IllegalStateException: Unable to retrieve EntityManagerFactory for unitName
+Q3	8	Running tag library from older Tomcat version
+Q4	7	Tracking user activity on window opened by window.open() method
+Q5	7	auto populating struts2 checkboxes from database
+Q6	7	JSP comparison operator behaviour
+Q7	6	Struts2 token interceptor: CSRF protection
+Q8	6	refresh only this part of Data (Google Maps)
+Q9	6	JSP engines without webserver
+Q10	6	s:form tag action parameters being removed

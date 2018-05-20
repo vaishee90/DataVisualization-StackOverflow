@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	57	Performance issue: Java vs C++
+Q2	28	Algorithmic complexity of naive code for processing all consecutive subsequences of a list: n^2 or n^3?
+Q3	22	What is the best algorithm to find the center of a wave on a matrix?
+Q4	18	potential O(n) solution to Longest Increasing Subsequence
+Q5	15	Optimal merging of triplets
+Q6	13	Implementing undo and redo for an Array?
+Q7	11	Comparison of experimental running time of algorithm vs. theoretical running time functions
+Q8	11	How to sort a collection of points so that they set up one after another?
+Q9	11	Determining the element that occured the most in O(n) time and O(1) space
+Q10	10	Lexicographic minimum permutation such that all adjacent letters are distinct

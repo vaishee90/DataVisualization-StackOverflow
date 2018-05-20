@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	8	How to pass data in HTTP Header while redirecting a request in Java
+Q2	4	Catch-all servlet filter that should capture ALL HTML input content for manipulation  works only intermittently
+Q3	4	doFilter method on java - null pointer exception on filterchain when session is invalidate
+Q4	3	getSession() always creates a new session
+Q5	3	Character encoding in query string  hebrew
+Q6	2	filter mapping for particular url
+Q7	2	doFilter HttpServletRequest return null
+Q8	2	How to Invoke Servlet and Filter in sequence
+Q9	2	httpServletRequest.getParameter returns null
+Q10	2	how to test whether Struts 1.1 classLoader manipulation fix is working?

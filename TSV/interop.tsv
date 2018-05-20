@@ -1,0 +1,8 @@
+Number	Votes	Question
+Q1	3	Why doesn&#39;t printStackTrace work in Clojure?
+Q2	3	Use Frege List from Java code
+Q3	2	Pointer issues when mapping native C functions to Java interface with JNA
+Q4	2	mixing java and clojure files in a single package
+Q5	2	Prevent JavaFX thread from dying with JFXPanel Swing interop?
+Q6	2	Traits: Interop between Scala and Java  accessing val from Java
+Q7	2	How to convert a Scala Array[Byte] to Java byte[]?

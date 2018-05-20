@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	7	Do errors thrown within UncaughtExceptionHandler get swallowed?
+Q2	5	UncaughtExceptionHandler not catching exception
+Q3	2	Visibility in Java global exception handler

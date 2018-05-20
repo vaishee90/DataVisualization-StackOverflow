@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	5	Integrating JSR-356 WebSocket @ServerEndpoint with Spring 3 beans
+Q2	3	Spring bean instantiation by passing constructor args?
+Q3	2	Using prototype beans defined in a different java-based Spring config file

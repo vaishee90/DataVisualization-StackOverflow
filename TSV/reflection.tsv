@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	21	How can I improve performance of Field.set (perhap using MethodHandles)?
+Q2	19	Reflection type inference on Java 8 Lambdas
+Q3	18	Difference between calling a class constructor and using Class.forName().newInstance
+Q4	7	Generic type in getConstructors() in Class
+Q5	7	getMetaData() throws internal NullPointerException
+Q6	7	How to get generic type information from getAnnotatedParameterTypes() in Java 8?
+Q7	7	Integer.class vs int.class
+Q8	7	Java/Scala reflection: Get class methods in order and force object init
+Q9	7	How to get Method Parameter names in Java 8 using reflection?
+Q10	6	How to make your variable immune to reflection?

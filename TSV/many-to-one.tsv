@@ -1,0 +1,7 @@
+Number	Votes	Question
+Q1	4	missing many-to-one associations in OData Feed (olingo)
+Q2	3	Use of @JoinColumnsOrFormulas and mappedBy
+Q3	3	JPA Composite key with ManyToOne getting org.hibernate.PropertyAccessException: could not set a field value by reflection setter of
+Q4	3	Another entities-cannot-be-cast-to-javassist-util-proxy-proxy
+Q5	2	Creation of entity in JPA which has a joinColumn
+Q6	2	How to describe one to many relationship (JPA/HIbernate)

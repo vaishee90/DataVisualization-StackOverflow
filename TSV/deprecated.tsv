@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	111	Why is Cloneable not deprecated?
+Q2	12	How to avoid deprecation warnings when @SuppressWarnings(&quot;deprecation&quot;) doesn&#39;t work?
+Q3	10	JasperReports 5.6: JRXlsExporter.setParameter is deprecated
+Q4	5	What to use instead of deprecated CellRangeAddress.valueOf in ApachePOI

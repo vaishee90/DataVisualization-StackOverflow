@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	0	Attempt to invoke interface method &#39;void android.bluetooth.IBluetoothPan.setBluetoothTethering(boolean)&#39; on a null object reference

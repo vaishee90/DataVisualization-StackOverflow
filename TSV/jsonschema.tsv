@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	3	How to customize the schema for an entity in Spring Data Rest
+Q2	2	Generating JsonSchema from pojo: how do I add &quot;description&quot; automatically?
+Q3	2	Generating Sample JSON data from JSON Schema
+Q4	2	Generate Avro Schema from certain Java Object

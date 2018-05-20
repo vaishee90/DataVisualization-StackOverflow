@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	432	Update Eclipse with Android development tools v. 23
+Q2	100	Android app in Eclipse: Edit text not showing on Graphical layout
+Q3	96	Is it possible to use Java 8 for Android development?
+Q4	91	Android Studio was unable to find a valid Jvm (Related to MAC OS)
+Q5	87	Cannot create or edit Android Virtual Devices (AVD) from Eclipse  ADT 22.6
+Q6	86	Unfortunately MyApp has stopped. How can I solve this?
+Q7	79	Why doesn&#39;t RecyclerView have onItemClickListener()? and How RecyclerView is different from Listview?
+Q8	70	Android Studio needs JDK 7 for Android-L mac
+Q9	37	NoClassDefFoundError: android.support.v7.internal.view.menu.MenuBuilder
+Q10	35	Android buildscript repositories. jcenter VS mavencentral

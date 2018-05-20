@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	48	Confusing output from String.split
+Q2	27	Why does split in Java 8 sometimes remove empty strings at start of result array?
+Q3	17	What does (?!a){0}? mean in a Java regex?
+Q4	17	Bug in double negation of regex character classes?
+Q5	12	Regular Expression for partial match length - String similarity
+Q6	11	Split string into repeated characters
+Q7	8	Collect HashSet / Java 8 / Regex Pattern / Stream API
+Q8	8	Regex for ONE-or-more letters/digits And ZERO-or-more spaces
+Q9	8	Splitting string with pipe character (&quot;|&quot;)
+Q10	7	confusion in behavior of capturing groups in java regex

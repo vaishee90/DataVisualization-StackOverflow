@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	8	Whats the best way to notify admin about new exceptions of the Java application?
+Q2	6	Can you programmatically alter a queue&#39;s &quot;dead letter&quot; handling in a Java embedded broker?
+Q3	4	How do I verify that a JMS queue exists using Java?
+Q4	4	Spring 4 CachingConnectionFactory with JMS 2.0 doesn&#39;t properly cache Producers
+Q5	4	Error connecting stand-alone Java program to JMS on WildFly server
+Q6	3	JMS Listener fires before Hibernate is setup on Server startup
+Q7	3	How to notify(or send message) swing client from app server(EJB)?
+Q8	3	Creating a reliable JMS client?
+Q9	2	Not getting application context in JMS listner non activity class android
+Q10	2	DefaultMessageListenerContainer: is it possible to cache consumer when using global transactions

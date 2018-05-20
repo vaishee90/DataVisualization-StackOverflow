@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	27	Manipulating an Access database from Java without ODBC
+Q2	10	Manipulating a legacy MDB (Access 2.0) with Java 8
+Q3	3	SQL query returns no result from Java although it returns a result in Access
+Q4	3	resolving invalid cursor state in a for loop
+Q5	3	Jackcess equivalents for simple SQL SELECT statements
+Q6	2	Formatting Dates while using the UCanAccess JDBC driver
+Q7	2	How to create relationship between two tables with UCanAccess?
+Q8	2	Workaround in UCanAccess for multi-value fields: &quot;incompatible data type in conversion: from SQL type OTHER&quot;?
+Q9	2	how to solve the architecture difference proplem while acessing ms-acess with java without changing the bit version of driver or application
+Q10	2	Java Jackcess Find Row by More than one column

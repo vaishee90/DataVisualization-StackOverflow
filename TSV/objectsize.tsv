@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	8	Size of Huge Objects directly allocated to Old Generation
+Q2	3	Why compressed Oops gives 12 bytes for Object Header

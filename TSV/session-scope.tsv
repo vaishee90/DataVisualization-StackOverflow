@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	2	SessionScoped cdi bean injected in filter - not re-inject for different session?

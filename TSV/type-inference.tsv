@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	58	Why does this Java 8 program not compile?
+Q2	9	Java Bounded Generics: Type inference bug? (Method invocation  JLS 15.12.2.7)
+Q3	9	Generic type inference not working with method chaining?
+Q4	7	Why do I need to explicitely give the type arguments when mapping to a Callable&lt;T&gt;?
+Q5	6	Differences in type inference JDK8 javac/Eclipse Luna?
+Q6	6	Type inference limitations with lambda expressions
+Q7	5	Java type inference with lower bounded types
+Q8	5	Invalid method reference for overloaded method with different arities
+Q9	4	Java 8: generic type inference fails on method reference?
+Q10	3	Make java compiler output type inference information

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	25	What is the purpose of using synchronized (Thread.currentThread()){...} in Java?
+Q2	15	Are final fields really useful regarding thread-safety?
+Q3	12	Loop doesn&#39;t see changed value without a print statement
+Q4	6	Java synchronization across objects
+Q5	6	Thread 1 is executing in java synchronized method 1  can Thread 2 then execute in java synchronised method 2?
+Q6	5	Synchronizing on System.out
+Q7	5	Synchronization of methods  objects  class in Java
+Q8	4	Problems again with child processes in Java
+Q9	4	accessing a String across multiple threads
+Q10	4	Memory inconsistency with synchronized mutex

@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	3	Defining a public library interface in Java
+Q2	3	The type java.util.Map$Entry cannot be resolved. It is indirectly referenced from required .class files
+Q3	3	Conversion to Dalvik format failed: Unable to execute dex: method ID not in [0  0xffff]: 65536 in Android
+Q4	2	Dynamic generation of Lexical Analyzers in Java
+Q5	2	How do I know the path for Java import?

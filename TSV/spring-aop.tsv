@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	5	Aspects not getting executed
+Q2	3	Spring @Transactional in an Aspect (AOP)
+Q3	3	How Spring aspects work internally?
+Q4	3	using Spring @Profile in @Aspect
+Q5	3	@DeclareParents annotation in Introductions in Aspect Oriented Programming
+Q6	2	Not sure why Spring aspects aren&#39;t triggering
+Q7	2	Java AOP JoinPoint does not get parameter names
+Q8	2	Spring AOP issue with multi maven project
+Q9	2	DefaultAdvisorAutoProxyCreator causing @Autowired dependencies to remain null
+Q10	2	Customize ServiceLocatorFactoryBean

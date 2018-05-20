@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	4	Including outside variables when serializing an object
+Q2	2	is there a built-in way to detect if a serialized java object is missing fields?
+Q3	2	Serializable ObjecOutputStream object
+Q4	2	Order ArrayList serializable
+Q5	2	Java serializable security over TCP

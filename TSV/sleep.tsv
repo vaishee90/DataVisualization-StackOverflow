@@ -1,0 +1,10 @@
+Number	Votes	Question
+Q1	6	how to identify the mobile is idle?
+Q2	6	if Thread.sleep is static  how does individual thread knows it is put to sleep?
+Q3	3	Thread sleep and precise timing
+Q4	2	Java Thread Random
+Q5	2	Java Thread.sleep() within a for loop
+Q6	2	How do you get to the root cause of a sleep interruption in Java?
+Q7	2	Override Thread.sleep()
+Q8	2	How to create thread safe implementation of sleep method
+Q9	2	Sleeping threads in JAVA

@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	5	Why does a Latin-characters-only Java font claim to support Asian characters  even though it does not?
+Q2	3	Getting FontMetrics StackOverflowError
+Q3	2	List of possible causes / workarounds for broken font metrics in Java? Or do I have to switch to LaTeX?

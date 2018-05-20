@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	6	Passing `Context` everywhere seems messy - create classes to handle different interactions with context?
+Q2	2	Android context choice

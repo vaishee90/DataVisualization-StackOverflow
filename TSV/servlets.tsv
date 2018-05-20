@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	16	What determines number of simultaneous connections
+Q2	12	Unable to fix java.lang.IllegalStateException: Unable to retrieve EntityManagerFactory for unitName
+Q3	10	Java Servlet - Mapping a servlet to every URL but a string
+Q4	9	How can I submit a text field in the POST request that uploads a blob to the Blobstore and retrieve it in the upload handler for the blob?
+Q5	9	Request Dispatcher causing $.get of jQuery to alert the text of the page
+Q6	8	getDispatcherType() is undefined for the type HttpServletRequest
+Q7	8	Redirection or Refresh Page After Zip Download
+Q8	8	Accessing ServletContext and HttpSession in @OnMessage of a JSR-356 @ServerEndpoint
+Q9	7	Getting an iPhone UDID and IMEI from Mobile Safari Using java servlet
+Q10	6	Having issue while downloading a file using content-disposition

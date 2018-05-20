@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	5	main method as final in java
+Q2	5	Why we Pass String array as argument to main() method  why not any collection type or wrapper type or primitive type?
+Q3	4	2 different signatures for main method
+Q4	2	Reason for putting main(String args[]) at the bottom of your code?
+Q5	2	How does Main have access to class?
+Q6	2	Java: Is there any advantage to calling a constructor in main like this?
+Q7	2	Define the main method as: public static void main(String[] args)
+Q8	2	what does static here refer to in java
+Q9	2	&quot;The method main cannot be declared static; static methods can only be declared in a static or top level type&quot;
+Q10	2	Invoking main() method from parent class

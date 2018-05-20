@@ -1,0 +1,8 @@
+Number	Votes	Question
+Q1	4	EJB3.1 System Exceptions vs javax.ejb.EJBException
+Q2	4	When is the stateful session bean destroyed?
+Q3	3	JPA 2 Hibernate mapping with composite key in primary key using @IdClass with 3 tier structure
+Q4	3	Displaying database table on jsp
+Q5	3	Struts2 - Is it possible to access back end method in JSP?
+Q6	2	Create Two Thread Pools for Asynchronous session bean methods in JBoss EAP6?
+Q7	2	What is the difference between @XMLValue and @JsonValue

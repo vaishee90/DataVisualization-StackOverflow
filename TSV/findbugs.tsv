@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	19	Why is it considered bad practice to define a covariant compareTo method?
+Q2	14	How to Set a FindBugs Filter for fields with a specific Annotation?
+Q3	9	Eclipse Errors/Warnings ignore assert in unused variable analysis
+Q4	7	Findbugs not excluding methods in our java application
+Q5	7	GC overhead Limit exceeded while running sonar runner
+Q6	7	FindBugs can&#39;t locate org.apache.bcel.classfile.ClassFormatException
+Q7	6	Using StringUtils.isEmpty without losing compiler warnings about null pointers
+Q8	6	Is there a separate FindBugs plug-in for Android Studio?
+Q9	4	Ensuring Java classes do not import from certain packages
+Q10	4	inconsistent synchronisation violation

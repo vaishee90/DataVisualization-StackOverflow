@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	3	Java Simple Serial Connector (jSSC): getInputBufferBytesCount returns zero
+Q2	3	How to use JAVA to control LED light connecting to PC via USB/SerialPort/etc.? What device should I use?
+Q3	2	Issues with concurrent reads from two serial ports via RxTx in a java application

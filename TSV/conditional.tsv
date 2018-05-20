@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	3	Unexpected behaviour from clojure.java.api.Clojure
+Q2	2	Why does ternary operator fail with a type mismatch error?
+Q3	2	Changing boolean value inside if-statement?

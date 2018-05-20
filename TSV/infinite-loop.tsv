@@ -1,0 +1,10 @@
+Number	Votes	Question
+Q1	64	Infinite loop breaks method signature without compilation error
+Q2	7	How for( ; ;) is infinite loop?
+Q3	4	Looping do...while uncertainty
+Q4	3	Stopping and resuming infinite loop on key input
+Q5	3	Recursion Stack Overflow/Infinite-loop issue
+Q6	2	Why is my code causing an infinite loop?
+Q7	2	Infinite loop in recursion
+Q8	2	Infinite loop on Scanner.hasNext  reading from a file
+Q9	2	Why is this loop becoming infinite when using String.valueOf or Float.toString?

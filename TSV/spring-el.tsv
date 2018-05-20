@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	5	java 8 spring spEL repeatable binding slows each iterations
+Q2	4	why SpEL not support unicode variable ? How to work around?
+Q3	2	Reference list of constants from Spring JSP
+Q4	2	Why is spring.expression.compiler.mode not able to compile the following?
+Q5	2	Spring PropertyPlaceHolder Java Config external properties file
+Q6	2	Spring value injection - if no env variable then default to system property from file
+Q7	2	Pattern matching for properties in a Java-based Spring configuration
+Q8	2	Injection of arbitrary object into Spring bean
+Q9	2	How can I user SpEl to sort a Collection?
+Q10	2	How can localized messages in Thymeleaf be processed using SpEL

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	21	How to compile and run my Maven unit tests for Java 8  while having my code compiled for Java 7
+Q2	16	Mark as failed running too long JUnit tests
+Q3	15	Warning: The method assertEquals from the type Assert is deprecated
+Q4	9	Why does mockito report error on thenReturn() in java 7 but not in java 6
+Q5	8	Intermittent NoClassDefFoundError when running a maven/surefire build in jenkins
+Q6	8	Difference between long.Class and Long.TYPE
+Q7	7	Multiple RunWith Statements in jUnit
+Q8	7	Verify map with custom values
+Q9	7	Mockito swallows up stack trace?
+Q10	6	Hamcrest match empty or null Collection

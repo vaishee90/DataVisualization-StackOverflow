@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	3	Why buildSessionFactory is deprecated in Hibernate and why use ServiceRegistry?

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	9	Scenario where extending thread is preferred than implement Runnable?
+Q2	8	Does the future object returned by executorService.submit(Runnable) hold any reference to the runnable object?
+Q3	5	Quartz job Vs. Thread for immediate one time task
+Q4	3	State of a thread in Java
+Q5	3	What is wrong with this algorithm execution in Java?
+Q6	3	Is there a way to run a java program from within another java program?
+Q7	3	Local field with Thread type in Runnable
+Q8	3	How do the threads share the field variable of the same instance who creates them?
+Q9	3	Is there already a StopWatch class for android and why doesn&#39;t my implementation work?
+Q10	2	Updating the main thread is not working

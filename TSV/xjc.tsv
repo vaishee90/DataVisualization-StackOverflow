@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	7	Suppress compiler warnings on JAXB generated classes
+Q2	5	Generating unique serializable id for each of the generated classes in JAXB
+Q3	4	Is there any way I can specify defaultValue for collections with JAXB?
+Q4	4	XmlAdapter not working correctly with newer version of JAXB
+Q5	3	xjc  maven-jaxb2-plugin: cryptic java.lang.NoSuchMethodException: javax.xml.bind.annotation.XmlElementRef.required()
+Q6	3	XJC - is it extensible?
+Q7	3	JAXB episode compilation with include does not work
+Q8	2	Modify java classes to include specific annotations at compile time
+Q9	2	XJC is generating wrong namespace in package-info.java
+Q10	2	remove under scores in java files generated using xjc command

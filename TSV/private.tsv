@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	31	How is this private variable accessible?
+Q2	10	Why isn&#39;t java.io.Bits public?
+Q3	6	Getter-Setter and private variables
+Q4	5	Javadoc for private/protected methods?
+Q5	4	Changing access to methods without a compilation error
+Q6	4	Why can a &quot;private&quot; method be accessed from a different instance?
+Q7	3	Protect int  only visible to specified methods
+Q8	3	Access to private field of a super class
+Q9	3	Is accessing outer class private variables from private inner class a bad practice?
+Q10	3	private fields in parent class - java

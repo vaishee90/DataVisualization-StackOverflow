@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	6	How to define a shortcut for special keys in Java Swing  e.g. german umlaut key &#196;?
+Q2	4	KeyBindings stuck on actionPerformed()
+Q3	4	How to use Key Bindings instead of Key Listeners
+Q4	3	InputMap for multiple keys
+Q5	3	Java Keyboard input not working using KeyBindings - selfmade rendering engine at fault?
+Q6	3	Why does my key binding fails to work when I click an irrelevant button?
+Q7	3	Why can&#39;t I get KeyEvent.VK_TAB when I use Key Binding for a JPanel
+Q8	2	Listening for a slash keystroke without knowing the modifier key in Swing
+Q9	2	How to get the press and release event of a specified key?
+Q10	2	Place cursor on next line when semi-colon is pressed

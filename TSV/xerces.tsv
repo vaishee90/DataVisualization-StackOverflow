@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	7	Why does Maven choose version 1.0.b2 over 1.3.03
+Q2	2	saxon  maven  and xerces hell
+Q3	2	Java code using Xerces&#39;s getElementsByTagName does not return child node
+Q4	2	getElementByTagName v/s getElementByTagNameNS
+Q5	2	How do I query the version of Xerces at runtime for an app deployed to JBoss 7.2?

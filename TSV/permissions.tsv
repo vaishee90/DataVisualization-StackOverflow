@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	5	How to enforce the custom permission on an Activity in Android?
+Q2	2	Modify SecurityManager
+Q3	2	Sms Permissions not working. No matter where I put the permission tag
+Q4	2	AccessDeniedException on Files.copy from a temporary file in Java NIO2
+Q5	2	Why am I able to retrieve my contacts even without android.permission.READ_CONTACTS?

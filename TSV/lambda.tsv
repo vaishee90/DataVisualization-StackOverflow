@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	60	What does the -&gt; &lt;- operator do?
+Q2	32	How to serialize a lambda?
+Q3	30	Does a lambda expression create an object on the heap every time it&#39;s executed?
+Q4	28	Lambda expression and method overloading doubts
+Q5	27	How to correctly determine that an object is a lambda?
+Q6	22	Java 8: Formatting lambda with newlines and indentation
+Q7	22	Java 8 parallel sorting vs Scala parallel sorting
+Q8	21	Lambdas  multiple forEach with casting
+Q9	21	Lambda behaving differently than anonymous inner class
+Q10	20	Java8: ambiguity with lambdas and overloaded methods

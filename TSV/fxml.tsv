@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	4	label.setText NullPointerException
+Q2	3	Should we use FXML in JavaFX custom controls or not?
+Q3	3	JavaFX UI Controls Architecture (Control+Skin) with FXML
+Q4	2	Java TextArea setText() and appendText() returning Null Pointer Exception
+Q5	2	Java FXML load (Dynamic) from absolute path
+Q6	2	Javafx Donut Chart in FXML
+Q7	2	how to use font awesome in a fxml project (javafx)
+Q8	2	FXML scene builder invalid attribute after filling ComboBox
+Q9	2	What is the secret to set a custom TextArea background?
+Q10	2	JavaFX Image not showing in stage

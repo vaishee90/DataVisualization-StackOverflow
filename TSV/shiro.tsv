@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	5	How to use different unauthorized url for different roles in apache shiro
+Q2	3	Shiro LDAP Authorization config
+Q3	2	Vaadin &amp; Apache Shiro - Session Expired
+Q4	2	Which is the better way to create access policies for a Role in Apache Shiro
+Q5	2	Accessing User session from backend
+Q6	2	Shiro Guice PermissionsResolver
+Q7	2	DefaultAdvisorAutoProxyCreator causing @Autowired dependencies to remain null
+Q8	2	Logout all still-logged-in users from WebApp using Shiro and Spring WebMVC (Java8  Spring 4.x)
+Q9	2	Use Apache Shiro to restrict operation based on owner or admin role
+Q10	2	Java- Retrieving permissions from LDAP for shiro

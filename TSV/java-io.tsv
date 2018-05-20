@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	9	Java FileOutputStream consecutive close takes a long time
+Q2	8	Performance drop upgrading from Hazelcast 2.5 to 3+
+Q3	4	How to read a TIFF file by tiles with Java?
+Q4	3	RandomAccessFile Vs NIO Channel
+Q5	3	Socket server that waits for message from client to read
+Q6	3	Is this a typo in the java tutorials?
+Q7	3	How can I read text from a file in Java with streams of size I choose?
+Q8	3	System.out in DataOutputStream is not printing on the console
+Q9	3	Asking user for multiple input
+Q10	3	preCalculate file stream checksum

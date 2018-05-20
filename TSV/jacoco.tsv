@@ -1,0 +1,8 @@
+Number	Votes	Question
+Q1	8	SonarQube on Java8-project gives jacoco-Exception
+Q2	5	Jacoco - Zero Percent Coverage
+Q3	4	Integrating Sonar  Jacoco  Gradle  ScalaTest with Junit  Java
+Q4	3	SonarQube not accepting externally generated JaCoCo report for IT coverage
+Q5	3	org.sonar.api.utils.SonarException: Can not add twice the same measure on org.sonar.api.resources.File
+Q6	2	&quot;Coverage information was not collected.&quot; when running &#39;gradle sonarRunner&#39; after generating Jacoco reports
+Q7	2	SonarQube does not display detailed report per file for fully covered classes via Gradle

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	5	How to create and connect related resources using Spring Data REST repositories?
+Q2	4	Unable to post new entity with relationship using RestTemplate and Spring Data REST
+Q3	4	spring-data-rest  can you provide full details of entity instead of (or with) link
+Q4	3	How to mix Spring Data Repositories and Spring Rest Controllers
+Q5	3	How to customize the schema for an entity in Spring Data Rest
+Q6	3	Spring Data Rest: Expose new endpoints for Repository that extends Revision Repository
+Q7	3	Spring Data Rest: Detected multiple association links with same relation type
+Q8	3	Spring Data REST Joined Inheritance Issue
+Q9	3	Spring-Data-Rest Validator
+Q10	3	Two Maven Dependency for latest and old version conflicts

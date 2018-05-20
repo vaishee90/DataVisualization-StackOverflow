@@ -1,0 +1,9 @@
+Number	Votes	Question
+Q1	6	How to configure and get session in Hibernate 4.3.4.Final?
+Q2	3	c3p0 maxIdleTime is same as wait_timeout of mysql?
+Q3	2	PostgreSQL connector on OSGi
+Q4	2	Spring 4 and Hibernate 4/c3p0 with Entity Manager don&#39;t start
+Q5	2	java.net.UnknownHostException: Test: Test: unknown error Failed to get local InetAddress for VMID.- spring-jersey 1.8 and c3p0
+Q6	2	Communications link failure during commit(). Transaction resolution unknown
+Q7	2	How is maxIdleTimeExcessConnections different from maxIdleTime in c3p0?
+Q8	2	No operations allowed after connection closed.Connection was implicitly closed by the driver. C3P0

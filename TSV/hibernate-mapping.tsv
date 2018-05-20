@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	6	Hibernate override &quot;lazy=false&quot;
+Q2	4	GlassFish 4.1 + Hibernate 4.3 = Cannot override mapping through orm.xml
+Q3	4	Is it possible using Hibernate or JPA Annotations to limit the items loaded from a @OneToMany mapped collection to a specific size?
+Q4	4	Both key column and map-key are PK
+Q5	4	Mapping a one to many relationship in Hibernate?
+Q6	3	jpa sequence ID generation
+Q7	3	How to move items between collections in Hibernate 4.3.7.Final
+Q8	3	JPA OneToOneToOne mapping
+Q9	3	Difference between @MapKey  @MapKeyColumn and @MapKeyJoinColumn in Hibernate
+Q10	3	Duplicate entry &#39;string1-string2&#39; for key &#39;PRIMARY&#39;

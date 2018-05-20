@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	15	Very confused by Java 8 Comparator type inference
+Q2	11	Misunderstanding about Comparator in java 8
+Q3	6	Passing an instance of Comparable to a method that expects a Comparator
+Q4	5	java.util.Comparator.naturalOrder takes a &lt;T extends Comparable&lt;? super T&gt;&gt; and returns a Comparator&lt;T&gt; - why?
+Q5	4	Java - how to sort object in many ways: Arrays.sort()  Comparable&lt;T&gt;
+Q6	4	Cannot use static List&lt;String&gt; within Comparator&lt;String&gt;
+Q7	4	Comparable not sorting object
+Q8	4	Alternative to using TreeSet in java?
+Q9	3	Printing arraylist into output file?
+Q10	3	How to implement a Comparator to compare names?

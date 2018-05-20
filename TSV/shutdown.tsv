@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	4	Differentiate shutdowns more than Runtime.setShutdownHook() in Java
+Q2	2	Tomcat shutdown: class loading during contextDestroyed does not work

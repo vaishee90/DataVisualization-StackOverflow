@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	7	How do I securely handle and zero key material buffers on the JVM?
+Q2	7	AES-NI intrinsics enabled by default?
+Q3	7	SecureRandom.getInstance(&quot;SHA1PRNG&quot;  &quot;SUN&quot;) always blocking while new SecureRandom() is not?
+Q4	6	Repetitive usage of Java&#39;s SecureRandom
+Q5	5	Bouncy Castle DSA with SHA1 signature verification
+Q6	4	Python AES decryption
+Q7	4	How to manage secret Key in java
+Q8	4	Extend Java 6 with TLSv1.1 support
+Q9	4	Java BouncyCastle ECC Keys and Self Signed Certificates
+Q10	4	Are there any system certificates storages on Android?

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	5	Java program (class &gt; .jar) as a Unix shell (in place of sh/bash)?
+Q2	4	Invoking shell script contains SSH from java
+Q3	3	rendering the US unit separator on unix machine
+Q4	2	Enable scripting mode for nashorn in java
+Q5	2	Installing  Configuring  and running Hadoop 2.2.0 on Mac OS X
+Q6	2	Getting Exceptions from logs on *nix using sed/awk/whatever
+Q7	2	sending command to terminal from java with space in it
+Q8	2	Shell command not executed
+Q9	2	Losing java main args when using getopts in launch script
+Q10	2	Unable to send paramaters to bash script from java

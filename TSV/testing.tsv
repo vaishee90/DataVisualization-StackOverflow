@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	7	Jackson ObjectMapper using custom Serializers and Deserializers
+Q2	6	How can this loop ever exit?
+Q3	4	Dropwizard Integrated Testing with TestResource
+Q4	4	How to mock AMQP consumers in Camel testing?
+Q5	4	PhantomJS and Selenium Webdriver - How to clear session
+Q6	4	REST API integration tests with java/scala/groovy
+Q7	3	How to quickly test a Java-method in Eclipse?
+Q8	3	Spring Mock mvc rest-assured test fails to get status
+Q9	3	Mockito: How to identify unused .when() in Tests
+Q10	3	Is this an Integration Test or a Unit Test?

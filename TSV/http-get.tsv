@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	3	HttpGet get = new HttpGet(url); giving exceptions
+Q2	2	JAX-WS service with HTTP-GET with status 200

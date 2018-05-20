@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	12	Android - Is it bad practice to have multiple Shared Preferences?
+Q2	4	Best Practice: SharedPreferences
+Q3	3	GSON is deprecated. Which one we can use to serialize and deserialize Java objects to and from JSON?
+Q4	2	Android: Storing ArrayList&lt;T&gt; in SharedPreferences?
+Q5	2	Android: Using SharedPreferences with a Tab Layout
+Q6	2	Store ArrayList&lt;CustomClass&gt; into SharedPreferences
+Q7	2	Android App - sharedpreferences not loading properly
+Q8	2	is it better to overwrite data in memory or to read first for checking
+Q9	2	singleton shared preferences issue
+Q10	2	How to retrieve data stored with Shared Preference in MainActivity class to SplashScreen activity class?

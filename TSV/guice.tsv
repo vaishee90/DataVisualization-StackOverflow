@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	9	Defining a custom maven lifecycle with JSR-330
+Q2	5	Google Guice - have the same erasure - compilation error after java upgrade from v6 to v7
+Q3	4	How should a custom Guice scope be integrated with TestNG?
+Q4	4	jpa2 reuses entityManager with guice
+Q5	4	Dependency injection using guice for a client sdk/library design pattern
+Q6	4	Atmosphere + Jersey: How do I have multiple broadcasters?
+Q7	3	guice: automate binding of generic classes
+Q8	3	Guice - accessing original value from within override
+Q9	3	Guice - create binding to java.lang.class
+Q10	3	Configuring a Provider that returns a generic type in Guice

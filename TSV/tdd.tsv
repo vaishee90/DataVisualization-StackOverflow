@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	4	Unit Testing Coverage and testing large components
+Q2	3	How to implement a complex algorithm with TDD
+Q3	3	Why/how does JUnit pass tests with compiler errors?
+Q4	2	In a pure TDD scenario  when is it an appropriate choice to choose a framework/technology
+Q5	2	Comparator not sorting properly
+Q6	2	Testing an abstract page class in wicket
+Q7	2	Using TDD to develop file traversing code in Java
+Q8	2	How to validate a boolean method using test driven development approach?
+Q9	2	TDD in application with long launch time
+Q10	2	Unit test contains instances of other classes not only mocks

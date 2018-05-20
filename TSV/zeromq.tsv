@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	10	How to synchronize data amongst devices in Wi-Fi
+Q2	2	How to send byte array to socket using ZeroMQ?
+Q3	2	Can ZeroMQ be used by two JVM processes to communicate on same machine?

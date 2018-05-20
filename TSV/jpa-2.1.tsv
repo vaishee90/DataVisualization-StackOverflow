@@ -1,0 +1,10 @@
+Number	Votes	Question
+Q1	13	JPA support for Java 8 new date and time API
+Q2	4	JPA &amp; enum table (aka &quot;the one true lookup table&quot;)
+Q3	3	how to set ForeignKey name when I have @ManyToMany
+Q4	3	JPA 2.1 Foreign Key isn&#39;t saving on ManyToOne cascade
+Q5	3	JPA 2.1 Entity graph&#39;s subgraphs generating empty joins
+Q6	2	How not to roll back previous methods persist data?
+Q7	2	JPA 2.1 converters based on multiple attributes
+Q8	2	What does &quot;portable application&quot; mean?
+Q9	2	Java mapping json to two objects

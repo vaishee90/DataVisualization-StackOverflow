@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	0	Is there a way to access the target bean from within a Bean Validation field-level ConstraintValidator?

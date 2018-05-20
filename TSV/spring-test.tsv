@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	2	NullPointerException thrown on Spring object injection with @Autowired
+Q2	2	Unit Test using the DomainClassConverter feature of Spring
+Q3	2	Spring test: How to default configuration to @AnnotationDriven?

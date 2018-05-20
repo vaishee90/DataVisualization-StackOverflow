@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	4	How we can create `notify()` method in object?
+Q2	3	Socket server that waits for message from client to read
+Q3	3	Why does it matter what object I use wait()/notify() on  if I just want a way to signal between threads?
+Q4	3	Does the waiting thread revisit the code inside synchronized method
+Q5	3	Selenium: Waiting for an element do disappear
+Q6	3	Waiting for an object to be initialized
+Q7	3	Spurious wakeups on windows. Is it possible?
+Q8	2	Java wait - synchronized in/outside while loop
+Q9	2	Java Security Option to prevent Thread.sleep(...) invocation
+Q10	2	ffmpeg won&#39;t start until java exits

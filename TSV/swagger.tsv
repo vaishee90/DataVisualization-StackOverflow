@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	4	How to make Swagger recognize @XmlTransient (e.g. not ignore it)
+Q2	4	Messy REST annotations
+Q3	4	How to get Swagger UI&#39;s Parameter to be Dropdown menu instead of Text Input
+Q4	4	Unable to link Swagger-ui to my swagger Spring mvc project
+Q5	3	Why does swagger annotations generate api-docs with default path prefix
+Q6	3	Swagger-core Scala dependencies excessive size
+Q7	3	Sort API methods in Swagger-UI
+Q8	3	Swagger Spring-MVC description parameter not honored from @Api annotation
+Q9	3	Enum in swagger
+Q10	2	Does Swagger also work with Jersey 2.x?

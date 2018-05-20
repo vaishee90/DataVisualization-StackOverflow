@@ -1,0 +1,9 @@
+Number	Votes	Question
+Q1	6	Lombok alternatives for clear code without getters/setters/toString/constructors
+Q2	5	Lombok annotations do not compile under Intellij idea
+Q3	3	Which is the proper Gradle plugin to support &#39;provided&#39; method?
+Q4	3	sonarqube 4.2 and lombok
+Q5	3	Using an Annotation Processor to create a list of classes with a certain annotation
+Q6	2	Modify java classes to include specific annotations at compile time
+Q7	2	Sonar &quot;Singular Field&quot; rule contradicts lombok-getter
+Q8	2	Automatically lombokifying a project

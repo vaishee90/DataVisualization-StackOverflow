@@ -1,0 +1,7 @@
+Number	Votes	Question
+Q1	8	Java 1.7 + JSCH: java.security.InvalidKeyException: Key is too long for this algorithm
+Q2	3	How to select network interface when connecting to SFTP with JSch
+Q3	3	How to secure SFTP password in APK?
+Q4	2	Java application needs exclusive access to file being delivered by sftp
+Q5	2	Java8 + Jcraft = Key is too long for this algorithm
+Q6	2	Mule SFTP endpoint fails to open local file

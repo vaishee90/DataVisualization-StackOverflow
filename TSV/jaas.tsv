@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	7	Java EE Security: JASPIC / JAAS or apply a Security Framework? (Glassfish 3)
+Q2	3	How to programatically set up/chain JAAS login realms as if loaded from a login.conf?
+Q3	2	j_security_check only works on fresh page
+Q4	2	Subject.toString() returns the list of principals but no the authenticated user name
+Q5	2	Spring Security JAAS Authentication Authorization Issue

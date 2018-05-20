@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	3	How to effectively use a String as a WeakHashMap key in Java  or an alternative solution
+Q2	2	Java Can I guarantee that WeakHashMap entry will not disappear after check

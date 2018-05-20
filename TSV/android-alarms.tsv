@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	3	PendingIntent and AlarmManager
+Q2	3	AlarmManager skips alarms set using set() / setExact() in a 48hrs+ cycle
+Q3	2	Can I set an end time for AlarmManager in Android?
+Q4	2	Android alarm manger with fixed date and repetitive

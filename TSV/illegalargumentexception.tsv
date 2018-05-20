@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	4	Correct usage of IllegalArgumentException
+Q2	4	IllegalArgumentException Surface.nativeLockCanvas   Choreographer  BufferQueue
+Q3	3	JToolBar IllegalArgumentException when dropped back into GridBagLayout
+Q4	2	Why does AudioSystem.getAudioInputStream() throw IllegalArgumentException
+Q5	2	Collections.sort() works  but Collections.reverseOrder() breaks

@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	0	NullpointerException at com.github.dandelion.datatables.core.configuration.Configuration.applyConfiguration only on Tomcat 8 (works fine on Tomcat 7)

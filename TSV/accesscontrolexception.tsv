@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	2	Java Code Applet Error: java.security.AccessControlException: access denied (&quot;java.io.FilePermission&quot; &quot;MyFile.txt&quot; &quot;read&quot;)

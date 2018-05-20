@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	11	What is the best algorithm for matching two string containing less than 10 words in latin script
+Q2	6	Lucene can&#39;t find documents after update
+Q3	6	Elasticsearch and luke
+Q4	6	very slow highlight performance in lucene
+Q5	5	Diminutive words stemming / lemmatization
+Q6	5	What does percolator mean/do in elasticsearch?
+Q7	4	Automated vs Custom Lucene Scoring
+Q8	4	PyLucene error with IceTea / JDK / JRE
+Q9	4	Testing a Solr distributed component
+Q10	3	Hibernate search / lucene search in multiple fields child collections

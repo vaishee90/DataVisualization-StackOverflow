@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	6	Why is there BigInteger(String) but no BigInteger(long)?
+Q2	6	Why do I need a FactorySupplier?
+Q3	5	Factory pattern to create Exceptions dynamically
+Q4	4	Is the Factory Method Pattern more flexible than Simple Factory?
+Q5	4	Static Factory: Java Design Issue
+Q6	4	Understanding Abstract Factory pattern
+Q7	3	What is the most effective way of writing a factory method?
+Q8	3	Java: Best practices on how to inherit factory methods from base classes
+Q9	2	Java Abstract Factories and Singletons
+Q10	2	How to implement a builder class using Generics  not annotations?

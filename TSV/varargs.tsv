@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	13	Small issue with varargs
+Q2	13	Abstract methods and the varargs annotation
+Q3	12	Java Bug with ambiguous methods using varargs?
+Q4	8	How can one explain this seemingly inconsistent Java varargs behavior?
+Q5	6	Is T... (generics vararg parameter) really stripped down to Object[] at compile time?
+Q6	5	Why won&#39;t Java pass int[] to vararg?
+Q7	5	Java method params: var args vs array
+Q8	5	How does java.util.Arrays.asList(T...) work?
+Q9	4	scala/java incompatibility: overloaded methods with varargs
+Q10	4	Varargs of type Class in Java

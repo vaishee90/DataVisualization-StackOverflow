@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	6	Ideas to avoid doing a trick on CyclicBarrier
+Q2	5	How to perform short-circuit evaluation in Java on two parallel threads that return boolean values?
+Q3	4	Thread.interrupt is not called when using ExecutorService
+Q4	4	Does awaitTermination in ExecutorService &quot;happens-before&quot; any code executed after it?
+Q5	3	Are there any disadvantages of using a thread pool?
+Q6	3	Java fixed size Thread Pool and optimal usage of all CPU cores
+Q7	3	Where to close connection/file/logs with multiple threads?
+Q8	3	Design pattern to guarantee only one Runnable object of particular id value is being executed by the pool
+Q9	2	ExecutorService awaitTermination method not performing as expected
+Q10	2	How to handle high thread usage because of multiple AJAX requests in WebSphere

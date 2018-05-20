@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	5	SwingUtilities.invokeLater takes Runnable object and makes into EDT?
+Q2	4	Swing application initialization and loading screen approach
+Q3	3	When is the Swing UI thread created?
+Q4	3	When am I supposed to use javax.swing.SwingUtilities.invokeLater()?
+Q5	3	javax.swing.Timer vs java.util.Timer inside of a Swing application
+Q6	3	Should non-Swing code be executed on non-EDT threads?
+Q7	3	Java Swing Thread Safety and EDT
+Q8	2	paintComponent() gets called only when Minimizing-Maximizing Screen
+Q9	2	Why would SwingUtilities.invokeLater be throwing a NullPointerException?
+Q10	2	JLabel.setText() is only setting text for last element in a loop

@@ -1,0 +1,7 @@
+Number	Votes	Question
+Q1	8	Spring 4.0.0 basic authentication with RestTemplate
+Q2	3	Trying to get back the JasperPrint as return Type form Server
+Q3	3	Get list of JSON objects with Spring RestTemplate
+Q4	2	How to use Spring`s RestTemplate to POST an array of strings
+Q5	2	Using RestTemplate with local json file
+Q6	2	SimpleClientHttpRequestFactory vs HttpComponentsClientHttpRequestFactory for Http Request timeout with RestTemplate?

@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	6	Securing a Thrift server aginst the POODLE SSL vulnerability
+Q2	4	Convert an object to a JSON string with thrift json serialization
+Q3	2	Hiveserver2 not responding

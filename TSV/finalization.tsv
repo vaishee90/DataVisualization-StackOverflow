@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	3	How is an object marked as finalized in Java (so that the finalize method wouldn&#39;t be called the second time)?

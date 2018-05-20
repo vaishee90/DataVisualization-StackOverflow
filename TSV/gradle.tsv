@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	37	Gradle finds wrong JAVA_HOME even though it&#39;s correctly set
+Q2	35	Android buildscript repositories. jcenter VS mavencentral
+Q3	25	IntelliJ does not terminate Spring Boot applications build with gradle
+Q4	25	&quot;aapt&quot; IOException error=2  No such file or directory&quot; why can&#39;t I build my gradle on jenkins?
+Q5	23	After upgrading to Gradle 2.0: Could not find property &#39;Compile&#39; on root project
+Q6	21	After update - crash com.google.android.gms:play-services:5.2.8
+Q7	13	ClassCastException: ApiVersionImpl cannot be cast to java.lang.Integer
+Q8	13	Transitive dependencies not resolved for aar library using gradle
+Q9	9	Debugging a gradle-based Java project on Android Studio?
+Q10	9	Gradle dependencies resolving suddenly extremely slow

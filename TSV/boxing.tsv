@@ -1,0 +1,7 @@
+Number	Votes	Question
+Q1	7	Java interoperability woes with Scala generics and boxing
+Q2	4	Does the JVM optimize unnecessary autoboxing?
+Q3	3	How do I get an IntStream from a List&lt;Integer&gt;?
+Q4	2	check if int in list of specified enum values using Arrays.asList
+Q5	2	Why are some methods using the Boolean class and not the primitive type?
+Q6	2	FindBugs: Suspicious comparison of Double references

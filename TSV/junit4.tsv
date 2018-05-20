@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	9	Mocking Method that Takes a Class&lt;?&gt; Type Argument with JMock
+Q2	5	Is there a good way to engage the initialization of a test suite when running an individual test case?
+Q3	5	Maven surfire tests reusefork vs parallel
+Q4	4	Bad type on the operand stack in arraylength
+Q5	4	How do I match a Class&lt;?&gt; against a specific Class instance in a Hamcrest Matcher?
+Q6	4	Pattern for configuring @BeforeClass and @Before Methods
+Q7	3	JUnit runs test several times
+Q8	3	Can we call EasyMock.expect() on plain java object?
+Q9	3	JUnit NoClassDefFoundError on org.junit.Assert itself
+Q10	3	unable to resolve static method junit assert

@@ -1,0 +1,10 @@
+Number	Votes	Question
+Q1	5	Bouncy Castle DSA with SHA1 signature verification
+Q2	4	Can tomcat be configured to only load signed jars
+Q3	3	Using digital signature to secure QR code
+Q4	2	Embed signature in file with java
+Q5	2	Retrieving subject/CN field from a certificate?
+Q6	2	Signing a Text in Java Using a (.PFX) Certificate Generated Under Windows
+Q7	2	Elliptic Curve on Java Card - is it possible to use external libraries on Java Card?
+Q8	2	How to test if byte[] is a SHA512withRSA signature?
+Q9	2	Implement Digital Signature in Client /Web Server Architecture

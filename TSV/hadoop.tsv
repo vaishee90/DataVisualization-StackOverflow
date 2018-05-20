@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	16	Error on running multiple Worlflow in OOZIE-4.1.0
+Q2	14	Redux: How do I get Jython to use Python modules stored in Lib within its own jar file when running in Hadoop?
+Q3	10	How to run a spark java program
+Q4	7	To Create udf in pig for image processing
+Q5	7	HBase region server cannot connect with master
+Q6	7	How to run HBase in distributed mode on windows without cygwin?
+Q7	6	Running Hadoop MR jobs without Admin privilege on Windows
+Q8	6	what difference between execute a map-reduce job using hadoop and java command
+Q9	6	Yarn MapReduce Job Issue - AM Container launch error in Hadoop 2.3.0
+Q10	5	How do I get last modified date from a Hadoop Sequence File?

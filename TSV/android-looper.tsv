@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	3	How to call getLooper() on main Thread?
+Q2	2	HandlerThread.getLooper() blocks indefinitely

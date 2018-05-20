@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	45	JIT not optimizing loop that involves Integer.MAX_VALUE
+Q2	24	How is ArrayOutOfBoundsException possible in String.valueOf(int)?
+Q3	22	JVM 8 exit code -559038737 (0xDEADBEEF)
+Q4	15	How can I write code to hint to the JVM to use vector operations?
+Q5	10	Java8 metaspace &amp; heap usage
+Q6	9	How can I determine why the Hotspot JVM decided to re-compile already JIT:ed code a second time?
+Q7	7	Is inheriting from a primitive array impossible from the JVM&#39;s perspective?
+Q8	7	How do I disable Java stack frame optimizations  or profile stacks using system profilers?
+Q9	7	AES-NI intrinsics enabled by default?
+Q10	7	Does Sun&#39;s HotSpot JIT compiler automatically apply &quot;final&quot; to Java local variables?

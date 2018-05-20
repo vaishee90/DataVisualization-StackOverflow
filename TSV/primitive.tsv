@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	33	Do uninitialized primitive instance variables use memory?
+Q2	30	Fastest way to check if a byte array is all zeros
+Q3	19	Why is this method overloading ambiguous?
+Q4	5	char and byte with final access modifier - java
+Q5	5	Why the maxValue + 1 of an int is the same as maxValue  but not for shorts and bytes?
+Q6	5	Changing static variable works Primitive Wrapper but not with Primitive type
+Q7	5	Why is assigning &#39;int constant -&gt; byte variable&#39; valid  but &#39;long constant -&gt; int variable&#39; is not?
+Q8	5	Understanding Java data types
+Q9	4	Round down floating point conversion in java
+Q10	4	java function that work with objects and primitives

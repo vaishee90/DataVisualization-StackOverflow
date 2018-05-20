@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	3	Run unit tests only on Windows
+Q2	2	Log4j appender for debug output if test fails

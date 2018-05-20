@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	4	What&#39;s the best way to asynchronously handle low-speed consumer (database) in high performance Java application
+Q2	2	Store and Process Messages in ActiveMQ
+Q3	2	Compare Opaque or Transactional Kafka spout
+Q4	2	Can Axon guarantee a synchronous end-to-end request cycle using a DistributedCommandBus and a Clustering Event Bus?
+Q5	2	Handle reconnection/retries using Lyra-style in Spring AMQP

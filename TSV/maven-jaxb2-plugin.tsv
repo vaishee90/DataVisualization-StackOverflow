@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	4	How can I generate classes from XSD that includes another XSD
+Q2	4	XmlAdapter not working correctly with newer version of JAXB
+Q3	3	xjc  maven-jaxb2-plugin: cryptic java.lang.NoSuchMethodException: javax.xml.bind.annotation.XmlElementRef.required()
+Q4	3	xsd import from different project  generate java class
+Q5	3	JAXB episode compilation with include does not work
+Q6	2	jaxb  wsdl file  duplicated classes
+Q7	2	jaxb  xsd import not recognized
+Q8	2	JAXB marshalling CDATA with Maven plugin
+Q9	2	maven-jaxb2-plugin VS jaxb2-maven-plugin for multiple schemas
+Q10	2	JAXB: How to generate English Javadoc

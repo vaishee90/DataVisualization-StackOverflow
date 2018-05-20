@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	4	Why &quot;\\r\\n&quot;.split(&quot;\\r\\n&quot;) returns an empty array?

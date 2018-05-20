@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	2	User session closed after 20 minutes
+Q2	2	Logout all still-logged-in users from WebApp using Shiro and Spring WebMVC (Java8  Spring 4.x)
+Q3	2	Define custom events/actions/requests for resetting timer for Session Timeout in Java Web App?
+Q4	2	Reset max inactive interval - tomcat

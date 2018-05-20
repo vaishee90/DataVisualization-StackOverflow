@@ -1,0 +1,8 @@
+Number	Votes	Question
+Q1	5	Why won&#39;t PhantomJSDriver use the capabilities I set?
+Q2	4	java.security.AccessControlException: access denied (&quot;java.net.SocketPermission&quot; &quot;localhost:10648&quot; &quot;listen resolve&quot;)
+Q3	4	How to get java class in CF
+Q4	4	PhantomJS and Selenium Webdriver - How to clear session
+Q5	4	PhantomJS to screenshot website div for Spring MVC  Tomcat and iText use
+Q6	2	how to resolve java.net.SocketPermission
+Q7	2	Obtain status code returned by PhantomJS to Selenium driver

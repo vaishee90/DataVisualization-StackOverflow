@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	10	jersey 2: How to create custom HTTP param binding
+Q2	9	JAX-RS HATEOAS Using Jersey  Unwanted Link properties in JSON
+Q3	9	How to use Asynchronous Callbacks in Jersey 2 in tomcat 7
+Q4	4	Is it correct to return 404 when a REST resource is not found?
+Q5	4	Jersey not obeying response media type rules from @Produces
+Q6	4	NoClassDefFoundError ProcessingException while migrating from jersey 1.x to jersey 2.x ( 2.8 )
+Q7	4	What is the purpose of including the jersey-bom import scoped dependency in a jersey project?
+Q8	4	Migrating from Spring-Jersey 1.x to 2.x
+Q9	3	Performance degradation after moving to jersey 2
+Q10	3	JAX-RS Response Object displaying Object fields as NULL values

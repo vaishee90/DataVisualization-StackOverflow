@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	3	RPC over STOMP using Spring  and correctly handling server side errors propagated to clients
+Q2	2	Does RMI guarantee the order of execution?
+Q3	2	Design pattern for a client Server app

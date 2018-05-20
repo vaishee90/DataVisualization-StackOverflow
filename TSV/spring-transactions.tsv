@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	5	Rollback Spring JDBC operation when not in transaction
+Q2	5	Does it matter where I place noRollbackFor?
+Q3	3	What is the scope of @EnableTransactionManagement?
+Q4	3	Best practices in transaction rollback support in Spring 3
+Q5	3	Spring Global transaction vs Local transactiopn
+Q6	2	Spring Transactional method not work on seperated Thread
+Q7	2	Using @Transactional annotation for hibernate application resulting in error
+Q8	2	Spring @Transactional doesn&#39;t work for an annotated method when called from within service class
+Q9	2	Spring @Transactional is not working
+Q10	2	Alternative of @Transactional annotation

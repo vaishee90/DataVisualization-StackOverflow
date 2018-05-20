@@ -1,0 +1,7 @@
+Number	Votes	Question
+Q1	5	GCM CCS server implementation not receiving upstream messages
+Q2	4	GCM - Could not post JSON requests to GCM after 6 attempts
+Q3	2	Broadcast Receiver can not receive Google Cloud Messaging
+Q4	2	App Engine: Endpoints not updated
+Q5	2	Cant receive notifications from GCM
+Q6	2	GCM CCS (XMPP) implementation in JAVA using smack library. Connection failed with gcm.googleapis.com

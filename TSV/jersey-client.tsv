@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	3	Jersey client with ignore ssl with proxy setting
+Q2	3	Rest client java.net.ConnectException: Connection timed out: connect
+Q3	2	Jersey 2.14: how to receive and parse multipart mime using custom MessageBodyReader
+Q4	2	Request right after Response?
+Q5	2	wadl2java generated client throws UniformInterfaceException on successful posts and puts
+Q6	2	Error while using jersey-client in osgi - No generator was provided
+Q7	2	Make Jersey response from entity of another Jersey response
+Q8	2	Jersey Client: Sending trailers in HTTP request with chunked transfer
+Q9	2	NewCookie.getMaxAge() always returns -1
+Q10	2	PATCH request using Jersey Client

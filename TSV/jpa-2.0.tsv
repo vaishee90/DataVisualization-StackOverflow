@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	5	Spring-Data FETCH JOIN with Paging is not working
+Q2	4	jpa2 reuses entityManager with guice
+Q3	3	JPA2: create-or-extend-tables is not extending existing table with new column
+Q4	3	JPA2 Optimistick Lock
+Q5	3	JPA2 Criteria Accent-insensitive without database dependency
+Q6	3	JPA @Version overflow
+Q7	3	JPA Inheritence IdClass Location best practice
+Q8	2	Criteria API: filter by class type
+Q9	2	Selecting multiple objects by id using JPA and ObjectDB?
+Q10	2	Spring multiple PersistenceContexts

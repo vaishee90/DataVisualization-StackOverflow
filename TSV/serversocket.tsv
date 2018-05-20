@@ -1,0 +1,10 @@
+Number	Votes	Question
+Q1	4	Check for socket in use when there are multiple interfaces
+Q2	3	How exactly does a ServerSocket behave in these scenarios?
+Q3	3	InetAddress.getByName returning wrong IP address
+Q4	3	Java - closing a ServerSocket without Exceptions?
+Q5	2	How to secure a ServerSocket so that other processes cannot use it?
+Q6	2	ServerSocket.close(). When does it throw an exception?
+Q7	2	I get an unexpected error in Java Socket
+Q8	2	get IP from socket connect from localhost in java
+Q9	2	Keep Socket Server open for multiple uses?

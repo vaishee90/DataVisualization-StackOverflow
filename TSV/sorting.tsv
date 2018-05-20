@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	19	Sorting a List in parallel without creating a temporary array in Java 8
+Q2	15	Very confused by Java 8 Comparator type inference
+Q3	11	How to sort a collection of points so that they set up one after another?
+Q4	11	Reorder four points of a rectangle to the correct order
+Q5	10	Lexicographic minimum permutation such that all adjacent letters are distinct
+Q6	8	Why is my bottom-up merge sort so slow in Java?
+Q7	7	How to sort an array of objects containing null elements?
+Q8	7	How to sort strings such that values with extra information appear first?
+Q9	7	Arrays.sort() -- two different strategies for primitive &amp; complex data types to be sorted
+Q10	6	Why does Java 8 have Arrays.parallelSort() but not Collections.parallelSort()?

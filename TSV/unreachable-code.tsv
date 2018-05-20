@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	6	Why does not java detect unreachable catch block if I use multiple catch blocks?
+Q2	4	When does the condition &quot;Unreachable Code&quot; occur in Java?
+Q3	4	Why Java identifies unreachable code only in case of while loop?
+Q4	2	Can a java compiler optimize this code away?

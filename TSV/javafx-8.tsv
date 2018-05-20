@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	21	JavaFX 8 Memory leak when Hiding Stage
+Q2	16	ObservableList: how to reliably detect a setAll?
+Q3	11	JavaFX 8 swing compatibility
+Q4	8	JavaFX. Set different icons for the title bar and the operating system task bar
+Q5	7	Table control with sliding row headers in JavaFX
+Q6	7	Transparent background of a textarea in JavaFX 8
+Q7	6	JavaFX&#39;s task seem to consume exceptions. Is it a bug or a feature?
+Q8	6	Add touch gestures to legacy swing application
+Q9	5	Why does Platform.runLater not check if it currently is on the JavaFX thread?
+Q10	5	Is JavaFX 8 going to implement text field validation support?

@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	3	Clip plays WAV file with bad lag in Java
+Q2	2	Why does AudioSystem.getAudioInputStream() throw IllegalArgumentException
+Q3	2	randomly thrown LineUnavailableException

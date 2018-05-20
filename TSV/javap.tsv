@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	3	Why javac produces different byte code for two seemingly very similar constructs?
+Q2	3	Missing instruction numbers in javap output
+Q3	2	Why the call to the parent constructor is not the first call in the compiler generated constructor for Inner class?

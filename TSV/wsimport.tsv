@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	5	Generating unique serializable id for each of the generated classes in JAXB
+Q2	3	JAXBElement.getValue() is returning null
+Q3	2	In Java 8  MyServicePort.java class is missing when generating java classes by using wsimport
+Q4	2	JDK8 not working with JDK8 (WS client)

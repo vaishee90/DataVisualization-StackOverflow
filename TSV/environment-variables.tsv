@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	37	Gradle finds wrong JAVA_HOME even though it&#39;s correctly set
+Q2	5	Maven command line arguments environment variable
+Q3	4	&quot;Could not find or load main class&quot; Error while running java program using cmd prompt
+Q4	4	Why doesn&#39;t Oracle&#39;s JDK (8  7 and lower?) take LC_* environment variables into account?
+Q5	3	log4j template file for multiple environments
+Q6	3	Resolving system environment variable using Spring Expression Language
+Q7	3	How to use system environment variables in log4j.properties?
+Q8	2	Have maven build different artifacts in different environment
+Q9	2	Switching between different JDK versions in Windows
+Q10	2	Jenkins plugin development - environment variables

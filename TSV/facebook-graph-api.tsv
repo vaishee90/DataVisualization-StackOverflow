@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	12	Android error randomly java.lang.NoClassDefFoundError: com.facebook.internal.Utility
+Q2	6	Login with Facebook in java From Desktop Removing Permission box
+Q3	4	failing to do fb like to postId I have just shared successfully
+Q4	3	Take comments from a post with facebook4j
+Q5	3	Facebook Graph API: querying /me/photos works fine  but /me/photos?limit=100 returns an error
+Q6	3	fail to publish a facebook like from my android app to a given postId
+Q7	3	Facebook friend picker SDK sample not working Android
+Q8	3	Received Facebook error response of type OAuthException: An unexpected error has occurred. Please retry your request later. (code 2  subcode null)
+Q9	2	Is there a way to integrate facebook onto an app and share images?
+Q10	2	How to extract a value from a facebook invite friends onComplete() response

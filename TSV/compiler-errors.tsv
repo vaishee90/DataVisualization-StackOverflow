@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	22	Java ternary operator influence on generics type inference
+Q2	13	Why can&#39;t I define a variable inside a for loop in this way?
+Q3	9	Java Bounded Generics: Type inference bug? (Method invocation  JLS 15.12.2.7)
+Q4	5	This convoluted generics pattern crashes Eclipse - can I make it work?
+Q5	4	Why does this compile in Java7 and does not in Java8?
+Q6	4	Why can&#39;t I set a Double object equal to an int? - Java
+Q7	3	Variable not initialized in try catch block `finally`
+Q8	3	Java : Implicit cast of Object at compile-time doesn&#39;t work but work with reflection
+Q9	3	Access to final field via getter before its initializing
+Q10	3	Private helper method to capture wildcard type for generic methods

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	8	Best practices with Akka in Scala and third-party Java libraries
+Q2	5	Does Akka&#39;s event bus guarantee message order?
+Q3	5	How to test that Actor Foo sends messages to newly created child actors Bar?
+Q4	5	How send messages to akka system in neighbouring jvm?
+Q5	5	Best practices for dealing with exceptions in Akka actors
+Q6	4	Akka Design Principals
+Q7	4	Concurrent email processing (without spamming)
+Q8	4	Naming conventions for Akka messages and actors
+Q9	4	Lightweight threads in Akka
+Q10	3	Akka: Get total number of actors

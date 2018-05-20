@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	9	EOFException in Retrofit while executing synchronous PUT requests
+Q2	9	Get nested JSON object with GSON using retrofit
+Q3	5	Using Retrofit in Android
+Q4	5	Android Tests: Stubbing out Retrofit with Mockito
+Q5	4	Retrofit connection failure returns RetrofitError.response as null
+Q6	4	Using Retrofit to access JSON arrays
+Q7	3	405 Method Not Allowed with Spring
+Q8	3	Using Gson to elegantly handle nested json objects?
+Q9	3	Running Android app produces java.lang.NoClassDefFoundError: retrofit.RestAdapter$Builder
+Q10	3	Custom gson deserializer for Date never gets called

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	19	Generics List&lt;String&gt; and List&lt;Integer&gt; not behaving as expected
+Q2	12	Java iterate over ArrayList with HashMap in it
+Q3	8	Java List.clear() vs. List = null
+Q4	8	Find the combinations  given n number of box with x number of balls
+Q5	6	Why does Java 8 have Arrays.parallelSort() but not Collections.parallelSort()?
+Q6	6	Should variables always be declared with interface in Java?
+Q7	5	Implementing the List&lt;Node&gt;
+Q8	5	Sorting a List alphabetically using compareTo() method
+Q9	5	How to know if List.remove() is &quot;Unsupported&quot;?
+Q10	5	java : Understanding Arrays.asList(T...array) method for primitive types

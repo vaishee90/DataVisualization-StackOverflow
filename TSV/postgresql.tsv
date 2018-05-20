@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	10	Read/Write splitting Hibernate
+Q2	10	Use Point type with PostgreSQL and JPA/Hibernate
+Q3	7	Postgresql JDBC Table Valued Parameters
+Q4	6	glassfish throwing org.postgresql.xa.PGXAException
+Q5	6	How to get UTC timestamps from JDBC+postgreSql timestamp?
+Q6	6	Is there a elegant and common way for converting PostgreSQL hstore to JPA 2.1 DataType?
+Q7	5	How do I get asynchronous / event-driven LISTEN/NOTIFY support in Java using a Postgres database?
+Q8	4	jOOQ - Concisely Representing Both Columns and Aggregate/Window Functions in a Query
+Q9	4	Convert PostgreSQL bytea-stored serialized-java-UUID to postgresql-UUID
+Q10	4	Is there a way to query a PostgreSQL hstore with Hibernate/JPQL?

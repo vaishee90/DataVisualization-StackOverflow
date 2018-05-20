@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	4	JFace TableViewer vs TreeViewer - performance
+Q2	3	How to Bind a Model to a SWT Text but showing only one field in the text
+Q3	3	SWT Shell KeyListener
+Q4	3	setTooltipText for TreeItem not defined
+Q5	2	How to reuse context pop up menus from existing view in Eclipse plugin to a newly created view?
+Q6	2	Which Shell should be passed to the WizardDialog constructor
+Q7	2	How to keep MenuManager opened to allows multiple selection when Action.AS_CHECK_BOX is selected
+Q8	2	Eclipse TreeViewer/ViewPart background click
+Q9	2	ViewerSupport and ITableColorProvider or ITableFontProvider
+Q10	2	How to iterate pages in a JFace Wizard

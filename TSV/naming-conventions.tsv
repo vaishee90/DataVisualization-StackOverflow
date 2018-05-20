@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	6	Is it a good idea to always use the Java Beans naming conventions?
+Q2	5	Looping: i vs loopCount
+Q3	4	If some naming conventions  such as uppercase-method-names  are so frowned upon  why do languages allow them at all?
+Q4	3	Java naming convention - using &quot;try&quot; prefix to seperate exception handling
+Q5	3	Java convention in practice - return mutliple values from method
+Q6	3	Method signature best practices - overloading vs. long name
+Q7	3	Scala getters/setters - best practice?
+Q8	3	Word order in class names in java
+Q9	3	Should I suffix my variables with object type?
+Q10	2	Name for sender/receiver of messages

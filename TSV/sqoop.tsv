@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	4	java.lang.RuntimeException:Unable to instantiate org.apache.hadoop.hive.metastore.HiveMetaStoreClient
+Q2	3	NoSuchMethodError: JobConf.getCredentials()
+Q3	3	Java - MySQL to Hive Import where MySQL Running on Windows and Hive Running on Cent OS (Horton Sandbox)
+Q4	2	Java - com.cloudera.sqoop vs. org.apache.sqoop which to import from sqoop jar?

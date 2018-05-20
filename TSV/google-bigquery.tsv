@@ -1,0 +1,7 @@
+Number	Votes	Question
+Q1	5	How to set timeout for BigQuery API request in Java
+Q2	4	How to load data from Cloud Storage into BigQuery using Java
+Q3	4	Google BigQuery &quot;bq&quot; tool extracts nested/repeated records  how with Java&#39;s API?
+Q4	3	How to get name of tableid of an existing Dataset in Cloud Bigquery
+Q5	2	BigQuery API Quickstart Complete Source Code (Java) error
+Q6	2	Cann&#39;t import com.google.api.services.bigquery.model.TableCell

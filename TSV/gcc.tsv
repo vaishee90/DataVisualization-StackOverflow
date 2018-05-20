@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	9	What&#39;s wrong with using associativity by compilers?
+Q2	2	Exception in thread &quot;main&quot; java.lang.UnsatisfiedLinkError 3
+Q3	2	Fatal Error while running helloJNI example or no output at all

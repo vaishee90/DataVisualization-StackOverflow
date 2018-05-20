@@ -1,0 +1,7 @@
+Number	Votes	Question
+Q1	11	How to improve performance of SimpleDateFormat wrapped in ThreadLocal?
+Q2	3	Good Practice of using ThreadLocal in Java
+Q3	2	Spring Request scope vs java thread-local
+Q4	2	ThreadLocal instance getting null at some cases
+Q5	2	ThreadLocal initialValue() called multiple times per thread. why?
+Q6	2	Removing threadLocal objects on tomcat threads while app shutdown

@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	7	Java: two WAITING + one BLOCKED threads  notify() leads to a livelock  notifyAll() doesn&#39;t  why?
+Q2	4	How we can create `notify()` method in object?
+Q3	2	Does a thread implicitly call notifyAll()   if other Threads are waiting on it?

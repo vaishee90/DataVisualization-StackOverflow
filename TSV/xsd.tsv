@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	5	How to validate an XML against schema using JAXB?
+Q2	5	JAXB convert non-ASCII characters to ASCII characters
+Q3	4	Is there any way I can specify defaultValue for collections with JAXB?
+Q4	4	How to customize property name in JAXB?
+Q5	4	How can I generate classes from XSD that includes another XSD
+Q6	4	xs:String in xs:DateTime format to XMLGregorianCalendar
+Q7	4	Spring Framework XML configuration metadata  and Namespaces
+Q8	4	NoSuchFieldError: QUALIFIED when integrating web service in Tomcat project
+Q9	3	text value of xml node into java
+Q10	3	Error validating the file spring-ldap.xsd

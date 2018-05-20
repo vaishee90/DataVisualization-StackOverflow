@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	1	JUnit test case failure with JMockit java.lang.IllegalStateException: Invalid context for the recording of expectations

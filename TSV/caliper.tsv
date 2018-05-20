@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	5	Strange performance drop of JDK8 LocalDate.toEpochDay
+Q2	3	Caliper benchmark fails due to JIT compilation
+Q3	3	Why is the short primitive type significantly slower than long or int?
+Q4	2	Is it possible to use a micro-benchmark framework to only time some statements?

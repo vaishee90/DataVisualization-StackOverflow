@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	5	Visual paradigm  cant use persistence inheritance on a DCD
+Q2	4	Cannot create connection from persistence.xml
+Q3	4	Solve Hibernate Lazy-Init issue with hibernate.enable_lazy_load_no_trans
+Q4	3	hibernate. Can not set java.lang.Integer field to... java.lang.Integer
+Q5	3	JBoss7 + PostgreSQL New missing/unsatisfied dependencies
+Q6	2	How can I join 3 entities JPA?
+Q7	2	Java JPA Hibernate Connection Issue
+Q8	2	Identifier userName is unresolved (not a static field) &lt;at times&gt;
+Q9	2	Ignoring persistence.xml -&gt; EntityManager is null
+Q10	2	JPA: merge and persist catch ConstraintViolationException

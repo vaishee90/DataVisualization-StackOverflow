@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	15	SwingWorker  done() is executed before process() calls are finished
+Q2	6	Differences between Java&#39;s SwingWorker and Android AsyncTask
+Q3	6	Java - How to Create a MultiThreaded Game using SwingWorker
+Q4	4	SwingWorker does not update JProgressBar without Thread.sleep() in custom dialog panel
+Q5	3	Method slows execution paintComponent()
+Q6	3	SwingWorker not stopping
+Q7	3	JProgressBar not updating from SwingWorker  while debugs work fine
+Q8	2	Saving to database makes button unresponsive
+Q9	2	Tracking the progress of wget (bash) with SwingWorker / Swing
+Q10	2	JComponents disappearing after calling mouseClicked()

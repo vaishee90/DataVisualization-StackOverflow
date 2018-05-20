@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	4	How to avoid actionMessages/actionError generating ul li tags?
+Q2	3	struts2 2.3.20 ognl allowStaticMethodAccess
+Q3	3	Reflection in Struts 2
+Q4	3	Applying OGNL expression to a context variable
+Q5	2	Comparing Strings in Struts2 &lt;s:if&gt; Tag
+Q6	2	How to pass the object property as param to struts custom validator
+Q7	2	How to include HTML in OGNL expression language in Struts 2
+Q8	2	Struts 2 text tag weird behavior
+Q9	2	Mapping a list with JSP page and getting values in Action class. It gives the result list as a cartesian product in Action class
+Q10	2	how to use struts 2 push tag for form input fields?

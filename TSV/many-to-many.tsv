@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	3	Best pratice to avoid selecting all rows when adding to owning side collection of a @ManyToMany
+Q2	3	Previous data is deleted everytime when a new data is inserted in many to many relation
+Q3	2	Mapping many-to-many relation and Embeddable class with jpa
+Q4	2	Exception with @JoinTable and shared key in many-to-many relathionship
+Q5	2	Many-to-many relationship in play framework java

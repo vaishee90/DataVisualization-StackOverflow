@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	9	Defining a custom maven lifecycle with JSR-330
+Q2	5	Activate Maven profile if another profile is not activated
+Q3	5	Maven: Groovy-Eclipse Compiler plugin with Groovy 2.3.5
+Q4	5	Maven command line arguments environment variable
+Q5	5	HotSwaping code into &quot;mvnDebug tomcat:run&quot;
+Q6	4	Starting apache server before integration testing not working
+Q7	4	how to configure maven to add junit 4.10 instead of 3.8 dependency in new project
+Q8	4	PermGen space with jetty
+Q9	3	MAVEN_HOME  MVN_HOME or M2_HOME
+Q10	3	Configure Maven not to run tests if nothing changed

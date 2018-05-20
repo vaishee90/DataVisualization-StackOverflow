@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	3	LinkedHashSet .equals() vs LinkedList .equals() with same elements but different order
+Q2	2	LinkedHashMap vs HashMap  LinkedHashSet vs HashSet

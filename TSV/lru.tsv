@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	3	Use LinkedHashMap to implement LRU cache
+Q2	3	How can I adjust this this function to FIFO &amp; LRU?
+Q3	2	Java LinkedHashMap with removeEldestEntry causes java.lang.NullPointerException

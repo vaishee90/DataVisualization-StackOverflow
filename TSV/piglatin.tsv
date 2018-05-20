@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	1	Why does this Pig UDF Result in an &quot;Error: Java heap space&quot; Given that I am Spilling the DataBag to Disk?

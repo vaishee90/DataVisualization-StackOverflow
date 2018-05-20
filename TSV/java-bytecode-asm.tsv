@@ -1,0 +1,9 @@
+Number	Votes	Question
+Q1	10	For vs. Doseq (and Method Code Too Large)
+Q2	4	Remove Exception from method body with ASM
+Q3	3	How to load classes from jar file in correct order
+Q4	3	ASMifier class missing from ASM 3.3.1
+Q5	3	creating object instance without invoking initializer
+Q6	2	How to modify a Java bytecode using ASM 4.0
+Q7	2	Can I get the Field instance of putfield or putstatic instruction in ASM?
+Q8	2	Adding try/catch block in bytecode through ASM

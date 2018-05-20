@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	11	WebApplicationContext not being shut down on Servlet Context reload
+Q2	8	Running tag library from older Tomcat version
+Q3	5	Spring context initialization failed with java.lang.IllegalArgumentException while deploying to Apache 7.0.54 and java 8
+Q4	5	INFO: No Spring WebApplicationInitializer types detected on classpath
+Q5	5	Is there a way to enforce a deployment order in tom 7 and tom6 ?
+Q6	4	(Revised) Root folder path for JSP project (using Tomcat 7) in Eclipse EE
+Q7	3	Need to check MaxPermSize : Unrecognized VM option
+Q8	3	Jersey JSON serialization
+Q9	3	Embedded Tomcat 7 cluster using spring-boot
+Q10	3	Tomcat 7 Datasource injection mechanism

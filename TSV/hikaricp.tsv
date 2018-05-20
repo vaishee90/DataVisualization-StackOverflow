@@ -1,0 +1,7 @@
+Number	Votes	Question
+Q1	2	HikariCP too many connections
+Q2	2	Mysterious pause in Spring + Hibernate
+Q3	2	Pending processes in MySQL after calling EntityManager.find()
+Q4	2	Shutting down connection pool data source with Dropwizard
+Q5	2	HikariCP - linkage Error using HikariDataSource
+Q6	2	PrepareStatement/Commit sequence not working in mysql/HikariCP webapp

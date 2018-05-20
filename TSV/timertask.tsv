@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	4	Android Handler for repeated task - will it overlap ? need Singletone
+Q2	3	How to use TimerTask with lambdas?
+Q3	2	timerSchedule does not obey the start timer set?
+Q4	2	Does everything scoped within TimerTask need to be thread safe?
+Q5	2	Scheduling a task in java

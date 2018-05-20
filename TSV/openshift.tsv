@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	3	Openshift connecting to a socket using JBoss EAP
+Q2	3	Deploy WAR file to Openshift without using GIT?
+Q3	2	Can&#39;t connect to Openshift mySQL
+Q4	2	how to change jboss time zone IST(Asia/Calcutta) to EST(America/New_York) in jboss7.1.1 server
+Q5	2	Openshift pre_start hook does not work on app restart
+Q6	2	How To Serve Uploaded Images From OpenShift DATA_DIR
+Q7	2	OpenShift Status 404 - Tomcat local working fine
+Q8	2	Connecting to open shift with Jconsole - non-JRMP server at remote endpoint
+Q9	2	Openshift application build error: &quot;JBAS014807: Management resource &#39;[(\\&quot;subsystem\\&quot; =&gt; \\&quot;deployment-scanner\\&quot;)]&#39; not found&quot;
+Q10	2	Openshift application deployed successfully but not updated

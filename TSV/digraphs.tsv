@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	1	DirectedGraph: addVertex(Vertex&lt;T&gt; v)  String cannot be converted to Vertex

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	3	Derby included in Tomcat Webapp
+Q2	3	how to concat 2 vrchar in jdbc/derby?
+Q3	3	org.hibernate.hql.internal.ast.QuerySyntaxException: table is not mapped
+Q4	2	Persisting an entity when ID is null and automatically generated in the database
+Q5	2	How to create a batch file for connecting to Java DB Network Server
+Q6	2	How to fix: ON DELETE CASCADE ON UPDATE CASCADE using derby / EmbeddedDriver
+Q7	2	Can&#39;t add a BOOLEAN column to a table in my Derby database
+Q8	2	Pre-populating Entities into database for testing purposes
+Q9	2	Violation of foreign key constraint
+Q10	2	Java Derby DB - Column (PrimaryKey) with &quot;Generated Always as Identity &quot; adding up 100 to the base number everytime application restart

@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	8	Error running Selenium IDE &quot;Error: Permission denied to access property &#39;nr@context&#39;
+Q2	2	How to select proper Action for web target in Selenium IDE
+Q3	2	Google editboix giving InvalidElementStateException :Element is disabled and so may not be used for actions Command duration

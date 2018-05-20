@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	13	Is the lockless lazy loading pattern used in Guava really thread-safe?
+Q2	11	Extending List&lt;T&gt; in Java 8
+Q3	8	Eclipse fails to compile generic code  but mvn compile works
+Q4	6	what does a syntax of `.` before generics mean?
+Q5	6	What&#39;s the point of Guava checkNotNull
+Q6	6	Bidirectional multimap equivalent data structure
+Q7	6	Why is there private method outOfBoundsMsg in java.util.ArrayList?
+Q8	5	Java method params: var args vs array
+Q9	5	Why don&#39;t common Map implementations cache the result of Map.containsKey() for Map.get()
+Q10	5	I use Guava&#39;s immutable collections (compiled for Java 6) and a Java 8 JRE  can I use the new stream interface?

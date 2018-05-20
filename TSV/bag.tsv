@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	2	org.hibernate.loader.MultipleBagFetchException: cannot simultaneously fetch multiple bags

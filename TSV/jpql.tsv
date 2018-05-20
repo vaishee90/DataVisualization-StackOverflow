@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	4	How to override a delete method on a Spring Data CrudRepository?
+Q2	3	JPQL check in parameter not null and then execute qury
+Q3	3	How to return the size of the greatest Collection in JPA?
+Q4	3	Adding two String variables for filter in JPQL?
+Q5	3	JPQL result list with possible second linked entity
+Q6	2	Nested fetch join with JPQL and Hibernate
+Q7	2	Pre-populating Entities into database for testing purposes
+Q8	2	Criteria API: filter by class type
+Q9	2	JPA JPQL: SELECT NEW with COUNT  GROUP BY and ORDER BY
+Q10	2	Selecting multiple objects by id using JPA and ObjectDB?

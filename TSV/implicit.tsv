@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	6	Implicit wrap of Java Null
+Q2	5	When is a Java Implicit Constructor called compared to the Base Class Constructor?
+Q3	3	Why must casting to a derived class be explicit rather than implicit

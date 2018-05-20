@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	16	Why does java.util.concurrent.RunnableFuture have a run() method?
+Q2	6	Java 8: Parallel FOR loop
+Q3	6	Execute competing calculations in parallel and discard all but the first one that finishes
+Q4	6	How to test if java Future is complete?
+Q5	6	In a Java 7+ ForkJoinPool  is it possible to cancel a task and all subtasks?
+Q6	5	ExecutorService.shutdownNow() does not shut down threads
+Q7	5	How to perform short-circuit evaluation in Java on two parallel threads that return boolean values?
+Q8	5	AtomicInteger incrementAndGet atomicity
+Q9	4	How many types of memory barriers are available in Java?
+Q10	3	In Java  how to define a Future&lt;V&gt; that returns the best of several answers?

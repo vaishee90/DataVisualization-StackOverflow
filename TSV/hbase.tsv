@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	7	HBase region server cannot connect with master
+Q2	7	How to run HBase in distributed mode on windows without cygwin?
+Q3	5	how to fetch all of data from hbase table in spark
+Q4	4	Garbage Collection duration in Hadoop CDH5
+Q5	4	Error while trying to run HBase map reduce
+Q6	3	Please help for the Spark SQL performance issue
+Q7	3	Hbase Java API: Retreiving all rows that match a Partial Row Key
+Q8	2	convert long to String -garbled String
+Q9	2	WordCount with Apache Crunch into HBase Standalone
+Q10	2	Error org.apache.hadoop.hbase.regionserver.LeaseException

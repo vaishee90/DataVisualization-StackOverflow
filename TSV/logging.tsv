@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	10	A Java advanced text logging pane for large output
+Q2	10	Generate unique ID in Java  to label groups of related entries in a log
+Q3	7	logback with play framework
+Q4	7	Formatting floating point numbers in SLF4J
+Q5	7	Configuring LogBack DBAppender programmatically
+Q6	6	Is java.util.logging.FileHandler in Java 8 broken?
+Q7	5	What does &quot;Number of locked synchronizers = 1&quot; in a StackTrace mean?
+Q8	5	Pass log event specific data with slf4j (and log4j)
+Q9	4	Is it possible to config output toString() in pattern of logback?
+Q10	4	How to redirect AWS sdk logging output

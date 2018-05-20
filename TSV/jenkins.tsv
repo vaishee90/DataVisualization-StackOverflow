@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	25	&quot;aapt&quot; IOException error=2  No such file or directory&quot; why can&#39;t I build my gradle on jenkins?
+Q2	21	How to compile and run my Maven unit tests for Java 8  while having my code compiled for Java 7
+Q3	8	Intermittent NoClassDefFoundError when running a maven/surefire build in jenkins
+Q4	7	Build Android job with connectedInstrumentTest not working on Jenkins
+Q5	6	Managing many clients with the same java projects with small changes
+Q6	6	Ant/Maven: &quot;javadoc: warning - Error fetching URL&quot;
+Q7	6	How do I set the java.util.logging log level in maven (for Jenkins plugin (JenkinsRule) tests)
+Q8	5	How do I modify a Jenkins plugin to stop it from putting a link on build pages?
+Q9	4	Jenkins JAVA_HOME 7 doesn&#39;t look like a JDK directory
+Q10	4	Algorithm negotiation fail SSH in Jenkins

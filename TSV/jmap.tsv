@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	4	jmap appears slower under Java 7  slows down JVM
+Q2	3	How come my HashMap have a duplicate key?
+Q3	3	jmap crashes with &quot;can not get class data for&quot;
+Q4	2	How to use java memory histogram &quot;jmap&quot;

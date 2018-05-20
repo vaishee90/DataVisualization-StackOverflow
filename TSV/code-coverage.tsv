@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	5	How to fail build on low test coverage with activator / sbt?
+Q2	4	How to measure Java code unit test coverage per developer?
+Q3	4	Configure code-coverage to ignore or accept private constructors
+Q4	3	CoberturaInstrumenter - Unable to instrument file?
+Q5	3	IntelliJ Code coverage Java 8 - requires ASM 5
+Q6	2	Why code coverage sometimes counts method name or closing bracket?
+Q7	2	Include JMockit Coverage in Sonarqube dashboard
+Q8	2	Code Coverage with Cobertura
+Q9	2	Cobertura coverage ignore annotation in maven project?
+Q10	2	Enable transitive coverage as well as instruction level filtering in Java

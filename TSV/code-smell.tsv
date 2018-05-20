@@ -1,0 +1,7 @@
+Number	Votes	Question
+Q1	15	Solutions for too many parameters
+Q2	6	Passing `Context` everywhere seems messy - create classes to handle different interactions with context?
+Q3	4	Am I using instanceof &quot;wrong&quot;?
+Q4	4	Is there a performance advantage to declaring a static value globally over a local variable in Java?
+Q5	3	Best practices in transaction rollback support in Spring 3
+Q6	2	Function changing a state of object and returns void is a best practice?

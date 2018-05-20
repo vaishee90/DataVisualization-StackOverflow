@@ -1,0 +1,9 @@
+Number	Votes	Question
+Q1	4	Can method extraction negatively impact code performance?
+Q2	3	Intellij Idea refactoring move &quot;getters and setters&quot; to the end of file
+Q3	3	Java - avoiding code duplication in matrix iteration
+Q4	3	remove conditional statements when dealing with inheritance
+Q5	3	Refactoring to dependency injection
+Q6	2	Function changing a state of object and returns void is a best practice?
+Q7	2	Getting a call hierarchy for Java methods including other projects in a repository
+Q8	2	interfaces  generics and refactoring

@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	5	Pattern to initialize an EJB that depends on another application EJB
+Q2	4	@singleton behaving like @stateless bean
+Q3	4	EJB3.1 System Exceptions vs javax.ejb.EJBException
+Q4	2	Parsing annotation meta data from an ejb proxy
+Q5	2	JBOSS 7.1  Securing EJB3 Web Service

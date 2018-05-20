@@ -1,0 +1,10 @@
+Number	Votes	Question
+Q1	8	Java 1.7 + JSCH: java.security.InvalidKeyException: Key is too long for this algorithm
+Q2	4	Algorithm negotiation fail SSH in Jenkins
+Q3	3	How to select network interface when connecting to SFTP with JSch
+Q4	3	Apache Mina and JSch can&#39;t set home dir
+Q5	2	How do I fix &quot;incompatible JNA native library&quot; when using Putty  Gradle  and the Gradle Git plugin?
+Q6	2	Java8 + Jcraft = Key is too long for this algorithm
+Q7	2	JSch Never-ending Input Stream blocks thread
+Q8	2	Specifying ssh key for jgit
+Q9	2	multiple shell script execution using jsch

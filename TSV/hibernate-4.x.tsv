@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	7	How to create a generic entity model class that supports generic id including auto generated ids?
+Q2	3	How to use SchemaExportTool with JPA and Hibernate 4.3

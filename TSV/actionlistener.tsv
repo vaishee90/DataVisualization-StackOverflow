@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	5	Is there a more efficient way to handle button click events than several if statements?
+Q2	4	Access an instance of a class from anonymous class argument
+Q3	4	How can my ActionListener for a JButton access variables in another class?
+Q4	3	Can&#39;t add ActionListener to a JPanel?
+Q5	3	Java: extend JFrame meaning and 1 listener for multiple actions
+Q6	3	compiler dont recognize parameters in action listener class
+Q7	2	JButton array ActionListener value
+Q8	2	I want to retrieve values from my JButton extension
+Q9	2	use of multiple actionlistener for a button
+Q10	2	what&#39;s the object in the method actionPerformed(ActionEvent e)

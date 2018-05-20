@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	64	Explain the syntax of Collections.&lt;String&gt;emptyList()
+Q2	58	Why does this Java 8 program not compile?
+Q3	35	Assigning List of Integer Into a List of String
+Q4	24	Why is it impossible to implement a generic interface multiple times with different type parameters?
+Q5	22	Java ternary operator influence on generics type inference
+Q6	20	Java Generics Interface casting
+Q7	20	Java8: ambiguity with lambdas and overloaded methods
+Q8	20	How do arrays &quot;remember&quot; their types in Java?
+Q9	19	Generics List&lt;String&gt; and List&lt;Integer&gt; not behaving as expected
+Q10	19	Generics compilation error with ternary operator in Java 8  but not in Java 7

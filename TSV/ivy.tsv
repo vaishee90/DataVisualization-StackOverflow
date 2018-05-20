@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	3	Play framework offline distribution downloads repositories
+Q2	3	Best practice for dependency management in a project with a huge number of dependencies
+Q3	2	Ivy conflict resolution: two libs need another lib in different version
+Q4	2	apache ivy and nested jar files in osgi bundles

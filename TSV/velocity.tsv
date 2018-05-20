@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	8	Can I convert an artifactId to a classname prefix in my maven archetype?
+Q2	3	VelocityEngineUtils.mergeTemplateIntoString encoding to use for email generation
+Q3	3	How to work with velocity context variable as local variable
+Q4	3	Velocity #foreach not working as expected with string passed as $value variable
+Q5	2	libGDX ParticleEffect runtime velocity change

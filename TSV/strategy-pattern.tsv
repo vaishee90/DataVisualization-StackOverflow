@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	22	How to use fields in java enum by overriding the method?
+Q2	3	How to avoid an unchecked cast with java and generics in strategy pattern
+Q3	2	Java Strategy pattern - can I delegate strategies instantiation in the Context class?

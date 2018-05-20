@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	4	Is there any benefit to using Math.Floor over explicit integer casting?
+Q2	3	Why is math.pow not natively able to deal with ints? (floor/ceil  too)

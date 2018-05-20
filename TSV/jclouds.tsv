@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	4	Rackspace Cloud Files (using jclouds) - how to get container location
+Q2	3	Java: how to repair a hung thread?
+Q3	2	Error creating JClouds SwiftApi: Provider org.jclouds.openstack.keystone.v2_0.KeystoneApiMetadata could not be instantiated
+Q4	2	AWS Jclouds resource not found
+Q5	2	How access native provider API with Jclouds 1.7

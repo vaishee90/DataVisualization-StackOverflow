@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	6	Can you programmatically alter a queue&#39;s &quot;dead letter&quot; handling in a Java embedded broker?
+Q2	5	Send real time data from java to android application
+Q3	5	In ActiveMQ Is it possible to limit the memory required for an open consumer transaction?
+Q4	4	What is the right way to &quot;pause&quot; a route using camel with activemq?
+Q5	4	How activemq wildcard consumers work?
+Q6	4	Exception when restarting embedded activeMQ broker with jdbcPersistenceAdapter
+Q7	3	How to make the event-driven consumer in Apache Camel delete the consumed messages?
+Q8	3	ActiveMQ Consumer OutOfMemoryException
+Q9	3	KahaDB db.data and ActiveMQ 5.6
+Q10	2	Financial Information eXchange web platform (QuickFix/J)

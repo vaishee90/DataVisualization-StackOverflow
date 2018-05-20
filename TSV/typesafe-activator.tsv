@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	7	Typesafe Activator NoSuchMethodError
+Q2	5	How to fail build on low test coverage with activator / sbt?
+Q3	4	Debugging Play 2.3 RC1 with activator -jvm-debug and Java 8 on Windows possible?
+Q4	2	Why does compilation take longer in Play 2.3.4 (activator) vs Play 2.2.4 (play)?
+Q5	2	How to change Play Framework 2 &quot;test&quot; settings to show complete stacktraces?

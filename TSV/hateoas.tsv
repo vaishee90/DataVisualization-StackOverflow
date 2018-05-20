@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	3	Why is the following Spring Boot + HATEOAS with mongodb not working (MarshalException)?
+Q2	2	Spring Hateoas - REST clients need have model classes + resource classes

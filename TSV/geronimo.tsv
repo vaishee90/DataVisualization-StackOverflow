@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	2	Tomcat Native Clustering Apache geronimo 3.0.1 not working
+Q2	2	java.lang.IllegalStateException: Cannot load property editor when farming geronimo using Deployment version 3.0.1

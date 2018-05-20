@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	4	Why DataOutputStream doesn&#39;t create a &quot;Resource leak: stream never closed &quot; warning
+Q2	3	Why is it good to close() an inputstream?
+Q3	3	Java file download hangs
+Q4	3	HTTP-Download - sometimes file is not downloaded complete without error
+Q5	3	Java - Why does OutputStream.write(int) take an int to write a byte?
+Q6	2	Java outputStream not working
+Q7	2	Why cast an int to byte in BufferedOutputStream write method that takes an int argument?
+Q8	2	Read from property file after restarting program
+Q9	2	Close Encapsulating Writers/Streams for ServletOutputStream
+Q10	2	Java reading/writing several objects to file

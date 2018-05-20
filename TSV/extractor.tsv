@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	3	unapply method of a case class is not used by the Scala compiler to do pattern matching  why is that?

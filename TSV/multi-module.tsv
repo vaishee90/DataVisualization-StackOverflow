@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	4	MavenError: Failed to execute goal on project: Could not resolve dependencies In Maven Multimodule project
+Q2	3	Maven multi module: error assembling WAR: webxml attribute is required

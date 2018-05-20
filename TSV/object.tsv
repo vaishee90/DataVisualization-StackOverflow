@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	13	When is length used as a method and when as property in Java?
+Q2	10	If you&#39;re explicitly initializing an Object array in Java  is including &quot;new Object[]&quot; different than not including it?
+Q3	10	type erasure in implementation of ArrayList in Java
+Q4	10	Number of objects created during string concatenation
+Q5	9	Why is Object.clone() native in Java?
+Q6	8	convert string input to instance of object name(=input)
+Q7	7	creating objects with same name as class in java
+Q8	7	Java. Why does it work differently with english and slavic characters?
+Q9	6	instanceof operator in case of primitive and wrapper type array
+Q10	6	Creating an Object inside a loop

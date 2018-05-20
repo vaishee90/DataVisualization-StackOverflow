@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	4	Getting user input from a dialog using Mortar + Flow
+Q2	3	How to @Provide an Activity for the MortarActivityScope  without leaking the Activity on orientation changes?
+Q3	2	Equivalent of onActivityResult for Mortar and Flow?

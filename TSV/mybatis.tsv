@@ -1,0 +1,10 @@
+Number	Votes	Question
+Q1	5	Returning value from PL/SQL block
+Q2	4	Can MyBatis create the database schema?
+Q3	4	Lazy Loading using MyBatis 3 with Java
+Q4	4	MyBatis Batch Insert/Update For Oracle
+Q5	3	Mybatis No Getter Property
+Q6	2	Is there a way to not implement Serializeble for MyBatis domain objects
+Q7	2	JDBC Query Caching and Precaching
+Q8	2	Is it possible to combine MyBatis and QueryDSL/jOOQ?
+Q9	2	Spring + MyBatis exception: Mapped Statements collection does not contain value for

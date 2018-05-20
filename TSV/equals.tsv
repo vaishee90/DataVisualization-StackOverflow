@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	11	Why is String.equals much slower for non-identical (but equal) String objects?
+Q2	9	String.equalsIgnoreCase - UpperCase v. LowerCase
+Q3	7	Does java.util.concurrent.Delayed really force me to violate equals/compareTo consistency?
+Q4	6	Does == comparison use byte in ArrayList comparisons?
+Q5	5	Canonical representation of a BigDecimal
+Q6	5	Nashorn  Java collections  How to implement equals and hashCode in pure javascript
+Q7	5	Can Java help me avoid boilerplate code in equals()?
+Q8	5	Meaning of Double.doubleToLongBits(x)
+Q9	4	Java 1.7 Override of hashCode() not behaving as I would expect
+Q10	4	Java clone() and equals() check

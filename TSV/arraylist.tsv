@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	20	How do arrays &quot;remember&quot; their types in Java?
+Q2	19	Generics List&lt;String&gt; and List&lt;Integer&gt; not behaving as expected
+Q3	19	How does memory allocation of an ArrayList work?
+Q4	19	Why does giving explicit type arguments to a non-generic method or constructor compile?
+Q5	14	Concurrent ArrayList
+Q6	12	Java iterate over ArrayList with HashMap in it
+Q7	12	Does the capacity of ArrayList decrease when we remove elements?
+Q8	11	How to sort a collection of points so that they set up one after another?
+Q9	10	type erasure in implementation of ArrayList in Java
+Q10	9	Why is Java List traversal slower than file readline?

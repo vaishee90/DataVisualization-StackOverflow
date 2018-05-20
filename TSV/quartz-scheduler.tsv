@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	8	Can I use Quartz Scheduler to fire every other month on the 30th day but if month has no 30th day  fire on the last day?
+Q2	5	Quartz job Vs. Thread for immediate one time task
+Q3	3	Quartz scheduler failed to get JNDI DB resource but starts anyway
+Q4	3	Why Quartz says this cron expression is not valid?
+Q5	3	How to handle thousands of background jobs?
+Q6	3	JNDI issue with Websphere 6 UserTrasaction and Quartz Scheduler
+Q7	3	How to wire a Quartz Scheduler into my Spring context?
+Q8	2	Quartz Scheduler in AnnotationConfigApplicationContext
+Q9	2	i cant create a Scheduler instance in spring mvc using quartz
+Q10	2	how to set the quartz worker threds get created whenever its required

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	6	Retrieving Arabic text from MSSQL NVarchar column
+Q2	4	ResultSet.next() is too slow for an oracle ref cursor
+Q3	4	Will ResultSet leak if not explicitly closed?
+Q4	3	In JDBC how does one know if the DDL statement was executed successfully?
+Q5	3	java jdbc executeQuery() working but execute() not (multiple resultsets)
+Q6	2	Get a BigInteger attribute from Cassandra ResultSet
+Q7	2	Get next ResultSet in JDBC
+Q8	2	Java prepared statement without result set?
+Q9	2	Why do I see NotUpdatable when I invoke ResultSet.refreshRow()?
+Q10	2	Fetch Data from MSSQL DB with temp table over JAVA

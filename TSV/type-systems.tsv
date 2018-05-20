@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	5	Why are Java wildcards more powerful than use-site variance?
+Q2	4	Is it possible to detect comparison of incompatible types with the Java type system?
+Q3	2	Is `Box&lt;Cat&gt;` subtype of `Box&lt;? extends Animal&gt;`?

@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	1	Location Manager.RequestLocationUpdates using pendingIntent always broadcasting the same location  when gps provider takes long time to get location

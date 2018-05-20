@@ -1,0 +1,7 @@
+Number	Votes	Question
+Q1	10	Publishing EAR file hangs on WebSphere 8.0
+Q2	3	JAXB marshalling in WebSphere 8.5.5.3 results in elements from an interface in the SOAP response XML
+Q3	3	best place to put properties file in IBM websphere 8.5?
+Q4	2	Use JASPIC auth module on WebSphere 8.5
+Q5	2	Get module versions through wsadmin (WAS 8.5)
+Q6	2	Override Jackson Object Mapper properties on Websphere 8.5.5 using Apache Wink

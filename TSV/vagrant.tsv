@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	7	Maven/Eclipse with Vagrant
+Q2	5	Vagrant to run play framework
+Q3	3	Java client can&#39;t find master node: MasterNotDiscoveredException waited for [1m]
+Q4	3	IntelliJ IDEA + Vagrant: compile and run in VM environment

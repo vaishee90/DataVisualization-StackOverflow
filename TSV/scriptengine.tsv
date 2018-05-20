@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	12	Use a jar in JavaScript through Java ScriptEngine
+Q2	3	Which JS Script Engine will be chosen by Java?
+Q3	3	Why Java Nashorn __DIR__  __LINE__ and __FILE__ are null?
+Q4	2	How do I destroy a Java ScriptEngine Instance?

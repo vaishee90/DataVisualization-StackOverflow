@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	2	How can a type have multiple supertypes which are array types  and not itself be an array type?
+Q2	2	Meaning of @Flow annotation
+Q3	2	How to Use the Jena OntModel.listClasses() method?

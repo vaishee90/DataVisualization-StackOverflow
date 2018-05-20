@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	13	Is multiplying by 0.0000001 the same as dividing by 10000000?
+Q2	5	Is it possible to get floating point error in this case?
+Q3	3	This very small float constant is more approximate than could be expected
+Q4	2	How to overcome inaccuracy in Java

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	40	The superclass &quot;javax.servlet.http.HttpServlet&quot; was not found on the Java Build Path
+Q2	38	JDK8 and Javadoc has become very strict
+Q3	34	How to enable index downloads in Eclipse for Maven search?
+Q4	23	Version 1.8 of project facet java does not exist
+Q5	21	How to compile and run my Maven unit tests for Java 8  while having my code compiled for Java 7
+Q6	16	Mark as failed running too long JUnit tests
+Q7	16	Error while compiling when using AspectJ compiler instead of Javac
+Q8	14	Can&#39;t get Maven to recognize Java 1.8
+Q9	14	Eclipse build loop caused by protobuf generated code (related to Maven Project Builder)
+Q10	13	maven-javadoc-plugin breaks mvn release:perform

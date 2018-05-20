@@ -1,0 +1,9 @@
+Number	Votes	Question
+Q1	5	Automatically configure beans in root and dispatcher application context with single annotation
+Q2	5	Maven surfire tests reusefork vs parallel
+Q3	2	Spring web app. One war multiple application context
+Q4	2	Quartz Scheduler in AnnotationConfigApplicationContext
+Q5	2	Singelton in Spring with Autowired field
+Q6	2	Which approach should I use to inject 10+ services in Spring controller?
+Q7	2	Getting bean from appContext using ApplicationContextAware interface
+Q8	2	Spring Framework 4.0.3 BeanDefinitionStoreException Unexpected exception parsing XML document from ServletContext resource

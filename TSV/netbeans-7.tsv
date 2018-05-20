@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	27	Manipulating an Access database from Java without ODBC
+Q2	2	How Change Netbeans Java Application objects to &quot;right to left&quot;
+Q3	2	Netbeans and Bad service configuration file  or exception thrown while constructing Processor object
+Q4	2	connecting java application with online hosted mysql database
+Q5	2	Netbeans eats my comments when I inline
+Q6	2	Failed to execute goal org.apache.maven.plugins:maven-surefire-plugin:2.4.3:test (default-test) on project smrr: There are test failures
+Q7	2	Exception in thread &quot;main&quot; java.lang.UnsatisfiedLinkError using Jpcap
+Q8	2	Could not find file ${libs.jstl11.classpath} to copy
+Q9	2	Stop Netbeans IDE form opening class tree in projects tree view
+Q10	2	Could not start GlassFish 4.0 (Windows) - port 1527 - Address already in use

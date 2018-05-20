@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	2	Infinispan Clustering: Replication of entries loaded by a CacheLoader
+Q2	2	Cache entry is not removed from cache store (SingleFileCacheStore)
+Q3	2	Wildfly 8.0.0Final: Caused by: org.infinispan.commons.CacheException: Initial state transfer timed out for cache
+Q4	2	Infinispan Server : How to enable JMX monitoring?
+Q5	2	Jboss  Infinispan  How to configure Jboss As managed cache manager

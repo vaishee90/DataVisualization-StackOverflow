@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	2	Java: JFrame on exit actions closes anyway even if &quot;No&quot; is clicked
+Q2	2	The method addActionListener(ActionListener) in the type AbstractButton is not applicable for the arguments (Object)

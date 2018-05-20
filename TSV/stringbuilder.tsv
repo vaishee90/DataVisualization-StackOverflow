@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	15	When should you explicitly use a StringBuilder?
+Q2	13	Does Javac&#39;s StringBuilder optimisation do more harm than good?
+Q3	4	Add a new line character after a &quot;{&quot; or &quot;;&quot; or &quot;}&quot; in java while using string builder
+Q4	4	What is the difference in converting string buffer to string using .toString()  String.valueOf() and + &quot; &quot;
+Q5	4	StringBuilder output does not include character supplied in the constructor
+Q6	4	Does StringBuilder creates a new String in every operation?
+Q7	3	Why do we need capacity in StringBuilder
+Q8	3	For Loop with millions of records - java.lang.OutOfMemoryError: Java heap space
+Q9	3	Why StringJoiner when we already have StringBuilder?
+Q10	3	StringBuilder lost data when convert to String

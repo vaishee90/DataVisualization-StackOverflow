@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	15	&quot;You need to use a Theme.Appcompat theme...&quot; when testing ActionBarActivity  but I am
+Q2	9	How to change the text color of SlidingTabLayout?
+Q3	9	How to slide the ActionBar along with the NavigationDrawer
+Q4	4	Android How to edit the Action bar menu from Fragment
+Q5	4	How to use material design action bar navigation drawer toggle animation?
+Q6	4	DrawerLayout on top of Actionbar
+Q7	3	Going back to previous activity using ActionBar navigation
+Q8	3	NullPointerException when calling getSupportActionBar() from inside of Fragment (ActionBarCompat)
+Q9	3	How do I add buttons  switches etc. to an android app drawer?
+Q10	2	Adding separators between groups of actionbar menu items

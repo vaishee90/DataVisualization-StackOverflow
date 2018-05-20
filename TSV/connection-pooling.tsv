@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	4	If connection is closed by a Database  do I need to close it manually?
+Q2	4	JDBC connection pool compatible with App Engine
+Q3	4	JDBC connection become null unexpectedly
+Q4	4	Analyzing Connection Closed Exception in Spring/JPA/Mysql/Tomcat app
+Q5	3	Tomcat JDBC Conencton Pool + MySQL gives &quot;Broken pipe&quot; problems  even with connection validation
+Q6	2	Connection Pooling in a java chat server
+Q7	2	Why is our Connection Pool Closing?
+Q8	2	Network error using eclipselink with internal connection pool (solved)
+Q9	2	Can I change the maxActive property of a org.apache.tomcat.jdbc.pool.DataSource dynamically?
+Q10	2	Using connection pool

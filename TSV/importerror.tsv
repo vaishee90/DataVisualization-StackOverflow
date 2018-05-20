@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	2	Exception in thread &quot;main&quot; org.pdfclown.util.parsers.ParseException: &#39;name&#39; table does NOT exist

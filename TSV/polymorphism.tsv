@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	20	How does the &quot;this&quot; keyword in Java inheritance work?
+Q2	8	Polymorphism  how to avoid type casting?
+Q3	5	Java  Polymorphism  Static Typing and the &quot;QueryInterface&quot; pattern
+Q4	5	Forcing two similar classes to behave as if they were polymorphic in Java
+Q5	5	Why if static method don&#39;t involve in polymorphism(late binding) I see error that static method cannot be overriden
+Q6	5	Java - avoid switch statements for static functions
+Q7	5	Dynamically cast to subclass to use correct method overload
+Q8	4	Polymorphism and Interfaces in Java
+Q9	4	parent / child method overriding
+Q10	4	Java: Can catch blocks be polymorphic?

@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	7	Java EE Security: JASPIC / JAAS or apply a Security Framework? (Glassfish 3)
+Q2	3	Is it possible to determine group membership of a user on demand instead of when logging in in ServerAuthModule (JASPIC)
+Q3	2	Use JASPIC auth module on WebSphere 8.5
+Q4	2	Wildfly 8.1.0 Final / JASPIC: ServerAuthModule.validateRequest() not being called when invoking HttpServletRequest.authenticate()

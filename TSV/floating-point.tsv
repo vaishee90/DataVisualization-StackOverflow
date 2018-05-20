@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	127	Why does adding 0.1 multiple times remain lossless?
+Q2	65	Is (x - x) always positive zero for doubles  or sometimes negative zero?
+Q3	60	How do I check if a zero is positive or negative?
+Q4	57	Round a double in Java
+Q5	53	Will floating point operations on the JVM give the same results on all platforms?
+Q6	46	Are the bit patterns of NaNs really hardware-dependent?
+Q7	37	Math.pow yields different result depending on java version
+Q8	12	Difference in output printing a pre-initialized Java double vs. inline
+Q9	8	Assigning floating value to a double value
+Q10	6	why 0.0f/0.0f doesn&#39;t generate any runtime error?

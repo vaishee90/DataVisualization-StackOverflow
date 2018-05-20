@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	3	Can I delete data records or shards from amazon Kinesis without deleting stream?
+Q2	3	Amazon Kinesis getRecord() mismatch results
+Q3	2	Explain Kinesis Shard Iterator - AWS Java SDK

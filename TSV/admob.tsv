@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	9	Ad Size and Ad unit id must be set before loadAd is called
+Q2	4	The constructor AdRequest() is not visible
+Q3	4	My Admob ad is not drawing but is there? (LibGDX Admob 6.4.1)
+Q4	3	AdMob - Error inflating Class com.google.gms.AdView
+Q5	3	How to setup admob on IntelliJ Idea?
+Q6	2	Intent hiding adview in android app
+Q7	2	DoubleClick for Publishers in Google Play Services cause NullPointerException in 4.2.2
+Q8	2	Android Studio: The following classes could not be instantiated: -&#160;com.google.android.gms.ads.AdView (Open Class  Show Exception)
+Q9	2	How to write a common public function to load Admob ad for Activity  ListActivity and PreferenceActivity?
+Q10	2	Why does (new) Admob attempt to cast my custom mediation adapter to the old version?

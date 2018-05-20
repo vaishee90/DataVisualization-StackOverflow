@@ -1,0 +1,8 @@
+Number	Votes	Question
+Q1	16	Why doesn&#39;t Java 8&#39;s Predicate&lt;T&gt; extend Function&lt;T  Boolean&gt;
+Q2	14	How to negate a method reference predicate
+Q3	5	How to apply multiple predicates to a java.util.Stream?
+Q4	4	To check whether all elements of a `Stream` are identical
+Q5	3	NPE on jpa findAll with specification/predicate
+Q6	3	Creating a generic predicate in Java 8
+Q7	2	Java Lambda&#39;s Parse down a Collection with a Conditional Check

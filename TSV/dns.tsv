@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	2	Using domain alias instead of host name in kerberos authentication
+Q2	2	Java resolve dns via proxy when using custom ProxySelector
+Q3	2	Why is my JVM application intermittently resolving hostnames as if they were not absolute?
+Q4	2	How to use Socks 5 proxy with Apache HTTP Client 4?

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	19	Why is this method overloading ambiguous?
+Q2	18	Java overloading with variable length arguments
+Q3	6	why use putFloat(String key  float value)  putInt(String key  int value) instead of overload put(...)
+Q4	6	overloading method priority
+Q5	5	Ambiguity error while overloading var args method and wrapper methods in java
+Q6	4	Overloading in Java
+Q7	3	Overloading constructor with a generic type in java
+Q8	3	different varargs priority for primitive and objects
+Q9	2	Overload java method by List&lt;&gt;
+Q10	2	Why is this overloaded method being called instead of the more specific?

@@ -1,0 +1,8 @@
+Number	Votes	Question
+Q1	7	finalize() called on strongly reachable object in Java 8
+Q2	5	Objects not being finalized and Finalizer thread not doing anything
+Q3	3	finalize() not getting called
+Q4	3	The finalize method in &lt;Thinking in java  4th Edition&gt;
+Q5	3	close  destructor and finalize: Java contradictions
+Q6	3	Does Garbage Collector ignores Exception
+Q7	3	How is an object marked as finalized in Java (so that the finalize method wouldn&#39;t be called the second time)?

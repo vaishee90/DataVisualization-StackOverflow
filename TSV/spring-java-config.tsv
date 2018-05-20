@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	16	Spring Java Config: how do you create a prototype-scoped @Bean with runtime arguments?
+Q2	11	How To Inject AuthenticationManager using Java Configuration in a Custom Filter
+Q3	5	Automatically configure beans in root and dispatcher application context with single annotation
+Q4	4	How can Spring life cycle methods be prevented when using Java Config?
+Q5	4	How to configure spring security 3.2 to use dao authentication and custom authentication filter using java config
+Q6	3	Spring Batch SplitBuilder does not execute the starting flow
+Q7	3	Spring Config from XML to Java not working
+Q8	2	Pattern matching for properties in a Java-based Spring configuration
+Q9	2	How to redirect HTTP requests to HTTPS using Spring Security Java configuration?
+Q10	2	Spring Javaconfig based autowire by name not working

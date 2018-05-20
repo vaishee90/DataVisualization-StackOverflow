@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	18	java thread accessing outer object before it&#39;s created
+Q2	16	Java 8 Double curly bracket initialization and name collision
+Q3	16	Constructor reference for inner class fails with VerifyError at runtime
+Q4	8	Too many inner classes?
+Q5	7	Inner classes with the same name as an outer class?
+Q6	7	Why can&#39;t I statically reference an inner class&#39;s static method on a generic class?
+Q7	5	Implementing meaningful equals method for non-static inner classes
+Q8	5	The final local variable cannot be assigned  since it is defined in an enclosing type
+Q9	4	Inner Class Java: No enclosing instance is accessible
+Q10	4	call function of outter class from inner anonymous class (same class as outter)

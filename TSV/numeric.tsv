@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	23	Is Java-8&#39;s DoubleStream.sum() method stable when run in parallel?
+Q2	3	Numerical inaccuracy calculating intersection

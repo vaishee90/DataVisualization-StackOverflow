@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	16	Is it possible to instantiate a jvm from a heap dump?
+Q2	7	Java Memory &quot;Leak&quot; with ConcurrentLinkedQueue$Node
+Q3	4	How do I produce a heap dump with only a JRE?
+Q4	4	Increasing the max size of jvisualVM OQL resultset
+Q5	4	How can I find the local variables in Heap file
+Q6	3	Using -XX:HeapDumpPath option but want to integrate the process id
+Q7	3	Generate Java Heap Dump on uncaught Exception
+Q8	3	Does Java VisualVM gives correct Heap Size of heap dump (.hprof file)
+Q9	2	Does not Java create heapdump when native allocation fails
+Q10	2	Does -XX:+HeapDumpOnOutOfMemoryError create any security or performance issues?

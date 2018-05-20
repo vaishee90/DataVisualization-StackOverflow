@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	5	how can i retrieve data from multiple databases in a single query?
+Q2	5	java.sql.SQLException: No suitable driver found for jdbc:mysql://localhost:3306/dbname
+Q3	3	Unable to access Internet via WiFi from a Background service

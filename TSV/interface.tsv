@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	71	When is an interface with a default method initialized?
+Q2	59	Default method returns true for a while  and then returns false? (Possible JVM bug)
+Q3	31	What are the differences between abstract classes and interfaces in Java 8?
+Q4	28	Can an interface method have a body?
+Q5	25	Which method is overridden?
+Q6	23	Does abstract class extend Object?
+Q7	20	Java Generics Interface casting
+Q8	16	Why can&#39;t I use from the static method of the implemented interface?
+Q9	15	Interfaces and generics in Java
+Q10	13	Cast to unimplemented interface compiles

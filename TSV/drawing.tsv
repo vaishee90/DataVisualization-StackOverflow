@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	10	Android Canvas  multiple paths with different zoom amounts
+Q2	5	Mystery (concurrency/component drawing?) bug in very simple Swing dice program
+Q3	3	Why does this this Swing bug occur when using repaint() and not with getParent().repaint()?
+Q4	3	Easy way of drawing a straight dotted line in libgdx?
+Q5	2	A glitch with Edge label offset
+Q6	2	Any Java drawing API similar to Processing?
+Q7	2	Drawing Bitmap Along a Path on Canvas
+Q8	2	Draw all textures flipped?
+Q9	2	How do I copy part of Zest Graph to SWT Canvas
+Q10	2	Android: Converting XML android:background to Java Program Code

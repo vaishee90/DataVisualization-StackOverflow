@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	23	Swing rendering appears broken in JDK 1.8  correct in JDK 1.7
+Q2	3	Texture repeating on quads OpenGL
+Q3	2	OpenGL - Java - Rendering Issue  Polygons flickering and disappearing
+Q4	2	How to make jsf change what is rendering after button press using f:ajax?
+Q5	2	10 threads painting on one JPanel

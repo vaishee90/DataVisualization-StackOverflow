@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	10	Running a Job on Spark 0.9.0 throws error
+Q2	7	How to run HBase in distributed mode on windows without cygwin?
+Q3	6	what difference between execute a map-reduce job using hadoop and java command
+Q4	3	Datanode daemon not running on Hadoop 2.5.0
+Q5	3	How to write a pig algebraic udf for group by
+Q6	2	OpenCV imread from Hadoop/HDFS
+Q7	2	Hbase Bulk loading exception (HFile version)
+Q8	2	Set Hadoop output folder replication in Java code before execution
+Q9	2	Troubles writing temp file on datanode with Hadoop
+Q10	2	loading data into hdfs in parallel

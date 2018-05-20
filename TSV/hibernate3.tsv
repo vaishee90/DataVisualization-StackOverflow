@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	2	Hibernate does not rollback natively generated ID after Hibernate Exception

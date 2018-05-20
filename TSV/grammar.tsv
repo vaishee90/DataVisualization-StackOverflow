@@ -1,0 +1,10 @@
+Number	Votes	Question
+Q1	79	What makes Java easier to parse than C?
+Q2	5	Java grammar definition completeness
+Q3	4	Getting ANTLR to generate a script interpreter?
+Q4	3	Design rationality of expression levels in the Java grammar
+Q5	3	Replacing an if statement with a disjunction
+Q6	2	Visitor methods for Java grammar not working in ANTLR 4.4
+Q7	2	can be &#39;this&#39; omitted when invoking method in Java?
+Q8	2	Antlr remove left recursion while keeping math-expressions and bool-expressions separately
+Q9	2	How to use Java to parse Clojure grammar and visualize it

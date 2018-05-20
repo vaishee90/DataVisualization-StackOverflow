@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	6	Overriding method with generics not working (no method found)
+Q2	5	Run time polymorphism Concept of OOPS
+Q3	5	Why if static method don&#39;t involve in polymorphism(late binding) I see error that static method cannot be overriden
+Q4	5	Opposite tag to @Override in Java
+Q5	4	Calling an overridable method in constructor is bad. Are there exceptions?
+Q6	3	Scala - override a class method in a trait
+Q7	3	Is is good practice to add a dummy method into a superclass so the subclass can override it?
+Q8	3	Overriding non-generic methods by generic method
+Q9	3	Does adding &quot;synchronized&quot; affect method overriding?
+Q10	3	@Override annotation in Java

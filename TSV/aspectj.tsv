@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	16	Error while compiling when using AspectJ compiler instead of Javac
+Q2	6	Duplicate classes when using Maven AspectJ weave dependencies
+Q3	5	Aspects not getting executed
+Q4	4	Running AspectJ causes NoSuchMethodError: Aspect.aspectOf
+Q5	4	How can I use AOP to intercept the constructor of File  FileReader  FileWriter  FileInputStream and FileOutputStream?
+Q6	4	Java8 and Aspectj plugin are not compatible?
+Q7	4	Adding AspectJ to pom.xml changed Java version with Maven  why?
+Q8	3	How Spring aspects work internally?
+Q9	3	using Spring @Profile in @Aspect
+Q10	3	Running JDK8 for aspectj

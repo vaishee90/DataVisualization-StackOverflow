@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	67	Why is &quot;while (i++ &lt; n) {}&quot; significantly slower than &quot;while (++i &lt; n) {}&quot;
+Q2	3	Different Output for b=+1 in java
+Q3	3	Why does `--var` and `var-1` work differently?

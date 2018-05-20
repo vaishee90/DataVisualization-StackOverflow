@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	6	How do I set the java.util.logging log level in maven (for Jenkins plugin (JenkinsRule) tests)
+Q2	2	Multiple formats in logging.properties
+Q3	2	How can I use log level FINE without summoning an infinite stream of platform debug logging?
+Q4	2	What are the default parameters to SimpleFormatter with the default Java Logging API?

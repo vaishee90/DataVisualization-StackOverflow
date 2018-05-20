@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	5	&quot;com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure&quot; to remote databse
+Q2	4	If connection is closed by a Database  do I need to close it manually?
+Q3	4	Error while sending files through bluetooth in android?
+Q4	3	Java - closing a ServerSocket without Exceptions?
+Q5	2	Why is creation of Clob tied to the Connection class?
+Q6	2	Java Connection String to query from two database
+Q7	2	Is there any way to distinguish a connection timeout from a socket timeout?
+Q8	2	Why do I see NotUpdatable when I invoke ResultSet.refreshRow()?
+Q9	2	Socket server no connection
+Q10	2	Conflict between Netbeans IDE 8.0 and UCanAccess?

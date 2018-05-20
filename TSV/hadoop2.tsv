@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	6	Running Hadoop MR jobs without Admin privilege on Windows
+Q2	2	namenode does not come up with hadoop YARN
+Q3	2	Troubles writing temp file on datanode with Hadoop
+Q4	2	Is Hadoop Text datatype mutable or immutable?

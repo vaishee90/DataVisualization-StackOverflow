@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	27	Java 8 Unsafe: xxxFence() instructions
+Q2	2	Could this (unsafe) code crash the JVM?

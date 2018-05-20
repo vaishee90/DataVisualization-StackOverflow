@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	0	Why does java.awt.font.TextLayout.draw() result into incorrect spacing between Words/Characters when oblique(Italic/Bold Italic) fonts are used?

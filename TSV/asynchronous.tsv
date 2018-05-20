@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	11	AsyncContext response does not match original incoming request?
+Q2	9	How to use Asynchronous Callbacks in Jersey 2 in tomcat 7
+Q3	8	Best practices with Akka in Scala and third-party Java libraries
+Q4	8	Scala async vs. Java ForkJoinTask
+Q5	7	Threads sitting idle = bad?
+Q6	6	RxJava Fetching Observables In Parallel
+Q7	6	Waiting for asynchronous callback in Android&#39;s IntentService
+Q8	5	How to configure Async and Sync Event publishers using spring
+Q9	5	Play framework async processing and blocking I/O in Java
+Q10	4	How to identify if a request type is synchronous or asynchronous

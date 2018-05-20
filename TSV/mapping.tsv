@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	4	Java 8 Collectors API
+Q2	3	Dozer Mapping field type=&quot;one-way&quot; not working as expected
+Q3	3	JNA and Java Language Keywords
+Q4	3	Association class Mapping in Hibernate
+Q5	3	Is is possible to inject a custom Jackson ObjectMapper in spring-data-mongodb?
+Q6	2	Null Pointer Exception in setter of entity in hibernate
+Q7	2	Is there a way to map a Set to a List with BeanUtils.copyProperties?
+Q8	2	Java 8 stream map reusing assigned variable
+Q9	2	How can I manually write mapping for jooq without generator?
+Q10	2	my servlet mapping spoil my filter

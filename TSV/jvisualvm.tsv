@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	4	Increasing the max size of jvisualVM OQL resultset
+Q2	3	jvisualvm: Software caused connection abort: socket write error
+Q3	2	Automating Tomcat Thread/heap dump for further analysis
+Q4	2	jvisualvm hangs when profiling a local process

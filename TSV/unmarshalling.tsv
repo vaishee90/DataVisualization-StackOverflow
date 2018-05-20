@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	5	How to validate an XML against schema using JAXB?
+Q2	4	How to bind a xml element into an object member variable?
+Q3	4	How to set custom ValidationEventHandler on JAXB unmarshaller when using annotations
+Q4	4	JAXB unmarshalling returns &#39;URI is not absolute&#39; error
+Q5	3	using JaxB to unmarshall object which contains List&lt;String&gt; field
+Q6	3	How to state the order of Attributes in XML after using JAXB  either in maven or elsewhere
+Q7	3	How to invoke JAXB XMLAdapter directly
+Q8	2	Jaxb Unmarshall finds an expected tag and fails because it&#39;s unexpected
+Q9	2	JAXB2 type restriction not working?
+Q10	2	JAXB: Unmarshall invalid xml document to object

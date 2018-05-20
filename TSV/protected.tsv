@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	51	Why we should not use protected static in java
+Q2	5	Javadoc for private/protected methods?
+Q3	4	Protected member difference in Java and c#
+Q4	3	Which class members should have protected modifier?
+Q5	3	What does the Java compiler do when it sees the keyword extends?
+Q6	3	Why is there a compilation error when accessing protected method from subclass in Java?
+Q7	2	If i have base class in package1 with protected method
+Q8	2	Restricting child class from accessing parent class method
+Q9	2	Why Object class in java contains protected method
+Q10	2	Why protected methods are not intercepted by Spring AOP

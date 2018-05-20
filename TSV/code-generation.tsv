@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	12	How are exceptions caught and dealt with at the low (assembly) level?
+Q2	3	Where should I configure code generation in NPM packages?
+Q3	3	How can I use Java annotations to insert some boilerplate code as with C macro?
+Q4	3	Why does jOOQ suggest to put generated code under &quot;/target&quot; and not under &quot;/src&quot;?
+Q5	3	Eclipse generating equals method: if ( obj == null ) vs. if ( null == obj )
+Q6	3	Writing a code generator that refers to existing Java classes
+Q7	2	Is there any way to add &quot;this&quot; key word automatically to class fields in Intellij Idea?
+Q8	2	Intellij IDEA generate update method from another object instance. (update RealmObject)
+Q9	2	How to invoke Xtend code from Java?
+Q10	2	Caching generated classes in Byte Buddy?

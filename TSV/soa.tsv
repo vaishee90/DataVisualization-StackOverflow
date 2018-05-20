@@ -1,0 +1,7 @@
+Number	Votes	Question
+Q1	13	Inheritance (Late Binding) via Dependency Injection in Java
+Q2	4	SOA (ish) architecture  where to place common code?
+Q3	3	Transactions in microservices
+Q4	2	Client artifacts generated in a java web service
+Q5	2	BPEL vs Domain Events for integrating several bounded contexts
+Q6	2	Anonymous JAX-RS Resources

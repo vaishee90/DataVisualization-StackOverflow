@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	8	Strange generics behaviour. Being erased early?
+Q2	7	Java name clash error  despite different method signatures
+Q3	7	Odd compiling error with generic classes and lists
+Q4	5	Autowiring based on generic types in Spring. How does it work?
+Q5	4	scala/java incompatibility: overloaded methods with varargs
+Q6	4	Is it possible to detect comparison of incompatible types with the Java type system?
+Q7	4	Why can&#39;t I define these two constructors in Java for a single class?
+Q8	3	generics collections.mixin raw and generic type. Integer -&gt; String - exception but String -&gt; Integer works good
+Q9	2	Confused about the generic which extends an exist Enum type
+Q10	2	Restrictions on Generics in java and reflection

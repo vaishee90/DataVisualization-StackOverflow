@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	23	Is this Java double-parsing behavior according to spec?
+Q2	5	Double value with two decimal using NumberFormat
+Q3	4	Why does NumberFormat.format throw an NullPointerException?
+Q4	4	Multiple JSpinners Initialized differently
+Q5	4	how %f works in java
+Q6	3	How to convert an integer according to international number system in java (Number Formatting)
+Q7	3	Method to Insert Commas into Large Numbers
+Q8	2	Java: formatting numbers error?
+Q9	2	Unexpected number formatting in printed String
+Q10	2	GWT: how to format number on server and client (Gin/Guice)

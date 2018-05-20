@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	3	Eclipse keeps bin/META-INF/persistence.xml in use
+Q2	2	How to get Hibernate dialect during runtime
+Q3	2	How to log JPA/SQL queries with JavaMelody?
+Q4	2	Java JPA Hibernate Connection Issue
+Q5	2	Cannot call JNDI resource in persistence.xml file

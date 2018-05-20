@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	11	JPA/Hibernate load recursive object graph without N+1/cartesian products
+Q2	5	JSR-356: How to abort a websocket connection during the handshake?
+Q3	4	use endorsed standard override mechanism for xerces in GlassFish 4.0
+Q4	4	The NetBeans IDE issues unusual compiler errors on &quot;Clean and Build&quot; or external changes.The IDE becomes unaware of the JPA generated static metamodel
+Q5	4	Can implementing Java copy constructor result in same instance?
+Q6	4	How to configure spring security 3.2 to use dao authentication and custom authentication filter using java config
+Q7	3	How to instantiate more CDI beans for one class?
+Q8	2	Multiple GET methods match: select most specific
+Q9	2	How to implement push to client using Java EE 7 WebSockets?
+Q10	2	How to Convert Gregorian String to Gregorian Calendar

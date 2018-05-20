@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	2	getServletContext().getRealPath() in Tomcat 8 returns wrong path

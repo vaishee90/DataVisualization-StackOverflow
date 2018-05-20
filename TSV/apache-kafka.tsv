@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	8	Delay in Consumer consuming messages in Apache Kafka
+Q2	4	How can Kafka limitations be avoided?
+Q3	4	How to achieve multi-tenancy in the context of Kafka and storm?
+Q4	4	kafka 8 and memory - There is insufficient memory for the Java Runtime Environment to continue
+Q5	3	Kafka: writing custom serializer
+Q6	3	Apache Kafka - KafkaStream on topic/partition
+Q7	3	run Spark Kafka wordcount.java example without &quot;run-example&quot; script
+Q8	2	Retaining data in Apache Kafka
+Q9	2	Compare Opaque or Transactional Kafka spout
+Q10	2	Kafka java consumer freezes after rebalance failure

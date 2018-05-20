@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	111	Why is Cloneable not deprecated?
+Q2	4	What is the reason for ever needing to clone an object in java?
+Q3	2	Why do I have the option to remove the throws clause here even though the interface I inherit from defined it?
+Q4	2	How do I copy a Queue in Java?

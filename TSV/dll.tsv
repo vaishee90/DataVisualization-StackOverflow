@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	3	My RCP got stuck inside a DLL file
+Q2	3	How to fix invalid memory access on dll calback call from java?
+Q3	3	JNI - Listener in C++/Java - is it possible to instantiate Java objects in c++ and use them as parameters
+Q4	2	Pointer issues when mapping native C functions to Java interface with JNA
+Q5	2	Invalid memory access
+Q6	2	How to load and use functions of third party .dll in Java
+Q7	2	Can a C library be loaded directly in Java without using JNI?
+Q8	2	How to call C/C++ asynchronous callback (in DLL) from JAVA
+Q9	2	Access .net dll through JNA in java
+Q10	2	Parallel invokation of non reentrant native function using JNA

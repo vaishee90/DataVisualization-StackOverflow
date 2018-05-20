@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	25	Uploading a file over SSL with Client Side Certificate and Android&#39;s HttpsURLConnection
+Q2	8	Java http clients and POODLE
+Q3	7	Play framework 2.2.1 HTTPs fails on connection attempt
+Q4	4	Java Https client certificate works absolutely differently than browsers or other tools
+Q5	4	Behavior of HttpURLConnection for URL with Revoked SSL Certificate?
+Q6	3	Capture https header from Java
+Q7	3	Is this a false SSL connection between Apache + Tomcat?
+Q8	3	How to get KeyStore from usb token in Java
+Q9	2	How to hide password from Post request url and browser dump
+Q10	2	HTTPS certificate validation fails when using a trustStore

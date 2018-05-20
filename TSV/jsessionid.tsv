@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	3	JBoss 7 appends JSESSIONID to URL despite tracking-mode cookie
+Q2	2	Configure weblogic.xml to send secure JSESSIONID

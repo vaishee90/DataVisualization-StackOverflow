@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	5	DataOutputStream: purpose of the &quot;encoded string too long&quot; restriction
+Q2	4	Why DataOutputStream doesn&#39;t create a &quot;Resource leak: stream never closed &quot; warning
+Q3	3	DataOutputSteam is throwing me a &#39;java.io.IOException: unexpected end of stream&#39;?
+Q4	2	Unexpected behaviour in TCP socket connection Java Client&lt;-&gt; c++ server

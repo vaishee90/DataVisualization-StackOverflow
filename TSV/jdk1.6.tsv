@@ -1,0 +1,9 @@
+Number	Votes	Question
+Q1	19	Why is this method overloading ambiguous?
+Q2	4	JVM ACCESS_VIOLATION_EXCEPTION when constructing String from array on obsolete JVM
+Q3	3	Hibernate issue java.lang.Boolean cannot be cast to java.lang.String Using JDK 1.7
+Q4	3	solr-solrj 4.9.0 run on jdk 1.6?
+Q5	3	Freezing the max heap space option
+Q6	3	Java Cross-Compilation - Benefits of Latest JDK
+Q7	2	Unexpected &quot;unchecked conversion&quot; warning
+Q8	2	Is it possible to write a program in Java without main() using JDK 1.7 or higher?

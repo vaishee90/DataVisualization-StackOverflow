@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	2	Maven assembly -- how to create the project JAR with version included  but the artifact tar.gz file without?
+Q2	2	Maven: Copying dependencies by a property
+Q3	2	How to produce a executable jar with maven that contains a subset of dependencies?

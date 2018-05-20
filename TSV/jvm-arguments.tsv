@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	9	How can I determine why the Hotspot JVM decided to re-compile already JIT:ed code a second time?
+Q2	5	JVM Memory Tuning Advice
+Q3	4	Why are JVM memory parameters usually in multiples of 256?
+Q4	4	What does -Xmn jvm option stands for
+Q5	4	Can I change JVM parameters during execution
+Q6	3	PS Old Gen memory in Heap Memory Usage: GC settings
+Q7	3	Java: How to specify JVM argument -XX:ErrorFile and preserve automatic PID in filename
+Q8	3	Freezing the max heap space option
+Q9	3	Effects of large difference between -Xms and -Xmx
+Q10	2	Automating Tomcat Thread/heap dump for further analysis

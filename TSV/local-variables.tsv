@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	7	What is the purpose of using a local variable to hold a global one?
+Q2	3	How can we control if a variable exists or not in Java?
+Q3	2	What is the logic behind not to initialize local variable and to initialize property (integer) to 0?
+Q4	2	Java: float  long local initialision
+Q5	2	Local Variables will not initialize (Java)

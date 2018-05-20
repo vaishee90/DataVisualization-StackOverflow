@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	3	Is it possible to force update a project without running a default lifecycle phase?
+Q2	2	Jenkins and Perforce password issue
+Q3	2	maven - Can&#39;t release project due to non released dependencies
+Q4	2	When I use the maven-release-plugin to release a branch  why does it try to create the branch from revision 0?

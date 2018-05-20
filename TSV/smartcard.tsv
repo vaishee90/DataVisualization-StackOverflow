@@ -1,0 +1,8 @@
+Number	Votes	Question
+Q1	4	Always ask for the pin KeyStore PKCS11
+Q2	3	DoD CAC ADPU Commands
+Q3	2	Writing and Reading certificates from smartcard
+Q4	2	How I can find a list of APDUs that a applet supports?
+Q5	2	Deploy javacard applet on a Jcard
+Q6	2	Mark Javacard applet as implicit selectable (default applet) after install
+Q7	2	override/redirect file calls from JNI or NDK

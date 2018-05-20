@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	1	Why does Integer.bitCount() return 8 for an input of 255?

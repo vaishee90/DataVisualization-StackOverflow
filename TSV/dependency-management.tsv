@@ -1,0 +1,9 @@
+Number	Votes	Question
+Q1	4	SOA (ish) architecture  where to place common code?
+Q2	4	Removing unused libraries without breaking the code
+Q3	3	Best practice for dependency management in a project with a huge number of dependencies
+Q4	3	maven project checkin in svn with local jar
+Q5	2	Remove unnecessary dependencies in POM
+Q6	2	How download maven artifact from remote repository to local folder?
+Q7	2	Embed Apache stanbol in java application(Maven)
+Q8	2	Is the tag &quot;&lt;optional&gt;&quot; valid in dependencyManagement element?

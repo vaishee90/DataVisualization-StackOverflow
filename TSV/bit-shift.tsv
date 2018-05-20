@@ -1,0 +1,7 @@
+Number	Votes	Question
+Q1	8	How does using &gt;&gt;&gt; 1 prevent overflow when adding two numbers than dividing by 2?
+Q2	4	Which real use cases exist for arithmetic right bit shifting?
+Q3	4	Bitshifting a long in Java
+Q4	3	Bit manipulation modify bits to include number
+Q5	3	Java left shift and fills with Zeros
+Q6	2	Shifting over type bit size

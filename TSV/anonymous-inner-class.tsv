@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	29	Difference between new Test() and new Test() { }
+Q2	21	Lambda behaving differently than anonymous inner class
+Q3	11	Code behaves different after converting anonymous class to lambda
+Q4	4	Access an instance of a class from anonymous class argument
+Q5	4	Instantiating anonymous inner classes in Java with additional interface implementation
+Q6	3	Netbeans fails to find main class when creating anonymous subclass of inner class of anonymous subclass
+Q7	3	declaring function while instantiating a class
+Q8	3	Anonymous inner Comparable class in Java method?
+Q9	3	Build an anonymous inner class and call its methods
+Q10	2	How many local method anonymous classes are created?

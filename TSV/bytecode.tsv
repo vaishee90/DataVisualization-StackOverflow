@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	64	Why does one long string take MORE space than lots of small strings?
+Q2	13	Why switch on String compiles into two switches
+Q3	9	What kind of Java code requires stackmap frames?
+Q4	8	What scala statements or code can produce a byte-code which can not be translated to java?
+Q5	7	Is there a better explanation of stack map frames?
+Q6	7	What JVM optimization is causing these performance results?
+Q7	7	Can you inspect the byte code of a Java 8 lambda at runtime?
+Q8	7	Does it matter for runtime performance if a method is called by its explicit type?
+Q9	5	Java - When is the 0th local variable not &#39;this&#39;?
+Q10	4	If exception does not occur - does it affect performance?

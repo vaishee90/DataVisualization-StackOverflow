@@ -1,0 +1,7 @@
+Number	Votes	Question
+Q1	3	DocumentFilter: Why is replace() invoked and not insertString()?
+Q2	3	Document Filter vs. KeyListener vs. MaskFormatter
+Q3	2	JTextField  using Document Filter to filter integers and periods
+Q4	2	How to accept only numeric values between 0 and 8 in JTextfied?
+Q5	2	How to use MaskFormatter and DocumentFilter together
+Q6	2	CellEditor with DocumentFilter never get called

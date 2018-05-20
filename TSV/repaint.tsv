@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	3	My Jtable doesnt refresh
+Q2	3	JLabels in GridLayout are Not Always Painted
+Q3	3	How can I force a repaint() after every update() in a for loop in Java?
+Q4	3	Why does this this Swing bug occur when using repaint() and not with getParent().repaint()?
+Q5	3	Redrawing JFrame lag/pop-in
+Q6	3	How to change image in JPanel without using a new JFrame (Repaint() doesn&#39;t work! )
+Q7	3	Java Swing screen artifacts
+Q8	2	paintComponent() gets called only when Minimizing-Maximizing Screen
+Q9	2	How does multi arg version of repaint works in Java?
+Q10	2	Does random function does not executes again in repaint?

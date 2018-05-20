@@ -1,0 +1,10 @@
+Number	Votes	Question
+Q1	5	Why is an Integer variable assigned null by default?
+Q2	5	Why won&#39;t Java pass int[] to vararg?
+Q3	3	Android Documentation - String a primitive type? Confusion
+Q4	3	Why Byte can&#39;t hold a value that is within its range?
+Q5	2	How to write mockito matcher for byte[]?
+Q6	2	Why String Is so Special?
+Q7	2	Why my swap function works?
+Q8	2	Why does NetBeans warn about passing int[] to vararg?
+Q9	2	how to derive boxed classes in Java from primitive types

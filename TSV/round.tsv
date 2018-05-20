@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	3	Is the rounding mode of large float literals well-specified?
+Q2	2	Java Double Trouble - How can I ensure 4.45 is 4.45 without using BigDecimal?

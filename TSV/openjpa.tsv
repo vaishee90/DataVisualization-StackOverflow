@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	3	How to move entity from one database to another using openjpa?
+Q2	2	Trigger event in openjpa when row changes in database
+Q3	2	OpenJPA PersistenceException: LongId cannot be cast to MyEntityClass... @OneToMany in combination with FetchType.EAGER

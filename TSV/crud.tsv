@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	4	How to override a delete method on a Spring Data CrudRepository?
+Q2	2	Prevent user from changing id before update in WebApps
+Q3	2	Spring MVC CrudRepository findByIn

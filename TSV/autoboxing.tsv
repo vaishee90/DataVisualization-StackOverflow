@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	14	Java autoboxing and ternary operator madness
+Q2	8	Difference between long.Class and Long.TYPE
+Q3	7	Java allows to assign byte to java.lang.Short but not to java.lang.Integer
+Q4	7	Is Java&#39;s equality operator commutative?
+Q5	6	How java auto boxing/unboxing works?
+Q6	5	java : Understanding Arrays.asList(T...array) method for primitive types
+Q7	5	When does autoboxing take place exactly?
+Q8	4	Method invokes inefficient new Integer(int) constructor; use Integer.valueOf(int) instead
+Q9	4	Why doesn&#39;t Java autobox int to Integer for .equals(Object) method?
+Q10	4	Does the JVM optimize unnecessary autoboxing?

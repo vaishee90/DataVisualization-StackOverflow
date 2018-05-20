@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	1	Should WeakReference to a Context object be used when instantiating a Loader/AsyncTask?

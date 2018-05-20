@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	1	How can I secure a Javascript call to a Java Servlet via XMLHttpRequest such that it cannot be used if the url is manually entered into a browser?

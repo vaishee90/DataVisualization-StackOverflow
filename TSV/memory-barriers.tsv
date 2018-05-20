@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	20	Behavior of memory barrier in Java
+Q2	2	Avoiding concurrent structures by manually triggering memory barriers
+Q3	2	Is logback isDebugEnabled() slow on a multi core CPU?

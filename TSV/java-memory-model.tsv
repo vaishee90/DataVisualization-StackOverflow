@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	26	Could the JIT collapse two volatile reads as one in certain expressions?
+Q2	20	Behavior of memory barrier in Java
+Q3	14	Does Java reordering affect System.currentTimeMillis()?
+Q4	13	Is the lockless lazy loading pattern used in Guava really thread-safe?
+Q5	9	Are synchronizes-with edegs compiler re-ordering barriers in both directions?
+Q6	8	What JVM synchronization practices can I ignore assuming I know I will run on x64 cpus?
+Q7	5	Value integrity guarantee for concurrent long writes in 64-bit OpenJDK 7/8
+Q8	5	volatile + immutable holder object = thread safe?
+Q9	5	Why is volatile variable much more efficient than plain synchronization
+Q10	4	Happens-Before relation in Java Memory Model

@@ -1,0 +1,7 @@
+Number	Votes	Question
+Q1	6	renaming a field using javassist at runtime in the pre-main method (java instrumentation)
+Q2	5	Unable to modify annotation of package-info.java using Java 8
+Q3	4	Redefine method signatures of methods that are called from another compiled method
+Q4	3	java.lang.verify errors in Zulu 1.7.65
+Q5	3	Bad &lt;init&gt; method call from inside of a branch
+Q6	2	javassist get CtClass from a third party library/jar

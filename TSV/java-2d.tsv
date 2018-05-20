@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	7	Icon with TexturePaint throws InternalError: Surface not cachable
+Q2	5	How to serialize Java 2D Shape objects as XML?
+Q3	3	Trouble with mouseDragged and multiple objects
+Q4	3	How to save current state of graphics on JPanel
+Q5	3	How to draw inner stroke with Java2D
+Q6	3	Graphics2D setfont() heavily slows down the start up of java application
+Q7	3	What&#39;s the order of the pixel components returned by Raster.getPixels()?
+Q8	2	Filling with Graphics#fillOval looks off
+Q9	2	Force full redraw of a Jpanel Java2D
+Q10	2	Appending circle shape to Path2D

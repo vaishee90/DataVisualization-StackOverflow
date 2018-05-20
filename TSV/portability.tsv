@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	3	\\n and \\r seem to work everywhere. Why is line.separator more portable?
+Q2	2	Does Java&#39;s % operator ever overflow?

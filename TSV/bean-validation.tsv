@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	4	Bean validation group sequence not working
+Q2	3	JSR 303 Bean Validation in java SE or inside jaxb
+Q3	3	hibernate-validator strange IOException: Stream closed
+Q4	3	Strategy for cross field validation in Vaadin
+Q5	3	Can I change the property path in a ConstraintValidator for Method arguments?
+Q6	2	Spring bean validation with hibernate annotation warning messages resolution
+Q7	2	Inject property value into java validation error message
+Q8	2	Adding constraint violation manually
+Q9	2	Hot to write a custom validator with apache bval
+Q10	2	How to remove redundant Spring MVC method by providing POST-only @Valid?

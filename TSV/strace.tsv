@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	6	strace: Any sense in `dup2(A  B); close(B)`?
+Q2	2	Slow service response Times : Java SecureRandom &amp; /dev/random

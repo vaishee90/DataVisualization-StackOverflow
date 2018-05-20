@@ -1,0 +1,7 @@
+Number	Votes	Question
+Q1	4	List of a list of generic type in Java possible?
+Q2	3	method is not applicable for generic method arguments
+Q3	3	Java Generics - Using Lists of Elements implementing an Interface
+Q4	3	Restricting Java generic parameter type to a list of final classes
+Q5	2	Why does undefined Generics types of Collections defaults to Object even if bound to other class?
+Q6	2	Can I get Clazz.class on a generic type?

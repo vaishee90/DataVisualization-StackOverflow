@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	19	How does the JVM internally handle race conditions?
+Q2	5	Java try-finally race condition?
+Q3	4	Is there a better AtomicInteger compare feature for race conditions?
+Q4	2	Where is the 2nd thread in the race condition?
+Q5	2	Can Synchronized Methods Have Race Conditions? [Example]

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	10	How to run a spark java program
+Q2	10	Running a Job on Spark 0.9.0 throws error
+Q3	6	apache spark MLLib: how to build labeled points for string features?
+Q4	6	Decision tree implementation issue in apache spark with java
+Q5	5	Spark MLLib TFIDF implementation for LogisticRegression
+Q6	5	Spark MLlib 0.91 org.jblas.DoubleMatrix errors
+Q7	5	how to fetch all of data from hbase table in spark
+Q8	5	Spark with Cassandra input/output
+Q9	5	spark 0.9.1 on hadoop 2.2.0 maven dependency
+Q10	5	How to run simple Spark app from Eclipse/Intellij IDE?

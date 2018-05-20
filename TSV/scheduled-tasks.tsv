@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	7	scheduleAtFixedRate vs scheduleWithFixedDelay
+Q2	6	implement a &quot;task based&quot; program in Java without the use of a clock
+Q3	6	Does spring @Scheduled annotated methods runs on different threads?
+Q4	4	Dropwizard ScheduledExecutorService
+Q5	3	Use @Scheduled annotations in an  at runtime  created spring bean
+Q6	3	Multiple spring task executors with annotation-driven spring tasks
+Q7	2	Replace scoped session bean for background task
+Q8	2	Spring web app. One war multiple application context
+Q9	2	Schedule Task in java using Timer
+Q10	2	run threads according to the time limit

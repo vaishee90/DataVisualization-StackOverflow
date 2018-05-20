@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	2	Does iterator continuously provide current view of the underlying data in LevelDB?
+Q2	2	Default Comparator for LevelDB

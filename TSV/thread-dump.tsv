@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	7	Is there a way to generate a periodic java thread dump using JVMTI?
+Q2	3	understanding line from java thread dump
+Q3	2	Automating Tomcat Thread/heap dump for further analysis
+Q4	2	Java thread dump  can&#39;t find thread that blocking others

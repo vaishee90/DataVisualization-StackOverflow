@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	6	Advice deploying war files vs executable jar with embedded container
+Q2	5	spring-boot without parent pom.xml cannot generate war packaging
+Q3	5	Deploy WAR or &quot;fat&quot; JAR?
+Q4	4	Gradle hides files on building war
+Q5	3	Jar dependency - Application server classpath vs adding it to the application war itself
+Q6	3	Tomcat 8 integration with Maven
+Q7	3	Failed to load main class while executing war
+Q8	3	Running a web application (WAR) with embedded jetty server
+Q9	2	Single Large Webapp or multiple small webapps?
+Q10	2	Is there any difference between war file created by maven package phase and war file created by maven war plugin war:war goal

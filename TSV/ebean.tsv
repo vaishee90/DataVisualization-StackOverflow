@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	5	Inner join in play framework ebean
+Q2	5	form binding: relationship with intermediate entity (nested entity) - indirect Entity creation and binding
+Q3	4	If condition always routing towards hasError condition while submitting a form
+Q4	4	Play Framework 2 Ebean specify default value for field
+Q5	3	Play Framework 2.X Models definition in a concurrent application
+Q6	3	How to make left join on two parameters in Ebean?
+Q7	3	Yaml fixtures of java playframework doesn&#39;t work as expected
+Q8	3	how delete all rows with no SQL
+Q9	3	Previous data is deleted everytime when a new data is inserted in many to many relation
+Q10	3	Change the place where Ebean generates the SQL

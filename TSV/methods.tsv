@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	25	Which method is overridden?
+Q2	10	Difference between constructors and methods
+Q3	7	Array of arbitrary dimension as method parameter
+Q4	7	Is Passing Arguments to a method always ordered left to right in java?
+Q5	6	Having pairs of static and instanced methods that perform the same tasks?
+Q6	6	Forcing two parameters of a generic method to have the same concrete type
+Q7	6	JVM String methods implementation
+Q8	6	How to add control over invoking of methods in existing sub classes without modifying the sub classes?
+Q9	5	Calling a method and passing an object reference and catching the return with same reference
+Q10	5	Understanding how drawLine works

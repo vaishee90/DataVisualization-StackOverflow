@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	5	RPM file not generated using maven rpm plugin
+Q2	2	RPM - manage dependencies of dependencies
+Q3	2	make rpm-maven-plugin work on MAC OS(mavericks)

@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	3	No lookup on start for datasources in hibernate multi-tenant application
+Q2	2	Is there a language + framework that excels in multi tenant applications
+Q3	2	How To Implement Dynamic Multitenancy Or Dynamic Table Filtering with JPA/EclipseLink?

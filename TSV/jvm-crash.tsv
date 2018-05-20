@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	22	JVM 8 exit code -559038737 (0xDEADBEEF)
+Q2	5	java.lang.VerifyError with inner class &amp; lambda
+Q3	5	Java fatal error SIGSEGV
+Q4	2	Cassandra Solaris Crash CompactibleFreeListSpace::block_size

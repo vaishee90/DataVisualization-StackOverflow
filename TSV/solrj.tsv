@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	4	Filter query exclusion with SolrJ
+Q2	2	@NotNull type annotation - Solrj
+Q3	2	ConcurrentUpdateSolrServer vs HttpSolrServer vs CommonsHttpSolrServer  Whats the difference?

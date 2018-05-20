@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	6	java.net.SocketException: sendto failed: EPIPE (Broken pipe) on Android

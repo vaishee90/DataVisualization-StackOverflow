@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	9	Files.walk()  calculate total size
+Q2	8	Workaround for Java bug which causes crash dump
+Q3	7	Java access files in jar causes java.nio.file.FileSystemNotFoundException
+Q4	7	Threads sitting idle = bad?
+Q5	7	Java 7 - How to check if the OS is POSIX compliant
+Q6	6	Accessing Windows disks directly with Java NIO
+Q7	6	Multiple selectors in multiple threads
+Q8	6	Java - memory mapped file benefits
+Q9	5	Reading Really big Files With Java
+Q10	4	Get direct ByteBuffer slice position relative to original ByteBuffer

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	8	Are getters required when the field vars are final?
+Q2	7	Where should I put the public static void main(String[] args) method?
+Q3	4	What is the convention with Java beans  and implementing interfaces like Comparable?
+Q4	4	most authoritative reference for java code conventions
+Q5	3	Convention: when writing methods  should I return values  or change data directly?
+Q6	3	Which method should change the field  when calling a hierarcy of private methods?
+Q7	3	Differences in making a thread?
+Q8	2	Java package naming. Underscores: A special case
+Q9	2	Structure conventions in editor programs
+Q10	2	Where to put constants in a class: standards and best practice

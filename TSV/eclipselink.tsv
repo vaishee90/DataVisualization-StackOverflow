@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	10	Eclipselink ignores entity classes with lambda expressions
+Q2	6	Is it possible to write a generic enum converter for JPA?
+Q3	6	Is there a elegant and common way for converting PostgreSQL hstore to JPA 2.1 DataType?
+Q4	5	Spring managed transactions  EclipseLink JPA  custom isolation level
+Q5	4	Overwritten field when persisting with JPA
+Q6	4	EclipseLink / JPA: How to programmatically get the number of SQL queries that have been performed
+Q7	4	Tracking Changes Using History Policy in eclipse link
+Q8	4	How to validate model data with JPA?
+Q9	4	How to soft delete (logical delete) for all entities in eclipselink
+Q10	3	JPA2: create-or-extend-tables is not extending existing table with new column

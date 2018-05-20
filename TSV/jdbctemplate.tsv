@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	3	How to dynamically change database/catalog when using Spring JdbcTemplate
+Q2	3	Spring Hibernate and JDBC Template in a Single Project
+Q3	3	What are template classes in Spring Java? Why are they called templates? For example jdbc-template  jms-template etc
+Q4	2	How to get last auto-incremented value using JdbcTemplate?
+Q5	2	Passing value to sql IN using JdbcTemplate
+Q6	2	Java Types map to Java SQL Types Util
+Q7	2	Spring JdbcTemplate how to log parameters on exceptions?
+Q8	2	Spring rollback issue for JDBC Template
+Q9	2	Spring &amp; JDBCTemplate : are resources automatically closed when using the underlying datasource?
+Q10	2	Method may fail to clean up stream or resource on checked exception -- FindBugs

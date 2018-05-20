@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	6	Why generic type is not applicable for argument extends super class for both?
+Q2	5	Uses of recursive type bounds
+Q3	5	Is there a benefit for a List&lt;? extends MyObject&gt;?
+Q4	5	Difference for &lt;? super/extends String&gt; in method and variable declaration
+Q5	3	How do you properly extend/subclass EnumSet in Java?
+Q6	3	Why can&#39;t an abstract class extend an interface?
+Q7	3	Java8: why can&#39;t assign a &lt;? extends Type&gt; to Type?
+Q8	3	implements and extends a class
+Q9	2	How to make JSP page extend abstract HttpServlet
+Q10	2	Generic super class in java

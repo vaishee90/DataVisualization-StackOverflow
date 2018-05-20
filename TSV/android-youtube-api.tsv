@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	4	Android youtube API play two or more Youtube players in one main activity
+Q2	2	memory leak caused by initialize method of YouTubePlayer.Provider
+Q3	2	java.lang.IllegalArgumentException when using YouTubePlayerView

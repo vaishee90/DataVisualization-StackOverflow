@@ -1,0 +1,8 @@
+Number	Votes	Question
+Q1	5	How to identify a direct click on a JCheckBox in a JTable?
+Q2	4	Make JTable cell editor value be selectable  but not editable?
+Q3	2	JButton in single table cell java  not entire column
+Q4	2	JXTable: use a TableCellEditor and TableCellRenderer for a specific cell instead of the whole column
+Q5	2	TableCellRenderer does not change value when TableCellEditor sets a new value
+Q6	2	java - JTable cell/column that allows me to enter only single digit number
+Q7	2	CellEditor with DocumentFilter never get called

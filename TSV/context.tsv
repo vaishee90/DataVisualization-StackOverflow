@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	4	Get application context from non activity singleton class
+Q2	2	referencing the App context from a non-static inner class
+Q3	2	Tomcat configure external properties and log files
+Q4	2	Too frequent load of Quartz Scheduler in a Spring application

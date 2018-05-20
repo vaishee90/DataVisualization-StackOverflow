@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	13	Obfuscating Play 2 web app on dist with Proguard?
+Q2	5	How to fail build on low test coverage with activator / sbt?
+Q3	4	How can I do a verbose compile in Play Framework?
+Q4	4	Configure QueryDSL on Play 2 Framework
+Q5	4	How to share application.conf file between subprojects?
+Q6	3	Global onStart on Play Framework 2.3.7 not working?
+Q7	3	Scala - How to use Java Singleton Object
+Q8	3	Play framework offline distribution downloads repositories
+Q9	3	How to enable play-querydsl plugin in Play 2.3?
+Q10	3	Error &quot;scala.reflect.internal.MissingRequirementError: object scala.runtime in compiler mirror not found&quot; when compiling Play framework tests

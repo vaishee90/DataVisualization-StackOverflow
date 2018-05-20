@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	46	Are the bit patterns of NaNs really hardware-dependent?
+Q2	6	why 0.0f/0.0f doesn&#39;t generate any runtime error?
+Q3	5	Comparing Scala and Java Double.NaN
+Q4	3	Possible fix for getting NaN in java
+Q5	2	IsNan() Method Availability

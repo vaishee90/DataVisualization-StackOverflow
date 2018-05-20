@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	3	Setting up Spring Data Neo4j examples
+Q2	3	Cannot configure Indexed TypeRepresentationStrategy for spring-data-neo4j 3.0.2
+Q3	3	Structr vs spring-data-neo4j
+Q4	3	Spring Data Neo4J repository findAll() results in a nullpointerexception
+Q5	3	Neo4j Start-Guide (IntelliJ)
+Q6	2	Why does @RelatedToVia have optional type and elementClass parameters?
+Q7	2	Spring Data Neo4j and queries
+Q8	2	Cannot resolve reference to bean &#39;neo4jTemplate&#39;
+Q9	2	Neo4j core: Load RelationShips with order
+Q10	2	Spring Data Neo4j Repository Composition error: No property XXXX found for type YYYY

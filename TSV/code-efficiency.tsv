@@ -1,0 +1,9 @@
+Number	Votes	Question
+Q1	7	Why is avoiding Boolean instantiation a good idea?
+Q2	4	How is saving a long array as reverse hexadecimal numbers faster?
+Q3	3	Inefficient java / arrays of unknown length
+Q4	3	Is it bad to execute if(false) many times?
+Q5	3	How to efficiently generate a set of unique random numbers with a predefined distribution?
+Q6	3	Object[] with unique instances loops much slower than Object[] filled with identical instance
+Q7	2	Which is the most professional way to combine functions
+Q8	2	Does the Java optimizer memoize calculated values?

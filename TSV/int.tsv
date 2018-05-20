@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	146	Why does int i = 1024 * 1024 * 1024 * 1024 compile without error?
+Q2	14	int to long assignment
+Q3	7	Casting int to byte gives different results in Netbeans and JCreator
+Q4	7	-?-&gt;-?- operator in Java
+Q5	7	Why Android uses Ints instead of Enums
+Q6	6	Do chars have intrinsic int values in Java?
+Q7	5	Unsigned integer in java
+Q8	5	Unexpected output for int type
+Q9	4	Invert last bit
+Q10	4	Can assign integer value to char but can&#39;t assign integer variable to char

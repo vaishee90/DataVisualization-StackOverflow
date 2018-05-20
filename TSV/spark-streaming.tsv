@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	3	How can I make Spark Streaming count the words in a file in a unit test?
+Q2	3	Spark Streaming historical state
+Q3	2	Not Serializable exception when integrating Spark SQL and Spark Streaming

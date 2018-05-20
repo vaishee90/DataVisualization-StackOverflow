@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	5	Unix: “ls” command shows files with ? after the extension
+Q2	5	Gradle: execute Groovy interactive shell with project classpath
+Q3	5	Java program (class &gt; .jar) as a Unix shell (in place of sh/bash)?
+Q4	4	Java prog piped and returned immediately
+Q5	4	Invoking shell script contains SSH from java
+Q6	3	Copy and execute native service binary &amp; check logs
+Q7	3	IOException:cannot run program:CreateProcess error=193 %1 is not a valid Win32 application
+Q8	3	Test whether a -XX option is supported by Java
+Q9	3	write subprocess inside main process
+Q10	3	Pass shell script argument containing spaces as java system property

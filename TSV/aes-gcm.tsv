@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	3	AES GCM implementation with authentication Tag in Java
+Q2	2	decrypting aes-gcm encrypted with java using openssl
+Q3	2	How come putting the GCM authentication tag at the end of a cipher stream require internal buffering during decryption?
+Q4	2	Checking tag and associated data in an AEAD cipher in Java

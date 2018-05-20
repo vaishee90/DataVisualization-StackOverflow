@@ -1,0 +1,10 @@
+Number	Votes	Question
+Q1	8	Java BufferedWriter Creating Null Characters
+Q2	3	Java 6 Copy files with readline
+Q3	2	Do we really need to call flush() just before close() today?
+Q4	2	Java get line total then write to specific line
+Q5	2	Why does this code cause Java to write over the data in a file?
+Q6	2	Does java.io.FileWriter buffer bytes before writing to the output stream
+Q7	2	Java: Having some problems with my file input/output (br cannot be resolved)
+Q8	2	How to copy from one file to another but omit certain lines / which .write() to use?
+Q9	2	Java Buffered Writer

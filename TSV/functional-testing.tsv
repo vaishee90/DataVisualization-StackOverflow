@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	3	SonarQube not accepting externally generated JaCoCo report for IT coverage
+Q2	3	Using Mockito to mock a local variable of a method
+Q3	2	How to manage application data for functional tests?
+Q4	2	Enable transitive coverage as well as instruction level filtering in Java

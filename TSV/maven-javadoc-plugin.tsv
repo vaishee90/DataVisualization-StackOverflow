@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	9	Javadoc generation failed : ClassCastException: com.sun.tools.javadoc.ClassDocImpl cannot be cast to com.sun.javadoc.AnnotationTypeDoc

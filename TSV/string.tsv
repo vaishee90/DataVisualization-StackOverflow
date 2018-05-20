@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	149	How can I replace two strings in a way that one does not end up replacing the other?
+Q2	64	Why does one long string take MORE space than lots of small strings?
+Q3	48	Confusing output from String.split
+Q4	24	How to efficiently manage memory using Strings?
+Q5	24	How is String in switch statement more efficient than corresponding if-else statement?
+Q6	22	Alternative to successive String.replace
+Q7	22	Java Strings subtle differences
+Q8	20	Underlying mechanism of String pooling in Java?
+Q9	18	Why is String.chars() a stream of ints in Java 8?
+Q10	17	final String class vs final methods of Non-final String class

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	24	How to efficiently manage memory using Strings?
+Q2	21	JavaFX 8 Memory leak when Hiding Stage
+Q3	10	How to find classloader leak with free tools?
+Q4	7	Is Files.getLastModifiedTime() leaking memory?
+Q5	7	Java - Odd memory consumption between x32 and x64
+Q6	7	Memory leak in Scala and processes
+Q7	7	Java Memory &quot;Leak&quot; with ConcurrentLinkedQueue$Node
+Q8	6	Clueless About a (Possible) Android Memory Leak
+Q9	5	Understanding memory leaks in Android application
+Q10	5	Android - releasing allocated memory AnimationDrawable is using up

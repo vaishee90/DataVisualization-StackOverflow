@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	9	Bind to service from new Context for configuration changes or bind from app context?
+Q2	4	Capture notifications from other applications
+Q3	3	Android Service Creating new Instance of Singleton Class
+Q4	3	Ongoing notification that gets updated every instance
+Q5	2	java.lang.ClassCastException while running new `runnableThread` in `Service` Class

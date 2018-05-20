@@ -1,0 +1,7 @@
+Number	Votes	Question
+Q1	7	How to trigger calls to .serializeWithType() of a class implementing JsonSerializable in Jackson?
+Q2	3	Jackson deserialization for php-like array concatenated with another object
+Q3	2	Can Jackson deserialize into Map&lt;Long  String&gt; with just annotations?
+Q4	2	Using a JSON deserializer  how do you change the mapping of a superclass field?
+Q5	2	StackExchange API - Deserialize Date in JSON Response
+Q6	2	How to deserialize generic classes with Jackson?

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	4	How can I use AOP to intercept the constructor of File  FileReader  FileWriter  FileInputStream and FileOutputStream?
+Q2	4	In Dart  is there a way to intercept accesses and mutations to programming constructs?
+Q3	3	AspectJ load time weaving not working on Spring beans
+Q4	2	Intercept private annotated method with AOP
+Q5	2	Spring AOP for interface and for annotated methods within it
+Q6	2	Accessing advised objects methods from a default implementation
+Q7	2	Is it possible to use AOP for web app licence validation?
+Q8	2	What is the difference between Advisor and Aspect in AOP?
+Q9	2	java.lang.IllegalStateException: No value for key [org.hibernate.impl.SessionFactoryImpl] with AOP
+Q10	2	which is high performance in spring aop using cglib or jdk proxy without aspectj?

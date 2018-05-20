@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	23	Why does java.lang.Long&#39;s .longValue() cast its (long) instance value to long?
+Q2	14	int to long assignment
+Q3	9	Java 8 - converting an Integer to a long compilation issue
+Q4	5	How to produce a compilation error on implicit long to double conversion?
+Q5	4	volatile in java with long  int  boolean  and many different cases of write
+Q6	3	Recursive function to calculate combination and factorial
+Q7	3	Why can I parse an 8 digit hex into a Long  and convert it to an Integer  but not parse as an Integer directly?
+Q8	3	Convert long to &quot;byte-array-ed&quot; text  without heap allocations
+Q9	3	Number at f(93) in fibonacci series has negative value  how?
+Q10	2	Conversion from String to long array and back doesn&#39;t work

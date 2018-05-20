@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	7	@JsonView not filtering properties (Spring 4.1.0.RC2  Jackson 2.3.2)
+Q2	3	How to serialize using @Jsonview with nested objects
+Q3	3	How to override @JsonView in jersey resource methods

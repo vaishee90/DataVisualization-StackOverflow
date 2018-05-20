@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	4	Is there a way to query a PostgreSQL hstore with Hibernate/JPQL?

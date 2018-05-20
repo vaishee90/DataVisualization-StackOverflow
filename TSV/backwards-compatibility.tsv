@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	21	A program made with Java 8 can be run on Java 7?
+Q2	8	Enhance library for Java 8 while keeping backwards compatibility
+Q3	8	Are compiled Java 8 lambda expressions backwards compatible with earlier versions of the Java runtime?
+Q4	5	Is guava binary compatible with previous versions?
+Q5	4	Any disadvantage to compiling for java6 instead of java7?
+Q6	3	Can omitting public abstract from interfaces harm bytecode compatibility?
+Q7	3	Is it better practice to write up-to-date or compatible code?
+Q8	3	Writing Java 7 library code to work well with Java 8 lambdas
+Q9	2	Backward compatible java code makes compile error
+Q10	2	Providing Predicate support in Java 6 library

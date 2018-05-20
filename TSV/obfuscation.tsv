@@ -1,0 +1,7 @@
+Number	Votes	Question
+Q1	60	What does the -&gt; &lt;- operator do?
+Q2	5	Java Obscured Obfuscation
+Q3	3	Make java code in android apk file inaccessible (not just obfuscated)
+Q4	2	Custom Error Handling with Retrofit when obfuscated using proguard gives java.lang.reflect.UndeclaredThrowableException
+Q5	2	Running Android app from Eclipse after setting up for obfuscation
+Q6	2	Java (WAR file) obfuscation tool

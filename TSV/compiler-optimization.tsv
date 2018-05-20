@@ -1,0 +1,10 @@
+Number	Votes	Question
+Q1	67	Why is &quot;while (i++ &lt; n) {}&quot; significantly slower than &quot;while (++i &lt; n) {}&quot;
+Q2	45	JIT not optimizing loop that involves Integer.MAX_VALUE
+Q3	9	Are synchronizes-with edegs compiler re-ordering barriers in both directions?
+Q4	5	Is there a way to trigger JIT manually other than java.lang.Compiler
+Q5	5	why doesn&#39;t the java compiler rewrite this code?
+Q6	2	Does Hotspot JVM perform redundancy elimination of casts  unboxing and divisions?
+Q7	2	Java Compiler replacing StringBuilder with + concatenation
+Q8	2	Do LoadStore and StoreStore are both needed for a final variable and lazySet implementation?
+Q9	2	Why does the Oracle Java compiler prefer the no-args StringBuilder constructor?

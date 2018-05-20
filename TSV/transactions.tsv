@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	10	org.hibernate.HibernateException: createQuery is not valid without active transaction @scheduled
+Q2	6	Hibernate deadlocking transactions - automatic restarts?
+Q3	6	How to configure and get session in Hibernate 4.3.4.Final?
+Q4	5	What is the best way to &quot;roll back&quot; changes?
+Q5	5	PessimisticLockScope.NORMAL and locking &quot;relationships&quot;
+Q6	5	Parallel and Transactional Processing in Java (Java EE)
+Q7	5	Spring managed transactions  EclipseLink JPA  custom isolation level
+Q8	4	Transaction Management in Hibernate with DAO Design Pattern
+Q9	4	Hibernate nativeQuery - Transaction?
+Q10	4	Global transaction management - Jboss : Closing a connection for you

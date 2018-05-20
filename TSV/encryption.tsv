@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	6	java.security.UnrecoverableKeyException: no match
+Q2	6	Encrypted save and decrypted load of an ArrayList of serializable objects
+Q3	5	Why does SSLSocketFactory lack setEnabledCipherSuites?
+Q4	5	Getting too short array with RSA encryption when data array&#39;s first entry is zero
+Q5	5	How to write encrypted data to a text file?
+Q6	4	Python AES decryption
+Q7	4	android cipher doesn&#39;t decrypt first 16 bytes / characters of encrypted data
+Q8	4	How to manage secret Key in java
+Q9	4	Java: Decrypting Caesar Cipher with Unknown Positions
+Q10	4	Decrypting hyperlocal with Signature Mismatch (Google RTB)

@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	3	Differences just List and List&lt;Object&gt; and List&lt;?&gt;
+Q2	2	Ambiguous constructor due to type erasure
+Q3	2	difference behaviour for generic method within generic class and for generic method within non-generic class

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	8	convert string input to instance of object name(=input)
+Q2	7	GWT work-around for missing Class.isInstance()
+Q3	6	instanceof operator in case of primitive and wrapper type array
+Q4	5	Alternatives for instanceof when processing concrete types in Java
+Q5	5	Multiple object types in one ArrayList
+Q6	4	Am I using instanceof &quot;wrong&quot;?
+Q7	4	How do I create a method to check that an implementation satisfies an interface?
+Q8	3	Create enum with entries associated to classes
+Q9	3	What does `instanceof` check to determine object types?
+Q10	3	How to avoid using instanceof / how to use polymorphism here

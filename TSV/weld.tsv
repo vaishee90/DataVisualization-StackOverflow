@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	6	Weld not initializing properly
+Q2	5	Understanding CDI/Weld in multi-module application
+Q3	4	Hibernate makes Weld not initializing in Java SE
+Q4	4	Mixing Powermock with Weld?
+Q5	4	Cheap way to reset weld?
+Q6	3	Using Weld with Dropwizard
+Q7	3	Checking if class is proxified with CDI 1.2
+Q8	3	How to programmatically inject a Java CDI managed bean into a local variable in a static method
+Q9	3	Stereotype for @Inject possible?
+Q10	3	How to specify an @Alternative producer method in beans.xml?

@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	5	Why is no unchecked cast warning given when downcasting Throwable to Exception?

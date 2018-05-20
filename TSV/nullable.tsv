@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	6	Annotation-based null analysis - warning appears only with array parameter
+Q2	4	In Java  why does @Nullable have runtime rentention
+Q3	3	How to make an Integer instance not nullable

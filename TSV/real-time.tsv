@@ -1,0 +1,8 @@
+Number	Votes	Question
+Q1	6	Is there a HashMap implementation in Java that produces no garbage?
+Q2	6	Which is &quot;better&quot;. AtomicIntegerArray (1/0 as true/false) versus AtomicBoolean[]?
+Q3	3	Concurrency framework for maximum throughput in real-time system
+Q4	3	What are the Netty alternatives for high-performance networking?
+Q5	2	Update vs. Request-Reply in Storm DRPC
+Q6	2	iOS - JAVA Best approach to Achieve Real-Time Data sync
+Q7	2	Does synchronized guarantee a thread will see the latest value of a non-volatile variable being modified by another thread?

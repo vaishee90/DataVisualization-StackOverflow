@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	2	In Spring Boot  adding a custom converter by extending MappingJackson2HttpMessageConverter seems to overwrite the existing converter

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	7	Why is avoiding Boolean instantiation a good idea?
+Q2	5	Are inner classes in enums always static in Java?
+Q3	5	PMD &quot;Bean Members Should Serialize&quot; rule. Can we do it in more smart way?
+Q4	5	Why shouldn&#39;t all function arguments be declared final?
+Q5	5	Java for each loop being flagged as UR anomaly by PMD
+Q6	3	Reports from PMD  checkstyle  findbugs
+Q7	3	How to run Checkstyle  Findbugs  or PMD programmatically on file *content*
+Q8	2	Setting up a local Sonar (server) vs having all the plugins checkstyles pmd findbugs in eclipse
+Q9	2	Java 8 for Sonar  PMD  Findbugs and Checkstyle in IntelliJ
+Q10	2	Java Version for PMD  Findbugs and Checkstyle

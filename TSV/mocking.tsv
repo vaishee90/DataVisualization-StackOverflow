@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	12	How do Mockito matchers work?
+Q2	9	Mocking Method that Takes a Class&lt;?&gt; Type Argument with JMock
+Q3	8	Mocking time in Java 8&#39;s java.time API
+Q4	7	Mockito swallows up stack trace?
+Q5	6	What is the difference between Mockito.mock(SomeClass) and the @Mock annotation?
+Q6	6	JUnit tests: Suppress enum constructor by mocking?
+Q7	4	How to mock AMQP consumers in Camel testing?
+Q8	4	Bad type on the operand stack in arraylength
+Q9	3	Mocking a static method in a final class in Java/Mockito
+Q10	3	Why Mockito&#39;s mock returns 0 when it should return null?

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	8	EJB method takes more time to return after each call
+Q2	6	JBOSS Login with Oracle DBMS: No matching username found in Principals
+Q3	5	How to know if a web service has started
+Q4	5	JBoss EAP 6.2 JMX Server and Registry Bindings
+Q5	5	Hibernate 4 takes more than 1 minute to persist 80MB blob
+Q6	5	Add plugin for WildFly Application Server to NetBeans
+Q7	5	How to run different apps on single JBoss AS 6 instance behind different ports?
+Q8	4	What are Best Practice Recommendations for Java EE 7 Property File Configuration?
+Q9	4	Global transaction management - Jboss : Closing a connection for you
+Q10	4	Error connecting stand-alone Java program to JMS on WildFly server

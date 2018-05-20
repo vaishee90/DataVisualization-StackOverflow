@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	28	Algorithmic complexity of naive code for processing all consecutive subsequences of a list: n^2 or n^3?
+Q2	6	Someone explain to me a few step of this Java Big O code
+Q3	5	What is the time and space complexity of method retainAll when used on HashSets in Java?
+Q4	4	Why is my bitmap sort not infintely faster than my mergesort?
+Q5	3	How do I get a better time complexity Big O in exercise about page sequences in java
+Q6	3	Java - Comparing efficiency of two O(n) algorithms
+Q7	3	Should I dump java.util.HashSet in favor of CompactHashSet?
+Q8	3	Big-O notation for LinkedList and BinarySearch
+Q9	3	Recursive Pascal&#39;s Triangle Row big O cost
+Q10	3	What is the (worst-case) time analysis for the following loop?

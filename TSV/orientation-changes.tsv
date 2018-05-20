@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	0	onSharedPreferenceChanged in PreferenceFragment gets called twice after orientation change and pref-change

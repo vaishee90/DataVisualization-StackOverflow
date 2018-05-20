@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	8	Can I use Quartz Scheduler to fire every other month on the 30th day but if month has no 30th day  fire on the last day?
+Q2	2	Create Two Thread Pools for Asynchronous session bean methods in JBoss EAP6?
+Q3	2	cxf rest service jboss deployment exception

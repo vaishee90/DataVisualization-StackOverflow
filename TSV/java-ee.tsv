@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	16	Error while compiling when using AspectJ compiler instead of Javac
+Q2	12	Unable to fix java.lang.IllegalStateException: Unable to retrieve EntityManagerFactory for unitName
+Q3	12	Class bytes found but defineClass()failed for error when deploying EAR
+Q4	12	Complex Bean Mapping
+Q5	11	AsyncContext response does not match original incoming request?
+Q6	9	Is it discouraged using Java 8 parallel streams inside a Java EE container?
+Q7	9	How to stop a java code from running using a stop button
+Q8	8	404 with response.sendRedirect
+Q9	8	EJB method takes more time to return after each call
+Q10	8	Glassfish 4: how to set application or module name for JNDI

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	26	Could the JIT collapse two volatile reads as one in certain expressions?
+Q2	22	Does empty synchronized(this){} have any meaning to memory visibility between threads?
+Q3	10	Should I mark object attributes as volatile if I init them in @PostConstruct in Spring Framework?
+Q4	5	Why and how does volatile imply atomic reads/writes?
+Q5	5	volatile + immutable holder object = thread safe?
+Q6	5	Difference between volatile Boolean and Boolean
+Q7	5	Good way to create a immutable class with modifiers (thread-safe)
+Q8	5	Java When using synchronized do I get volatile functionality for free?
+Q9	5	What can force a non-volatile variable to be refreshed?
+Q10	5	Why is volatile variable much more efficient than plain synchronization

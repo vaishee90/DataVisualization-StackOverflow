@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	3	Highlight differences between images
+Q2	3	Puzzled by pixel value in Bitmap (pre multiplied color using setPixel)
+Q3	2	Generated image skips pixels
+Q4	2	Reading and Writing an image using BufferedImage

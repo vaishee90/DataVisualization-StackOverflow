@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	17	What is the reason for this finally clause containing close() calls
+Q2	7	Understanding try catch finally with return
+Q3	5	Why does Java not support retrieval of exceptions from try/catch lost when an exception is thrown from finally?
+Q4	2	Execution of statements after try/catch block containing return

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	122	Why does this random value have a 25/75 distribution instead of 50/50?
+Q2	15	Working ONLY with /dev/random in Java
+Q3	12	Random long  can it be twice in a row the same number
+Q4	10	don&#39;t random number that are being random before
+Q5	10	Random &quot;walk&quot; around a central location in a limited area?
+Q6	9	Why does Random.nextLong not generate all possible long values in Java?
+Q7	8	Implementation of java.util.Random.nextInt
+Q8	7	Select N random elements from a List efficiently (without toArray and change the list)
+Q9	6	Repetitive usage of Java&#39;s SecureRandom
+Q10	6	When using a random parameter in a loop&#39;s qualifying comparison  does it call the randomization function once or each time the loops runs?

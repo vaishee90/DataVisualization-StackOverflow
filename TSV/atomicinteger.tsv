@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	3	How should I use AtomicInteger as a reference counter to manage some resource?
+Q2	3	Copying ConcurrentHashMap to HashMap inconsistency
+Q3	2	Is it good practice to use AtomicInteger as a substitute for mutable Integer?

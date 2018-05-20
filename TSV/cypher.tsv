@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	3	Neo4j Unmanaged Extension and GuardTimeoutException
+Q2	3	Performance of Java API versus Python with Cypher for Neo4J
+Q3	2	Neo4j browser storing cypher set value as long
+Q4	2	org.apache.lucene.store.LockObtainFailedException: Lock obtain timed out: NativeFSLock@/var/database/schema/label/lucene/write.lock
+Q5	2	Should I use uppercase or camelcase in label enums?

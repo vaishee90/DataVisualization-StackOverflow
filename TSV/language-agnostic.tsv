@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	7	How for( ; ;) is infinite loop?
+Q2	6	Minimum window in String 1 containing all characters from String 2 and no character from String 3
+Q3	4	generate histogram from database
+Q4	4	Whats the difference between objects and data structures?
+Q5	4	If some naming conventions  such as uppercase-method-names  are so frowned upon  why do languages allow them at all?
+Q6	3	Method signature best practices - overloading vs. long name
+Q7	3	Term to distinguish &quot;default&quot; vs &quot;made-up&quot; classes in OOP
+Q8	2	Public method calls private method with the same name - what is this pattern?
+Q9	2	Async and non blocking concepts in java. Is it possible to be asynchronous and blocking together?
+Q10	2	Determine method success when the return value is not a boolean

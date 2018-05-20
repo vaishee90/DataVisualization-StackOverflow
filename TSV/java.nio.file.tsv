@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	33	Can there be a (Java 7) FileSystem for which a Path .isAbsolute() but has a null root?
+Q2	7	Is Files.getLastModifiedTime() leaking memory?
+Q3	5	Files.newInputStream() inconsequential behaviour when the target Path is a directory?
+Q4	3	How to instantiate Path object using clojure
+Q5	3	Process Synchronization in java
+Q6	3	Watching a Directory for Changes in Java
+Q7	3	preCalculate file stream checksum
+Q8	2	Bug in Path&#39;s .relativize() documentation or am I doing something blatantly wrong here?
+Q9	2	How can I set OTHERS_WRITE when creating a file?
+Q10	2	Why do I get ProviderMismatchException when I try to .relativize() a Path against another Path?

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	23	Swing rendering appears broken in JDK 1.8  correct in JDK 1.7
+Q2	19	Why does setting JDialog or JFrame setVisible(true) toggle my IME setting?
+Q3	17	smooth rounded corners in swing
+Q4	15	SwingWorker  done() is executed before process() calls are finished
+Q5	13	Drawing Rectangle in Java Shows Pixel Anomaly
+Q6	13	Extends JFrame vs. creating it inside the the program
+Q7	13	Draw with lines in Java
+Q8	12	Exception to Number Format Exception with &quot;D&quot; and &quot;F&quot;?
+Q9	11	How to make Java JButton visually depress with touch screen?
+Q10	10	Loading and displaying large text files

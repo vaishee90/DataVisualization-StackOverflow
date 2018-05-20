@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	2	Autopilot and java.lang.RuntimeException: Unable to start receiver com.urbanairship.push.GCMPushReceiver: java.lang.NullPointerException

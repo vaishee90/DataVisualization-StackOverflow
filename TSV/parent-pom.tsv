@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	5	spring-boot without parent pom.xml cannot generate war packaging
+Q2	3	Where does Super POM come from in the config
+Q3	2	Maven -- is there a command to download the parent poms of all dependency jars?
+Q4	2	Maven -- how to find out all library dependency on parent pom

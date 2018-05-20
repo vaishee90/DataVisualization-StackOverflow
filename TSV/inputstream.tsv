@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	5	Thread safe InputStream in java
+Q2	5	Android App Retrieve Data from Server but in a Secure way
+Q3	4	Simple Java Process Input/Output failing
+Q4	4	Does a ZipEntry persist after a ZipFile is closed?
+Q5	3	Does a Java ByteArrayInputStream built off of bytes from a local String variable need to be closed?
+Q6	3	Why is it good to close() an inputstream?
+Q7	3	Not getting whole data while using available()
+Q8	3	When I close a BufferedInputStream  is the underlying InputStream also closed?
+Q9	3	Java mail attached file showing corrupt after download
+Q10	3	Why is InputStream constructed from Channel much faster than one constructed from FileDescriptor?

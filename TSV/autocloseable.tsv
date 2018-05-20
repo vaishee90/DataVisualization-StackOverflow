@@ -1,0 +1,7 @@
+Number	Votes	Question
+Q1	8	Why Java7 introduces AutoCloseable specially?
+Q2	6	Why is close() method of the resource called before catch in a try-with-resources construct in Java?
+Q3	2	Catch errors during object construction from try-with-resources separately from body
+Q4	2	Why is try-with-resources catch block selectively optional?
+Q5	2	Eclipse inconsistencies: Resource leak: &#39;&lt;unassigned Closeable value&gt;&#39; is never closed
+Q6	2	AutoCloseable &quot;resource leak&quot; warning for factory created instances?

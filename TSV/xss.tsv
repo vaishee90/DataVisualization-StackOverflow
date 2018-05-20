@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	3	HttpOnly flag not working
+Q2	2	How to avoid Cross Site Scripting (XSS) attacks while using JSF and RichEditor
+Q3	2	Weblogic xss vulnerablity : html character entities getting decoded in jsp
+Q4	2	ESAPI XSS prevention for user supplied url property

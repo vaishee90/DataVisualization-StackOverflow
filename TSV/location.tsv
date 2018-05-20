@@ -1,0 +1,8 @@
+Number	Votes	Question
+Q1	7	Google Play Services incompatibility
+Q2	3	Is there any way to obtain accurate location co-ordinates while consuming minimal power? Any general location update algorithm  any technique/hack?
+Q3	3	The import com.google.android.gms.location.LocationClient cannot be resolved
+Q4	3	Calculating distance in pixels between two locations
+Q5	3	Android developer training sample code &quot;Retrieving the Current Location&quot;
+Q6	2	onLocationChanged isn&#39;t called even though the GPS provider is availble
+Q7	2	Why doesn&#39;t Location.add(0  1  0) set a new location one block above?

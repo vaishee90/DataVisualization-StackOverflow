@@ -1,0 +1,7 @@
+Number	Votes	Question
+Q1	4	Android tests with Appium and Gradle
+Q2	2	The method complexFind(String) is undefined for the type AndroidDriver
+Q3	2	error: Logcat capture failed: spawn ENOENT
+Q4	2	How to make appium tests run faster on iOS?
+Q5	2	How to setup Appium on Mac OS to run automated tests from JAVA classes on Android and iOS devices
+Q6	2	Getting Error: Please make sure to specify the &#39;deviceName&#39; capability in Appium v1.0.0

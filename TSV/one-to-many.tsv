@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	6	How to create a one-to-many relationship with JDBI SQL object API?
+Q2	4	Hibernate One to Many Mapping is trying to update mapping column to null
+Q3	3	Use of @JoinColumnsOrFormulas and mappedBy
+Q4	3	Hibernate: which one is better way: saving source or target in many to one association
+Q5	3	JPA Composite key with ManyToOne getting org.hibernate.PropertyAccessException: could not set a field value by reflection setter of
+Q6	3	HIbernate OneToMany FetchType.EAGER not returning values
+Q7	2	Creation of entity in JPA which has a joinColumn
+Q8	2	OpenJPA PersistenceException: LongId cannot be cast to MyEntityClass... @OneToMany in combination with FetchType.EAGER
+Q9	2	How to describe one to many relationship (JPA/HIbernate)
+Q10	2	Optimal way to deal with huge one to many collections with JPA

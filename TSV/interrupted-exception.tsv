@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	12	Different behaviour when calling thread.isInterrupted and printing the result
+Q2	5	InterruptedException : what causes it?
+Q3	4	Should I Thread.currentThread.interrupt() before I throw an exception back?
+Q4	2	How do you get to the root cause of a sleep interruption in Java?
+Q5	2	If a thread gets interrupted on wait()  will the monitor be re-acquired before reaching the catch block outside of the synchronization block?

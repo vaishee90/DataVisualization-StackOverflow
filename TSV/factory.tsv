@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	6	Why do I need a FactorySupplier?
+Q2	5	How can I protect my class&#39;s implementation from other developers?
+Q3	4	Factory method which returns generic extending two types
+Q4	4	Is the Factory Method Pattern more flexible than Simple Factory?
+Q5	3	What is the most effective way of writing a factory method?
+Q6	3	Invalid property &#39;profileManager&#39; of bean class. Bean property &#39;profileManager&#39; is not writable or has an invalid setter method
+Q7	2	Guice - how to implement a factory that returns different implementations
+Q8	2	How to create a Path bean
+Q9	2	Benefit of factory class over other polymorphism
+Q10	2	Guice: &quot;Could not find suitable constructor&quot; when suitable constructor supplied in FactoryBuilder

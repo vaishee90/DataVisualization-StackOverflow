@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	3	Getting a specific implementation from Felix
+Q2	2	Apache Felix OSGi framework&#39;s WeavingHook.weave() method isn&#39;t invoked
+Q3	2	NoClassDefFoundError in OSGi bundle on accessing standard java classes

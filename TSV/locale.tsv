@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	11	Parse String to Long using a specified locale (sv) and NumberFormat
+Q2	7	Why Java Character.toUpperCase/toLowerCase has no Locale parameter like String.toUpperCase/toLowerCase
+Q3	6	LocalDate and DateTimeFormatter do not work correctly with Japanese locale
+Q4	5	Android change and set default locale within the app
+Q5	5	JAXB convert non-ASCII characters to ASCII characters
+Q6	4	Anything for deciding default paper size based on locale?
+Q7	4	how to share sessions in weblogic
+Q8	4	Define default locale and treat exceptions for Spring Locale Interceptor
+Q9	4	lower case of turkish character dotted i
+Q10	3	Why detected language result is null in Java

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	9	How to add &lt;![CDATA[ and ]]&gt; in XML prepared by Jaxb
+Q2	7	Suppress compiler warnings on JAXB generated classes
+Q3	5	Generating unique serializable id for each of the generated classes in JAXB
+Q4	5	Stuck up with JAXB - unmarshal XML exception
+Q5	5	How to validate an XML against schema using JAXB?
+Q6	5	JAXB convert non-ASCII characters to ASCII characters
+Q7	4	Is there any way I can specify defaultValue for collections with JAXB?
+Q8	4	How to make Swagger recognize @XmlTransient (e.g. not ignore it)
+Q9	4	JAXB Moxy mixed whitespace lost
+Q10	4	JAXB unmarshal elements of XML to Map

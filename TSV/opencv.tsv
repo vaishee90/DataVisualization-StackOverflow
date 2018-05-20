@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	10	Webcam supported picture sizes
+Q2	8	Cannot release Mat object in Java
+Q3	7	Programmatically find shaky OR out-of-focus Images
+Q4	7	Extract words in rectangles from text
+Q5	7	Detecting an object (words) in an image
+Q6	5	Convert grayscale image to RGB
+Q7	4	Curve matching in Java
+Q8	4	To build Java project with OpenCV using Maven
+Q9	4	Bug  or user error? Creating a border on a cropped Mat Image doesn&#39;t render the rightmost border line correctly
+Q10	4	Java library or strategy to tell if an image contains a signature

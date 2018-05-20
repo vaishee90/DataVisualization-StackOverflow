@@ -1,0 +1,9 @@
+Number	Votes	Question
+Q1	7	Performance difference between Java 8 lambdas and anonymous inner classes
+Q2	5	How to access &quot;this&quot; reference of anonymous outer class in java
+Q3	5	How to map to multiple elements with Java 8 streams?
+Q4	4	Groovy equivalent for Java 8 Lambda Expression
+Q5	4	Asynctask ArrayList object not passing from doInBackground to onPostExecute
+Q6	4	Why is this Java code working? compiler doesn&#39;t complain about closure
+Q7	2	Java anonymous inner class
+Q8	2	&quot;This&quot; in anonymous inner object

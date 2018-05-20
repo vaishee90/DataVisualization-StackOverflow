@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	4	Hibernate seems to create wrong SQL Query from HQL Query
+Q2	3	How to sort column by HQL if column have both string and integer values
+Q3	3	hibernate. Can not set java.lang.Integer field to... java.lang.Integer
+Q4	3	What&#39;s wrong with this HQL? Where is the missing comma?
+Q5	3	How to get Date Difference in hour using HQL
+Q6	2	How to remove records from table in bulk with hibernate hql?
+Q7	2	Join two tables HQL query
+Q8	2	Validating HQL query without executing it
+Q9	2	hql - Getting error that unexpected token
+Q10	2	Hibernate query with join over ElementCollection does not work

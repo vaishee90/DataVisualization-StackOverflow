@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	3	Stop user multi-clicking on edittext to open several dialogues
+Q2	2	Switching 2 Activities on single touch i.e.- using setOnLongClickListener and onTouch ACTION_UP
+Q3	2	Does android:onClick use Java reflection concepts behind the scenes?
+Q4	2	How to check if radio buttons are selected on button click?

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	5	Setting time out in apache http client
+Q2	4	Faster detection of interrupted connections during PUT operation with Apache &#39;HttpClient&#39;
+Q3	4	apache httpclient 4.3 not timing out
+Q4	2	How to keep jdbc to postgres alive
+Q5	2	Is there any way to distinguish a connection timeout from a socket timeout?
+Q6	2	MongoClient timeout
+Q7	2	Java - Define a timeout for Callable within a ExecutorCompletionService
+Q8	2	HttpURLConnection Response code: 408 Request Timeout
+Q9	2	How to set a HTTP timeout when retrieving RDF from a URI?
+Q10	2	Timed out compiling Play 2.x - Java app (15 minutes) | Heroku and Play Framework

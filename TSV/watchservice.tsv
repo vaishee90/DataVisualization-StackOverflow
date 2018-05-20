@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	3	WatchService performance with many directories
+Q2	2	Monitor a http resource using Java NIO watch service
+Q3	2	WatchService uses 100% of CPU on CentOS
+Q4	2	Why does WatchService use unbound wildcard WatchEvent&lt;?&gt; rather than WatchEvent&lt;Path&gt;
+Q5	2	How can I get the lost events when a java.nio.file.StandardWatchEventKinds.OVERFLOW occur

@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	107	Why does the Java API use int instead of short or byte?
+Q2	6	Why doesn&#39;t Java 8&#39;s ToIntFunction&lt;T&gt; extend Function&lt;T  Integer&gt;
+Q3	3	I need to find file path to attach multiple file in my application to send others
+Q4	2	Can I store image files in firebase using Java API?
+Q5	2	Create a Java Spring API Router

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	33	Do uninitialized primitive instance variables use memory?
+Q2	14	Creating object using static keyword in Java
+Q3	12	What is the best way of reading configuration parameters from configuration file in Java?
+Q4	10	If you&#39;re explicitly initializing an Object array in Java  is including &quot;new Object[]&quot; different than not including it?
+Q5	7	Java: Unable to use EnumSet within an Enumeration : Initialization error : Tech Research Talent Tree example
+Q6	7	Java compiler allows accessing uninitialized blank final field using &#39;this&#39; keyword? Is this a bug?
+Q7	5	Why Initializing References to Null Is allowed In Java?
+Q8	5	Double Brace initialization Type Confusion
+Q9	5	Is setting a boolean to false redundant?
+Q10	5	Difference between initialization of final class variable

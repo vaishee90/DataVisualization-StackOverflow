@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	3	Differences : @SessionScoped vs @Stateful and @ApplicationScoped vs @Singleton
+Q2	2	Is it acceptable to introduce volatile state into singleton beans?

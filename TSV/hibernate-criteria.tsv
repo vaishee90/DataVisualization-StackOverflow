@@ -1,0 +1,7 @@
+Number	Votes	Question
+Q1	3	criteria query on entities not having joins
+Q2	3	How to make HIbernate fetch all properties of root entity and only specific properties of associated entity?
+Q3	2	Using Hibernate&#39;s Criteria API  can I use concat with ilike restrictions?
+Q4	2	Want to modify Hibernate criteria using entity
+Q5	2	Is it possible to use hibernate criteria and run SQL directly?
+Q6	2	Index of a specific row with Hibernate Criteria

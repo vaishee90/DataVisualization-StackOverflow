@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	6	Table cells with HTML strings inconsistently rendered as multiline
+Q2	6	setlayout when dynamic adding textField
+Q3	6	prevent sorting of top 3 rows in jxtable
+Q4	5	How to identify a direct click on a JCheckBox in a JTable?
+Q5	5	Invalid sorting on Date in JTable
+Q6	5	How to set the RowHeight dynamically in a JTable
+Q7	4	Make Jtable Noneditable without using setModel()
+Q8	4	Make JTable cell editor value be selectable  but not editable?
+Q9	4	DefaultTableModel not returning values in dataVector
+Q10	4	Overriding CellRenderer  ImageIcon dissapears

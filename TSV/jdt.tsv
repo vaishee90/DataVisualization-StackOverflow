@@ -1,0 +1,10 @@
+Number	Votes	Question
+Q1	18	Eclipse - `open call hierarchy` got wrong result
+Q2	12	Why are classes kept in jars added via custom classpath container not available for code completion?
+Q3	5	How to get warned about NPE caused by functions returning null?
+Q4	3	An internal error occurred during: &quot;AppXray Indexing...&quot;
+Q5	2	JDT How to know the full name of a superclass
+Q6	2	JDT: Replace one type for another in eclipse plugin
+Q7	2	How can I add JDT as a Maven dependency?
+Q8	2	Arguments for eclipse compiler in Maven
+Q9	2	How to modify the Eclipse Run Configuration classpath?

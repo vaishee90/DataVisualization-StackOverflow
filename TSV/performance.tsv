@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	1152	Why is printing &quot;B&quot; dramatically slower than printing &quot;#&quot;?
+Q2	67	Why is &quot;while (i++ &lt; n) {}&quot; significantly slower than &quot;while (++i &lt; n) {}&quot;
+Q3	57	Performance issue: Java vs C++
+Q4	47	Fastest way to sum integers in text file
+Q5	42	Why is StringBuilder#append(int) faster in Java 7 than in Java 8?
+Q6	36	Hidden performance cost in Scala?
+Q7	34	Why is hashCode slower than a similar method?
+Q8	30	Fastest way to check if a byte array is all zeros
+Q9	24	Why doesn&#39;t Java have true multidimensional arrays?
+Q10	24	What is the current state of affairs in the world of Java timers?

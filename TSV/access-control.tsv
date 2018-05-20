@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	6	Access control -- protected members from outside the package
+Q2	2	Why can I break out of a restricted AccessControlContext with AccessController.doPrivileged?
+Q3	2	AccessControlException when check write folder permission

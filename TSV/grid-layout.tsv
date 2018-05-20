@@ -1,0 +1,9 @@
+Number	Votes	Question
+Q1	5	Remove huge gaps between check boxes on panel
+Q2	4	Dynamic GridLayout with fixed size
+Q3	3	Forcing JPanel with GridLayout to update / resize
+Q4	3	Is there any way to force GridLayout to leave empty cells?
+Q5	2	Using empty gridLayout  but will hold ImageIcon and store information later. Can i modify the size?
+Q6	2	How to vertically fill a JPanel with GridLayout or GridBagLayout?
+Q7	2	Offsetting GUI grid of gifs in java?
+Q8	2	setVgap(0)  setHgap(0) not working in gridlayout?

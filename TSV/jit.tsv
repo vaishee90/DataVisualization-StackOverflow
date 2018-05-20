@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	45	JIT not optimizing loop that involves Integer.MAX_VALUE
+Q2	26	Could the JIT collapse two volatile reads as one in certain expressions?
+Q3	12	How are exceptions caught and dealt with at the low (assembly) level?
+Q4	11	Java loop gets slower after some runs / JIT&#39;s fault?
+Q5	9	What is the rationale for JIT to not compile huge methods?
+Q6	9	How can I determine why the Hotspot JVM decided to re-compile already JIT:ed code a second time?
+Q7	7	Java 1.7/1.8 JIT Compiler broken?
+Q8	7	Does Sun&#39;s HotSpot JIT compiler automatically apply &quot;final&quot; to Java local variables?
+Q9	4	Unused array of primitives: what do javac and the JIT compiler do with it?
+Q10	4	How to write Java for loops to avoid repeatedly computing the upper bound

@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	2	The publicKey should not be null when trying to PGP encrypt in Mule

@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	2	Jettison / String returned as integer when marshalling
+Q2	2	Spring Batch  JdbcExecutionContextDao java.util.Map$Entry deserializer issue  xstream 1.4.1

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	15	Spring Boot - Cannot determine embedded database driver class for database type NONE
+Q2	13	Store Java 8 Instant as BSON date using SpringData-MongoDB
+Q3	5	Should I use Java 8 default methods for manually implemented Spring Data repository methods?
+Q4	5	Implementing custom methods of Spring Data repository and exposing them through REST
+Q5	5	Spring Boot with custom UserDetailsService
+Q6	5	Can I use Spring Data JPA Auditing without the orm.xml file (using JavaConfig instead)?
+Q7	5	Spring Data does not handle Pageable action argument creation
+Q8	5	Simultaneous use of Hibernate and Spring data jpa?
+Q9	5	Spring-Data FETCH JOIN with Paging is not working
+Q10	4	Custom method in spring data couchbase

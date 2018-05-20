@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	5	How do I notify a user when social login is blocked by a proxy?
+Q2	5	Android - How do I detect if user has chosen to share to Facebook or twitter using intent?
+Q3	3	Replacing Emoji Unicode Range from Arabic Tweets using Java
+Q4	3	After &quot;cancel&quot; click on Twitter  request token for the page is invalid (Twitter4j)
+Q5	3	Obtaining access tokens by Sign in with Twitter for GET search/tweets
+Q6	2	Getting a 401 code on the Twitter API
+Q7	2	java.sql.SQLException: Incorrect string value: &#39;\\xF0\\x9F\\x98\\x8F&#39; for column &#39;tweetcontent&#39; at row 1
+Q8	2	Bias towards negative sentiments from Stanford CoreNLP
+Q9	2	CodeLearn Twitter Tutorial nullpointer error on TweetAdapter.java
+Q10	2	Receiving Camel Twitter Consumer Endpoint Data

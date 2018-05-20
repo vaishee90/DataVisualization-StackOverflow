@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	9	Why is Object.clone() native in Java?
+Q2	6	What are the implications of Java strings not really being immutable?
+Q3	5	What is instanceof of a cloned object?
+Q4	4	Java clone() and equals() check
+Q5	4	using clone() vs new obj
+Q6	3	Should I use Clone method in java?
+Q7	3	Descendant not seeing clone() due to access privilige violation?
+Q8	3	Clone SpannableStringBuilder
+Q9	3	Combine advantages of clone and reference?
+Q10	2	Implementing a clone function

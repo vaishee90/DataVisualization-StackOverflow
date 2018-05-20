@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	7	JavaFX Minimizing Undecorated Stage
+Q2	4	Return byte array from C# to Java using UnmanagedExports and JNA
+Q3	4	Getting and passing structs by value in Clojure with JNA
+Q4	3	How to change entry point of a Java program to a C signature?
+Q5	3	How to use Java Native Access to set process affinity for processes besides Java.exe?
+Q6	3	How to fix invalid memory access on dll calback call from java?
+Q7	3	JNA and Java Language Keywords
+Q8	3	JNI vs. JNA performance
+Q9	3	JNA UnsatisfiedLinkError - works when I set java.library.path to a bogus value
+Q10	2	Pointer issues when mapping native C functions to Java interface with JNA

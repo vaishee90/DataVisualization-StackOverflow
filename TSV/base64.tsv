@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	5	Problems with NativeDecodeByteArray in Android Bitmap.class
+Q2	3	Apache codec base64 encode/decode - not getting expected result
+Q3	3	IllegalArgument Exception in Base64 File Upload in Android
+Q4	2	Conversion from String to long array and back doesn&#39;t work
+Q5	2	Is DatatypeConverter thread-safe?
+Q6	2	Java Base64 encode gives different results than C base64 encode
+Q7	2	Receiving a Base64 encoded string from Android into C# application
+Q8	2	Decompressing Bitmap from Base64 and GZIP
+Q9	2	Convert base64 string to image
+Q10	2	Base64 encoding not working

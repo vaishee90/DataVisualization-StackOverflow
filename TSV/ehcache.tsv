@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	7	Using EhCache in Spring 4 without XML
+Q2	4	Spring cache abstraction - distributed environment
+Q3	3	hibernate Inheritance caching  incorrect entity names used in CacheKey?
+Q4	3	Spring  and Hibernate 2nd level with Ehcache
+Q5	2	Terracota Ehcache Locking Client
+Q6	2	EhCache : Why my diskStore path directory is not created?
+Q7	2	Using timeToIdleSeconds parameter in Ehcache replicated setup
+Q8	2	EhCache Hibernate 2nd level cache maxBytesLocalHeap slow
+Q9	2	Second level cache not working With Spring and JSF
+Q10	2	Alternative solution to the Ehcache GUID/java.net.UnknownHostException

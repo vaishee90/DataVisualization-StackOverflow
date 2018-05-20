@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	5	Law of Demeter - why do I need to use a getter?
+Q2	3	Law of Demeter with data model objects
+Q3	2	Avoid chain of getters with pattern

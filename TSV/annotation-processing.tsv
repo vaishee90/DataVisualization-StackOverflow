@@ -1,0 +1,10 @@
+Number	Votes	Question
+Q1	7	How to use custom type annotations in Java
+Q2	6	Access constant field in annotation processor
+Q3	4	Extracting the concrete type argument from a type extending a generic type in java annotation processors
+Q4	3	Annotation processor in Gradle outputs source files to build/classes making javadoc fail. How to fix it?
+Q5	3	Compiler options missing in Android Studio 0.8.2
+Q6	3	Using an Annotation Processor to create a list of classes with a certain annotation
+Q7	2	Attach information to Abstract Syntax Tree
+Q8	2	Get type of array in Java annotation processor
+Q9	2	Sending events via code generation with annotations

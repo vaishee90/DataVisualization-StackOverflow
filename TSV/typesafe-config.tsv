@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	4	What is a good way to implement reloading of a Typesafe config
+Q2	2	Does typesafe&#39;s config support custom converters?

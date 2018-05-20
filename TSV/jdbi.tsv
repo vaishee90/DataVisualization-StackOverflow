@@ -1,0 +1,7 @@
+Number	Votes	Question
+Q1	6	How to create a one-to-many relationship with JDBI SQL object API?
+Q2	5	How do you inject jdbiFactory DAOs into a Dropwizard Command?
+Q3	3	Optional jDBI parameter
+Q4	3	Configuring a Provider that returns a generic type in Guice
+Q5	2	How do we force Resource(controller) level transaction in Dropwizard with jdbi?
+Q6	2	Use custom creds while using DropWizard JDBI

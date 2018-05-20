@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	1	Is Hibernate ManyToMany self-join possible for non-key columns? getting mappingException

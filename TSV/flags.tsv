@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	6	What is the general practice to set a flag that has a different value in production than it does in dev
+Q2	2	Indispensable flags for compiling and running java code
+Q3	2	Processing - Boolean flags aren&#39;t corresponding to the switch they are in

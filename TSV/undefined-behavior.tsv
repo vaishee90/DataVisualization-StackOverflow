@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	5	Java list.contains returning false  should be true
+Q2	3	Accessing an uninitialised static field in Java
+Q3	2	Why does ActionEvent ask for an id?

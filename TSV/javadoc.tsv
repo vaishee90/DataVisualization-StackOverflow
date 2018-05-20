@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	14	Enums ordering in javadoc
+Q2	11	Javadoc in JDK 8 : Invalid &quot;self-closing element not allowed&quot;
+Q3	9	How do you link to a _package description_ (not class) in the javadoc?
+Q4	9	Javadoc generation failed : ClassCastException: com.sun.tools.javadoc.ClassDocImpl cannot be cast to com.sun.javadoc.AnnotationTypeDoc
+Q5	8	What is the meaning of profile (compact1  compact2  compact 3) in Java API documentation?
+Q6	7	How to add external library&#39;s sources and javadoc to gradle with IntelliJ?
+Q7	7	How to make inline taglets (which require com.sun) more cross-platform? Is there a non-Oracle/more-cross-platform javadoc parser?
+Q8	6	Maven javadoc:javadoc works but javadoc:aggregate throws errors that look like compiler errors
+Q9	6	Ant/Maven: &quot;javadoc: warning - Error fetching URL&quot;
+Q10	5	Is there a versioning process for the Javadoc Tool?

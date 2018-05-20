@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	11	Java 8 lambdas that access instance fields and methods can&#39;t be deserialized
+Q2	7	Jackson ObjectMapper using custom Serializers and Deserializers
+Q3	6	How do I replace Java&#39;s default deserialization with my own readObject call?
+Q4	6	Is Object deserialization a proper way to implement Prototype pattern in Java?
+Q5	5	Will I be able to successfully deserialize a previous version of my class?
+Q6	4	Including outside variables when serializing an object
+Q7	4	Can HashMap serialized in 1.7  be used in 1.6?
+Q8	4	What happens during serialization in java  if two object refrences are pointing to the same serializable Object?
+Q9	4	Slow deserialization when fetching low level datastore Entity objects from Memcache
+Q10	3	Why Java complains &quot;No Valid Constructor&quot; even when default constructor is present?

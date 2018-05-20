@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	14	Is method reference caching a good idea in Java 8?
+Q2	6	How to enable HTTP caching for the resource handler with Spring MVC and Spring Security
+Q3	5	Hazelcast Logging 70% threshold Message with out adding anything to map
+Q4	5	Hystrix Request Caching by Example
+Q5	5	Possible memory leak when caching BufferedImage
+Q6	4	invalidate refreshed entry in Guava CacheLoader
+Q7	4	Spring cache abstraction - distributed environment
+Q8	3	Hibernate session.createCriteria versus session.get performance
+Q9	3	Remove elements from Guava Cache
+Q10	3	Java web app: Force browser to load static content (js  css  html) if deployed file changed

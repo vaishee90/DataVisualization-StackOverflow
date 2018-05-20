@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	3	CDI @Transactional.rollbackOn doesn&#39;t work
+Q2	3	How to set annotation property/attribute programmatically?
+Q3	2	Jersey + Spring = @Transactional not working
+Q4	2	How to inject mocked object by jmockit to a spring managed object with @Transactional method?
+Q5	2	Spring transaction management to work with multiple data sources

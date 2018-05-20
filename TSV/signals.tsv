@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	6	Is it safe to send SIGTERM to JVM
+Q2	4	Signal processing (in Java)
+Q3	3	Sine wave alternates distortion in Java
+Q4	2	Android JNI: &quot;Attempt to use stale local reference&quot; error when trying to call a java method from a signal handler
+Q5	2	Method call from thread does not finish - How to end the thread - Workaround

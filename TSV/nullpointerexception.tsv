@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	23	Why does this assignment cause NPE?
+Q2	18	NullPointerException accessing views in onCreate()
+Q3	12	Why ternary operation gives nullpointer while its ifelse counterpart doesn&#39;t?
+Q4	10	NullPointerException or will print the static variable&#39;s content
+Q5	10	Why does assigning a null value from a ternary statement to a Boolean variable throw a NPE?
+Q6	9	Proper way to handle Android Studio&#39;s NullPointerException lint warning
+Q7	7	Java: how can an impossible NullPointerException still occur?
+Q8	7	getMetaData() throws internal NullPointerException
+Q9	6	How can an Exception be created/thrown with no stack trace?
+Q10	5	Is there a ?. operator for Java to perform null pointer checking?

@@ -1,0 +1,7 @@
+Number	Votes	Question
+Q1	5	Can Nashorn startup slowness be overcome?
+Q2	4	Call external javascript functions from java code
+Q3	3	Which JS Script Engine will be chosen by Java?
+Q4	3	Rhino merge two compiled Scripts into one
+Q5	3	How can I implement a generic interface in Rhino JS?
+Q6	2	Ant Script importPackage does not work after upgrading to ant 1.9.2

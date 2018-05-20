@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	4	Can I re-use a PreparedStatement if it hits a transient exception?
+Q2	2	mysql: keep auto-increment counter after server restart - inconsistent envers audit tables

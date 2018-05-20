@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	4	List branches of a git remote repo without cloning it
+Q2	3	JGIT file diff against the last commit
+Q3	3	Is there a way to test if anyone pushed to the remote repo using JGit from local repo?
+Q4	2	jgit - Delete .git directory (or get files without it)
+Q5	2	How is a merge-base done in JGit?
+Q6	2	How to stage files with JGit in a bare repository?
+Q7	2	Keeping a class over a java program is this a good way?
+Q8	2	JGit Check if a branch is checked out
+Q9	2	Why is jGit&#39;s RevWalk.reset() method misbehaving?
+Q10	2	Retrieving Commit Message Log from Git Using JGit

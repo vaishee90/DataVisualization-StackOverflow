@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	2	JTA Transactional Resource Implementation by Example
+Q2	2	Transaction not prepared (ActiveMQ)  &quot;the XA resource has become unavailable&quot; (Atomikos)  endless exceptions in log

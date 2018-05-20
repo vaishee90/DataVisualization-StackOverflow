@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	65	Do &quot;nothing&quot; while &quot;condition&quot;
+Q2	35	while(true); loop throws Unreachable code when isn&#39;t in a void
+Q3	29	How does continue work?
+Q4	7	How for( ; ;) is infinite loop?
+Q5	6	Do {} while (   ) with comma operator  is that even possible?
+Q6	4	Why are my numbers coming out negative for results of the first 100000 squares?
+Q7	4	Java How can I break a while loop under a switch statement?
+Q8	4	In java - how to exit a while loop when user hits 0 without hitting enter
+Q9	3	Stopping and starting a loop with a button
+Q10	3	Java: while record exists = Keep adding number to the end of record

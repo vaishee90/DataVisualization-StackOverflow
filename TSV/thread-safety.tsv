@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	32	What does &quot;inherently thread-safe&quot; mean?
+Q2	25	What is the purpose of using synchronized (Thread.currentThread()){...} in Java?
+Q3	19	Is iteration via Collections.synchronizedSet(...).forEach() guaranteed to be thread safe?
+Q4	10	Throttling javafx gui updates
+Q5	9	ConcurrentHashMap and compound operations
+Q6	8	Constructors and instruction reordering
+Q7	7	Separate Logic Thread From Event Dispatch Thread
+Q8	6	How to stop one thread from modifying an array which is being used by another thread?
+Q9	6	Is RestTemplate thread safe?
+Q10	5	why is Immutable Objects safe in Double-Checked Locking?

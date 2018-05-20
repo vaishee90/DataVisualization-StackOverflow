@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	3	Android L 5.0 &amp; libusb 1.0.9 - no permissions?
+Q2	2	Caused by: org.usb4java.LoaderException: Native library not found in classpath: /org/usb4java/windows-x86/libusb-1.0.dll

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	37	Why does =+ not cause a compile error?
+Q2	24	One plus plus two compiles unexpectedly
+Q3	10	Why is the result of conditional operator opposite of expected?
+Q4	7	-?-&gt;-?- operator in Java
+Q5	6	instanceof operator in case of primitive and wrapper type array
+Q6	6	Order of operations in i=i++;
+Q7	4	Why does the bitwise complement operator &#39;~&#39; behave differently in c# and java?
+Q8	4	Java Multiple Consecutive Operators
+Q9	4	prefix and postfix operators java
+Q10	4	Java += operator on String with charAt() methods results in char addition

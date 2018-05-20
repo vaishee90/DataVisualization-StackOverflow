@@ -1,0 +1,9 @@
+Number	Votes	Question
+Q1	5	grails spock testing failing with &#39;java.lang.IllegalArgumentException: ServletContext must not be null&#39;
+Q2	4	Running spock unit tests with Maven
+Q3	4	Passing actual parameters in a spock unit test specification
+Q4	3	Accessing grailsApplication from spock unit test testing code in src/groovy
+Q5	2	Stub dynamic finder using spock
+Q6	2	Assert two lists are equal in Spock framework
+Q7	2	Spock and Maven. Tests with @Unroll failed with errors but placeholders is not filled with iteration data in Maven output
+Q8	2	How to create a custom domain specific assert/matcher in spock or hamcrest

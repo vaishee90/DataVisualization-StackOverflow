@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	4	When is the stateful session bean destroyed?
+Q2	3	Should a stateful session bean implements Serializable
+Q3	2	Stateful session bean multi-threaded access

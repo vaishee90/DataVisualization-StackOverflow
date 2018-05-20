@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	3	Why do we use &lt;cxf:rsServer&gt; as opposed to a plain &lt;jaxrs:server&gt; when using the CXF-RS component?
+Q2	2	Camel CXFRS - Empty Attachment

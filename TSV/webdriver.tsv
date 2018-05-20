@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	4	Retrieve the content of meta description from web-page using selenium webdriver
+Q2	3	Selenium webdriver .click() method fails with chrome browser
+Q3	3	WebDriver&#39;s executeScript returns text of alert instead of value returned from JavaScript method
+Q4	3	Allure report: nothing shown in Chrome
+Q5	2	Check if FirefoxDriver or ChromeDriver is installed via system properties?
+Q6	2	How to create own TypifiedElement
+Q7	2	Get cookies from selenium session
+Q8	2	before fill out the text field  jump to next text field in selenium
+Q9	2	How to determine whether XPath targets (returns) attribute or node?
+Q10	2	Escape a dollar sign in Selenium xpath locator

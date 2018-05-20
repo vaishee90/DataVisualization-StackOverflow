@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	10	Efficient BigInteger multiplication modulo n in Java
+Q2	8	Android BigInteger ArithmeticException
+Q3	7	Increasing Java&#39;s BigInteger performance
+Q4	6	Why is there BigInteger(String) but no BigInteger(long)?
+Q5	4	BigInteger partitioned into parts
+Q6	4	BigInteger::intValueExact() - what&#39;s the point?
+Q7	4	How to generate a very big BigInt
+Q8	3	How to create a very large BigInteger
+Q9	3	Manipulating BigIntegers in Java
+Q10	3	Why does BigInteger end up with StackOverflowError in Java at 19635th the integer in Fibonacci Sequence

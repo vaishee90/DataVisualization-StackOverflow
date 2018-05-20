@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	4	Spring Integration: Message released twice after delay
+Q2	4	Spring Integration 3.0.1 Restful http-inbound-gateway doesn&#39;t convert request body into object
+Q3	3	Http Outbound Gateway Sending Json request from pojo payload
+Q4	2	Headerenricher Spring Integration and java dsl
+Q5	2	Why is spring.expression.compiler.mode not able to compile the following?
+Q6	2	Inconstant number of parameters in stored-proc-outbound-gateway
+Q7	2	Spring Integration Annotations and the SmartLifecycle interface
+Q8	2	DefaultMessageListenerContainer: is it possible to cache consumer when using global transactions
+Q9	2	How do I set up a Spring TCP client and server model?
+Q10	2	How do I find out   what exception occurred in spring integration?

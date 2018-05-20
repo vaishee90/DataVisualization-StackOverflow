@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	6	Android IllegalStateException: Fragment not attached to Activity webview
+Q2	2	IllegalStateException: No activity when onStop() method called
+Q3	2	Cloudant j2se prototype throwing HTTPRequest exception

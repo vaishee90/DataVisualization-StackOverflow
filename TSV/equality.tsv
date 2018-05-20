@@ -1,0 +1,9 @@
+Number	Votes	Question
+Q1	5	Implementing meaningful equals method for non-static inner classes
+Q2	4	HashCode implementation for class whose all instances are equal
+Q3	3	javafx how to test image equality?
+Q4	3	Why does (&quot;str&quot; + x == y) only compile for reference types?
+Q5	3	Why is HashSet size 3 after adding 4 objects?
+Q6	3	Junit of equals method
+Q7	2	Scala - Use different equality comparisons/hashing for the same type
+Q8	2	Is there difference between arr.equals(anotherArr) and arr == anotherArr?

@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	13	Extends JFrame vs. creating it inside the the program
+Q2	3	(Updated) How to use a Builder Pattern with Spring Injection?
+Q3	2	Pattern for Operation that needs data from an entire Composition Hierarchy
+Q4	2	Apache Storm - composing a bolt with another bolt

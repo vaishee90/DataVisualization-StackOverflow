@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	4	java.lang.RuntimeException: error:0D0680A8:asn1 encoding routines:ASN1_CHECK_TLEN:wrong tag
+Q2	3	Can you set the RSA public exponent to a value of your choice?
+Q3	3	RSA algorithm implementation not working properly in java
+Q4	2	How to encrypt large amounts of data using asymmetric cryptography?
+Q5	2	Java send PublicKey to PHP and encrypt data

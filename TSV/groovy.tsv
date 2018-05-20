@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	11	Installing a new version of Groovy on my OSGi environment makes my bundle import it  though it shouldn&#39;t
+Q2	7	Executing Groovy scripts embed in Java on runtime for Android
+Q3	6	Java vs. Groovy inner / outer class discrepancy
+Q4	6	Java 1.8u20 fails to start with spring boot and groovy 2.3.7
+Q5	6	How to block access to some classes  when executing groovy scripts from java?
+Q6	6	Writing to disk without using java.io
+Q7	6	Groovy SSL signature verification: signature length not correct?
+Q8	6	Grails maven plugin wants Groovy 2.4.2
+Q9	5	Maven: Groovy-Eclipse Compiler plugin with Groovy 2.3.5
+Q10	5	Gradle: execute Groovy interactive shell with project classpath

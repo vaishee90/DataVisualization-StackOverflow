@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	3	serving xsl in addition to xml to web browser
+Q2	3	how to &quot;canonicalize&quot; arbitrary xml (by reordering all attributes and elements)
+Q3	3	how to clean noise character from the concatenating variables in XSLT
+Q4	2	Circular variable/parameter reference in a Variable XSLT
+Q5	2	JAXB marshalling into HTML table via XSLT contains empty values
+Q6	2	Validate XML using XSD  a Catalog Resolver  and JAXP DOM for XSLT
+Q7	2	Read and substitute constants in XML during XSL transformation
+Q8	2	Define a list variable in xslt
+Q9	2	schema-aware XSLT transform on saxonica 9 EE with scala
+Q10	2	Transforming Streaming XSLT Without a Custom Content Handler

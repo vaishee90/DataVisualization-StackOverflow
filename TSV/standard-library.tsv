@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	13	Java HashMap put() implementation. Why not check references first?
+Q2	3	Why do we need Boolean(String) constructor?
+Q3	2	Is there a standard java exception class that means &quot;The object was not found&quot;?

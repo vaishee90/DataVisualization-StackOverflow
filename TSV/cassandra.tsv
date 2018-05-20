@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	8	Async writes seems to be broken in Cassandra
+Q2	5	Spark with Cassandra input/output
+Q3	4	persistant GC issues with cassandra -- long app pauses
+Q4	3	How Cassandra select the node to send request?
+Q5	3	Using Apache Cassandra In Coldfusion
+Q6	3	Fixing Inconsistent query behaviour between datastax driver and cqlsh
+Q7	3	Rolling Java upgrade in Cassandra
+Q8	3	How create table with spring data cassandara?
+Q9	3	Java 8: Class JavaLaunchHelper is implemented in both
+Q10	3	Cassandra java ORM

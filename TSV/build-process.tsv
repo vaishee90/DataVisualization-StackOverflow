@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	3	Post-process jar after assembly but before installation (to get idempotent builds)
+Q2	2	Can the root module in a gradle + java project contain source files?

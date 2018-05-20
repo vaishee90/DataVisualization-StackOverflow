@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	3	Error when selecting text from Textview (java.lang.IndexOutOfBoundsException: setSpan (-1 ... -1) starts before 0)
+Q2	2	java .wav playback fails after multiple playbacks
+Q3	2	Sound Effects causing Memory Leaks
+Q4	2	Java Use a Clip and a Try - with - resources block which results with no sound
+Q5	2	Can only play one sound clip at a time

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	8	Does the future object returned by executorService.submit(Runnable) hold any reference to the runnable object?
+Q2	6	Why is java ExecutorService newSingleThreadExecutor spawning two threads?
+Q3	6	How do get a Callable task submit to an ExecutorService timeout
+Q4	6	Does an ExecutorService get garbage collected when out of scope?
+Q5	5	ExecutorService.shutdownNow() does not shut down threads
+Q6	4	Restarting a java Thread
+Q7	3	ExecutorService with Runnable share CyclicBarrier
+Q8	3	Breaking Concurrent Code
+Q9	3	How to run two classes in parallel using multithreading?
+Q10	3	Middle ground between ExecutorService.shutDown() and ExecutorService.shutDownNow()

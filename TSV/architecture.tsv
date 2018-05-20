@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	14	Are there any coding examples of a full application in a microservice style?
+Q2	5	Pattern to initialize an EJB that depends on another application EJB
+Q3	4	Design and architecture for multiple concurrent users subscribing to a data feed
+Q4	4	SOA (ish) architecture  where to place common code?
+Q5	4	Designing application tier - what is your best practice?
+Q6	3	Controlling access to a communication layer
+Q7	3	Application level load balancer for pool of processes
+Q8	3	Transactions in microservices
+Q9	2	Multiple Server to Single Server
+Q10	2	Architecting RESTful app ... out of ... Java Web app

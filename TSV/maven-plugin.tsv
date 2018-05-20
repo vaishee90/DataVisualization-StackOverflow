@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	12	How to execute a specific plugin/Mojo from a pom.xml programmatically?
+Q2	9	Defining a custom maven lifecycle with JSR-330
+Q3	6	How to download dependencies inside a maven plugin?
+Q4	6	exec-maven-plugin says cannot run specified program  even though it is on the PATH
+Q5	4	Maven Plugin Build fails when Lambdas are used
+Q6	4	Meaning of filter tag in maven-vault-plugin-&gt;configuration-&gt;embeddeds-&gt;embedded?
+Q7	3	PIT Mutation testing on apache commons math shows line coverage and mutation coverage as 0%
+Q8	3	Configure Maven not to run tests if nothing changed
+Q9	3	Maven:Failed to execute goal org.apache.maven.plugins:maven-resources-plugin:2.7:resources
+Q10	3	Running JDK8 for aspectj

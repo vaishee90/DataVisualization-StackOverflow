@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	5	Why AtomicReference CAS return false with value 128?
+Q2	3	Will the Java Memory Model permit the reordering of non-synchronized accesses of many atomic/volatile variables?

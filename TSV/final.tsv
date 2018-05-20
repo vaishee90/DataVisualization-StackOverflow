@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	60	Will Java Final variables have default values?
+Q2	27	final characters in Java
+Q3	24	What is causing this &quot;possible loss of precision&quot; error?
+Q4	23	Static final int v/s static int
+Q5	17	final String class vs final methods of Non-final String class
+Q6	16	Why can&#39;t we set the value of static final variable in static block through class name
+Q7	15	Are final fields really useful regarding thread-safety?
+Q8	13	What does a variable being &quot;effectively final&quot; mean?
+Q9	7	Java compiler allows accessing uninitialized blank final field using &#39;this&#39; keyword? Is this a bug?
+Q10	6	semantic of local final variable in the Java Memory Model?

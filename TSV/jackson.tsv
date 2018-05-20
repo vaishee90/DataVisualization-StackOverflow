@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	24	Which one is lighter  JSON or BSON?
+Q2	10	Deserializing fails for a class implementing Collection with Jackson
+Q3	8	Custom deserialization on top of reflective deserialization with Jackson
+Q4	7	How to trigger calls to .serializeWithType() of a class implementing JsonSerializable in Jackson?
+Q5	7	@JsonView not filtering properties (Spring 4.1.0.RC2  Jackson 2.3.2)
+Q6	7	Jackson ObjectMapper using custom Serializers and Deserializers
+Q7	6	How to handle exceptions in Spring MVC differently for HTML and JSON requests
+Q8	6	How do I get Wildfly to use additional Jackson Datatypes?
+Q9	5	JPA Transient Annotation and JSON
+Q10	5	Jackson Mapper Not Deserializing JSON - (Could not read JSON: Already had POJO for id (java.lang.Integer))

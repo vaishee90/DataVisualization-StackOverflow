@@ -1,0 +1,10 @@
+Number	Votes	Question
+Q1	5	Returning value from PL/SQL block
+Q2	3	OneToOne + No Foreginkey + Unidirectional + Datamissing =&gt; EntityNotFoundException
+Q3	2	Error casting T4CConnection to OracleConnection
+Q4	2	Internal Error: Unknown or unimplemented accessor type: 9
+Q5	2	Load Java Class File To Oracle Database
+Q6	2	Oracle SqlDeveloper JDK path
+Q7	2	Oracle Java stored librairies won&#39;t compile
+Q8	2	ORA-24816: Expanded non LONG bind data supplied after actual LONG or LOB column
+Q9	2	Oracle does not use function-based index for regex_replace with bind variables

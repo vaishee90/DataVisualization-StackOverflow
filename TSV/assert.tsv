@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	3	Is this an overuse of Java asserts?
+Q2	3	Java 8 ClassFormatException for interface with static methods  but only when using assertions
+Q3	2	Accept multiple IntellijIdea&#39;s inspection suggestions at the same time (all of the same type)
+Q4	2	Assert statement Assert.assertSame is failing
+Q5	2	Hamcrest Matchers - Assert Type of List

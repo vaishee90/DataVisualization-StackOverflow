@@ -1,0 +1,10 @@
+Number	Votes	Question
+Q1	13	Is the lockless lazy loading pattern used in Guava really thread-safe?
+Q2	11	JPA/Hibernate load recursive object graph without N+1/cartesian products
+Q3	6	Hibernate override &quot;lazy=false&quot;
+Q4	3	Why does this result in non-lazy fetching and N+1 select statements?
+Q5	2	Hibernate: Does Hibernate Always Use Object Proxies?
+Q6	2	Hibernate - Difference between bytecode instrumentation and bytecode enhancement?
+Q7	2	Services or lazy loading
+Q8	2	Force hibernate to eagerly load multiple associations without changing mapping
+Q9	2	How to Load Collection in hibernate which fetch type is Lazy?

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	79	What makes Java easier to parse than C?
+Q2	23	Is this Java double-parsing behavior according to spec?
+Q3	12	Exception to Number Format Exception with &quot;D&quot; and &quot;F&quot;?
+Q4	11	Parse String to Long using a specified locale (sv) and NumberFormat
+Q5	7	easy way to find references to other classes in class file
+Q6	7	How to make inline taglets (which require com.sun) more cross-platform? Is there a non-Oracle/more-cross-platform javadoc parser?
+Q7	7	Parse negative number with parentheses
+Q8	6	Separating protocol parser and handler in Java
+Q9	6	Strange behaviour of ww SimpleDateFormat
+Q10	5	Java Language Statistics

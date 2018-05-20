@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	10	For vs. Doseq (and Method Code Too Large)
+Q2	7	How do I securely handle and zero key material buffers on the JVM?
+Q3	7	How does the Clojure compiler generates JVM bytecode?
+Q4	6	What&#39;s slowing this Clojure function down?
+Q5	6	Library functions vs Java methods in Clojure
+Q6	5	Why is this Clojure program so slow? How to make it run fast?
+Q7	4	How do I call a Clojure function that takes a two-dimensional array of Strings from Java?
+Q8	4	How to jump to clojure.lang java source?
+Q9	4	Getting and passing structs by value in Clojure with JNA
+Q10	4	How do I call a Java static method with no arguments in Clojure?

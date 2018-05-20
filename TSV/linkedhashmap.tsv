@@ -1,0 +1,7 @@
+Number	Votes	Question
+Q1	3	Use LinkedHashMap to implement LRU cache
+Q2	3	Java get values from LinkedHashMap with part of the key
+Q3	3	Does a collection which is retrieved from map.values() method preserve insertion order?
+Q4	2	In which container can I collect Strings to show any of them
+Q5	2	LinkedHashMap vs HashMap  LinkedHashSet vs HashSet
+Q6	2	Java LinkedHashMap with removeEldestEntry causes java.lang.NullPointerException

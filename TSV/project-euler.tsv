@@ -1,0 +1,9 @@
+Number	Votes	Question
+Q1	11	In OS X  why does using println() cause my program to run faster than without println()
+Q2	6	What&#39;s slowing this Clojure function down?
+Q3	4	More efficient solution: Project Euler #2: Even Fibonacci Numbers
+Q4	3	Project Euler Program 5 takes too much time in Java
+Q5	2	Sum of Primes - why does my code return 0?
+Q6	2	Java variable may not have been initialized
+Q7	2	Why is this program running so slowly?
+Q8	2	ProjectEuler 8: Is my code wrong or Is it their false?

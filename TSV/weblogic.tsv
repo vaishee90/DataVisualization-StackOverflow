@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	12	Class bytes found but defineClass()failed for error when deploying EAR
+Q2	6	Single WSDL with no schema imports in WebLogic with JAX-WS
+Q3	5	How to set up the context class loader&#39;s classpath for runtime compilation?
+Q4	4	how to share sessions in weblogic
+Q5	4	Grails app - JNDI on Tomcat Vs Weblogic
+Q6	3	An internal error occurred during: &quot;AppXray Indexing...&quot;
+Q7	3	Spring SAML on Weblogic 12c
+Q8	3	Any out-of-box methods to implement request throttling in Java?
+Q9	2	Stop deployment when Exception occurs in ServletContextListener
+Q10	2	How to programmatically stop JMS listeners from consuming?

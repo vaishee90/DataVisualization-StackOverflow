@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	6	Using StringUtils.isEmpty without losing compiler warnings about null pointers
+Q2	4	Why is java.util.Scanner.next() returning empty strings?
+Q3	4	Flattening Java Bean to a Map
+Q4	4	Is there any generic version of toArray() in Guava or Apache Commons Collections?
+Q5	3	Get median from number series using Apache Commons Math
+Q6	3	How to solve ODEs with Java?
+Q7	3	Can&#39;t figure out where these C# and Java code differ
+Q8	2	How can I include the caret character ^ in an Apache Commons CharSet?
+Q9	2	Invalid char between encapsulated token and delimiter in Apache commons csv library
+Q10	2	spot the difference between two lists

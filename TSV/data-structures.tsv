@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	17	Finding if a string contains any string in a collection
+Q2	8	Removing unnecessary/duplicates parentheses from arithmetic expressions using stack(s)
+Q3	8	Is the order of HashMap elements reproducible?
+Q4	7	Arrays.sort() -- two different strategies for primitive &amp; complex data types to be sorted
+Q5	6	Is there a list implementation that would allow gaps?
+Q6	6	Changing Implementation/Class at runtime
+Q7	6	Bidirectional multimap equivalent data structure
+Q8	6	Calculating max from [currPos] to [currPos - k] in large array
+Q9	6	Filtering out list elements with O(n) time complexity
+Q10	5	Java: how to store sparse data efficiently

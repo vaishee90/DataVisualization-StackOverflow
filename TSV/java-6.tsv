@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	12	Complex Bean Mapping
+Q2	6	Java 6 applications are prevented from being deployed to Google App Engine from any version of the SDK
+Q3	5	Valid mask patterns for dateTimeFormat
+Q4	5	How to set up the context class loader&#39;s classpath for runtime compilation?
+Q5	4	Why does painting with Swing behave differently in Java 8 and Java 6?
+Q6	4	Regular expression to match strings in quotes with double-quotes inside
+Q7	4	Any disadvantage to compiling for java6 instead of java7?
+Q8	4	Implementation difference of String.substring() between JDK 6 and JDK 7
+Q9	3	Java 6 Copy files with readline
+Q10	3	Rolling Java upgrade in Cassandra

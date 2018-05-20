@@ -1,0 +1,10 @@
+Number	Votes	Question
+Q1	5	Differents kind of exception while i run test both eclipse and console?
+Q2	3	hsqldb PreparedStatement parameters types
+Q3	3	Backup and restore of Hsqldb database in java code
+Q4	2	HyperSQL keeps files locked after stop
+Q5	2	Workaround in UCanAccess for multi-value fields: &quot;incompatible data type in conversion: from SQL type OTHER&quot;?
+Q6	2	How to convert Date and Time to timeStamp
+Q7	2	How to avoid foreign-key-constraint violations using pure JPA/Hibernate annotations
+Q8	2	File based h2 persisted but not loaded in Spring Boot
+Q9	2	constraint violation: NOT NULL when using Spring  HSQL and Hibernate

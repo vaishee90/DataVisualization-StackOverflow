@@ -1,0 +1,10 @@
+Number	Votes	Question
+Q1	2	Showing com port data in Java GUI
+Q2	2	Writing Hex values to a COM Port with jSSC
+Q3	2	Coding Java against serial ports: buffers and stream strategies
+Q4	2	Read serial (/dev/tty*) fom java
+Q5	2	Issues with concurrent reads from two serial ports via RxTx in a java application
+Q6	2	Read double from serial port
+Q7	2	Getting data from Scale serial port without &lt;CR&gt;
+Q8	2	Unable to send message  read response from my serial port attached device in java
+Q9	2	Android USB Host not able to read and write data for Cp2102SerialDriver

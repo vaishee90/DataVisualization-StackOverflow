@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	3	Is CGLIB usable on Android?
+Q2	2	spring - forcing cglib proxies for @Autowired fields
+Q3	2	Call method by its name stored in string without reflection API?
+Q4	2	which is high performance in spring aop using cglib or jdk proxy without aspectj?

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	5	How to test mock interaction on Activity onResume() Using Dagger Modules and Robolectric?
+Q2	4	Traceback on Dagger .plus() on incomplete parent
+Q3	4	Looking for an example for Dagger assisted injection
+Q4	3	How to use dagger in a android library project
+Q5	3	How to @Provide an Activity for the MortarActivityScope  without leaking the Activity on orientation changes?
+Q6	2	Getting Android Studio + Gradle + Annotations to work together
+Q7	2	How to use Dagger in non-Android Gradle Java application?
+Q8	2	Dagger: Inject field on provided pojo
+Q9	2	How to integrate Wicket and Dagger?
+Q10	2	Generic @Inject&#39;d fields in an abstract superclass

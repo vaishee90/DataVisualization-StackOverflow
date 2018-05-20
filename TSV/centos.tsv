@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	4	JETTY_LOGS is being appended to JETTY_HOME
+Q2	2	Increase time for FIN after the last packet (jetty server  centos os)
+Q3	2	calling journalctl from java
+Q4	2	WatchService uses 100% of CPU on CentOS

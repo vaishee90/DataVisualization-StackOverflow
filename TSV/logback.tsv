@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	7	logback with play framework
+Q2	7	Configuring LogBack DBAppender programmatically
+Q3	6	Is there a Logback Layout that Creates JSON Objects with Message Parameters as Attributes?
+Q4	5	How to use InjectMocks if the instance to be injected has a final class
+Q5	5	Make Logback include the &quot;T&quot; between date and time in its &quot;%date&quot; format for strict ISO 8601 compliance
+Q6	5	Setting logback.xml path programatically
+Q7	4	Spring logs not coming machine specific
+Q8	4	Is it possible to config output toString() in pattern of logback?
+Q9	4	How to redirect AWS sdk logging output
+Q10	4	Is it possible to configure logback logger levels on the command line?

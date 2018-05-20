@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	2	Combining DDD  multiple implementations and REST
+Q2	2	BPEL vs Domain Events for integrating several bounded contexts
+Q3	2	Can Axon guarantee a synchronous end-to-end request cycle using a DistributedCommandBus and a Clustering Event Bus?

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	22	Synchronizing on local variable
+Q2	12	Why ConcurrentHashMap cannot have a lock for each bucket?
+Q3	6	ConcurrentHashMap putIfAbsent() is returning null
+Q4	4	Concurrent Map with fixed size
+Q5	3	Why would a map helper extending hashmap be useful? Why not just use hashmap?
+Q6	3	Does a ConcurrentHashMap need wrapped in a synchronized block?
+Q7	3	ConcurrentHashMap JDK 8 when to use computeIfPresent
+Q8	3	ConcurrentHashMap JDK 8 to JDK 6 backport
+Q9	3	No ConcurrentModificationException for CHM. Why?
+Q10	3	Copying ConcurrentHashMap to HashMap inconsistency

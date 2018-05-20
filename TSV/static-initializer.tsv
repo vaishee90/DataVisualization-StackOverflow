@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	4	Static final field initialization from static initializer
+Q2	4	Static initializers and final constants in Java
+Q3	2	What&#39;s the best way to test a class static initializer?

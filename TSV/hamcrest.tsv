@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	7	Verify map with custom values
+Q2	6	Hamcrest match empty or null Collection
+Q3	4	Hamcrest matcher for checking return value of method in collection
+Q4	4	How do I match a Class&lt;?&gt; against a specific Class instance in a Hamcrest Matcher?
+Q5	4	Hamcrest compare collections
+Q6	3	How to mock persisting and Entity with Mockito and jUnit
+Q7	3	Is it acceptable to use Hamcrest matchers in non test code
+Q8	3	Override Mockito toString test output
+Q9	3	NoSuchMethodError with Hamcrest 1.3 and Maven on GAE
+Q10	3	How to properly unit test a property change?

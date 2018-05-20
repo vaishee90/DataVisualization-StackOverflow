@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	7	Java. Why does it work differently with english and slavic characters?
+Q2	6	When using a random parameter in a loop&#39;s qualifying comparison  does it call the randomization function once or each time the loops runs?
+Q3	5	How can I check if the char array has an empty cell so I can print 0 in it?
+Q4	3	How to overwrite the hashcode method that returns a unique hashcode value with its unique entity ID in my defined Java object?
+Q5	3	Put character in SimpleDateFormat
+Q6	2	Speech Comparison with Java
+Q7	2	Received string over socket does not compare in python
+Q8	2	Check if a string is build out of the same letters as another string
+Q9	2	Difference between null!=variable and variable!=null
+Q10	2	How to search through values in a HashMap to find the highest value  and return both that value and key?

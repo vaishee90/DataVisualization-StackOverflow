@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	6	Play framework: Server monitoring and peformance admin page
+Q2	4	Java application profiling
+Q3	3	Is there a way to trap object allocation in Java inside your code through a method callback?
+Q4	3	Android - profiling a specific thread (UI Thread) via DDMS
+Q5	2	Why doesn&#39;t profiler see one of time-consuming methods?
+Q6	2	Reducing Java heap size
+Q7	2	How to profile a program that doesn&#39;t wait for user input to run and exits quickly
+Q8	2	How to perform an action each time a class is loaded or a resource is found?
+Q9	2	How to profile Domino Agents (AMgr) with YourKit?
+Q10	2	is there an API for analying yourkit snapshot (memory/cpu)?

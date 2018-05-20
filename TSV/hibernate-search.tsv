@@ -1,0 +1,8 @@
+Number	Votes	Question
+Q1	6	Hibernate Search doesn&#39;t index/reindex entities
+Q2	4	when changing hibernate index location (lucene) at runtime index is not getting stored on new location
+Q3	3	Boolean queries in Hibernate Search
+Q4	3	Suggesting tags in a Java / MySQL / Hibernate Search / Lucene environment
+Q5	2	Hibernate Search Indexing a single tenant
+Q6	2	Hibernate search  possible to search special chars?
+Q7	2	Hibernate warning about follow-on locking using Oracle 10g

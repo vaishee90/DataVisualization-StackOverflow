@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	4	Slow deserialization when fetching low level datastore Entity objects from Memcache
+Q2	3	org.hibernate.MappingException: Unknown entity: annotations.Users
+Q3	2	@Component Hibernate classes
+Q4	2	Custom code generation for JPA entities from database

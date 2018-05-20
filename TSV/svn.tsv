@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	7	Eclipse Luna (4.4.0) and Subclipse not working
+Q2	6	Managing many clients with the same java projects with small changes
+Q3	3	&quot;Console configuration &quot;myConf&quot; does not exist&quot; when importing a project from SVN
+Q4	3	maven project checkin in svn with local jar
+Q5	3	Check if Java Class is commented in SVN Precommit hook
+Q6	2	Paired JAR and native library binaries for SVN Java bindings (JavaHL) on Windows?
+Q7	2	Eclipse 3.7.2 (64 bits) crash when using svn connector polarion 1.8.5
+Q8	2	SVN checkout forbidden with all the tools
+Q9	2	Jenkins/Maven Incremental Build troubles
+Q10	2	How to include a maven module outside of the project context?

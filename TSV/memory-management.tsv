@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	58	A simple &quot;Hello World&quot; needs 10G virtual memory on a 64-bit machine vs 1G at 32-bit?
+Q2	56	64-bit JVM limited to 300GB of memory?
+Q3	33	Do uninitialized primitive instance variables use memory?
+Q4	15	java does not properly reserve huge initial heap size
+Q5	12	How to monitor the JVM usage of large memory pages in Windows 7?
+Q6	9	Maximizing Java Heap Space
+Q7	8	Size of Huge Objects directly allocated to Old Generation
+Q8	7	GC overhead Limit exceeded while running sonar runner
+Q9	7	Android App taking up a lot of memory
+Q10	6	Empty loop consuming more memory than non empty loop in java

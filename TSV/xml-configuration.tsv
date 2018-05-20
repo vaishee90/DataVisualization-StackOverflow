@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	8	Example of xml config taking precedence over annotation config in Spring
+Q2	3	What would be the flow order if I include multiple struts config file in the project
+Q3	2	Configure static resource folder external to web app in jetty 8

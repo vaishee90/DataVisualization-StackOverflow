@@ -1,0 +1,7 @@
+Number	Votes	Question
+Q1	4	JPA Criteria: Convert int to String then select from substring of resulting String
+Q2	3	Hibernate session.createCriteria versus session.get performance
+Q3	3	How to obtain the current session in hibernate
+Q4	2	Using Criterion &#39;OR&#39; to narrow resultset
+Q5	2	Creating criteria with many-to-many
+Q6	2	Hibernate QueryException

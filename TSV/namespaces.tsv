@@ -1,0 +1,8 @@
+Number	Votes	Question
+Q1	4	JDOM2 - two Namespaces
+Q2	4	Spring Framework XML configuration metadata  and Namespaces
+Q3	2	Disable JAXB NameSpace ns1
+Q4	2	Unmarshalling fails with no errors when setting namespace to @XmlRootElement
+Q5	2	Java - Using two classes with the same name in an Interface
+Q6	2	jaxb unmarshalling with namespace
+Q7	2	How to prevent JAXB from writing unused namespaces during marshalling

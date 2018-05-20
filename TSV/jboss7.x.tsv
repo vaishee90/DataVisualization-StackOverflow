@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	8	EJB method takes more time to return after each call
+Q2	4	Total no of loaded classes count keeps increasing
+Q3	3	JBoss server 7.1 not starting in Eclipse Luna
+Q4	3	Transactions don&#39;t rollback
+Q5	3	spring @PostConstruct not firing in JBoss7
+Q6	3	JBoss 7 appends JSESSIONID to URL despite tracking-mode cookie
+Q7	3	JBoss7 + PostgreSQL New missing/unsatisfied dependencies
+Q8	3	Create a vendor-neutral EJB3 client
+Q9	3	Jboss server error : Failed to start service jboss.deployment.unit.&quot;jbpm-console.war&quot;
+Q10	2	Create Two Thread Pools for Asynchronous session bean methods in JBoss EAP6?

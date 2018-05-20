@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	4	Instance variables are the same in each object intialization
+Q2	2	A private data member changes (become empty) mysteriously somewhere

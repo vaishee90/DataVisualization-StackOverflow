@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	24	Java 2D array fill - innocent optimization caused terrible slowdown
+Q2	18	Why is byte addition performance so unpredictable?
+Q3	11	Java loop gets slower after some runs / JIT&#39;s fault?
+Q4	10	Why is JMH saying that returning 1 is faster than returning 0
+Q5	5	Strange performance drop of JDK8 LocalDate.toEpochDay
+Q6	4	Benchmarking Java HashMap Get (JMH vs Looping)
+Q7	3	Play Framework: explain performance
+Q8	3	Why does JMH run different forks?
+Q9	2	Is AES(Rijndael) faster than Blowfish in java 8 platform?
+Q10	2	JMH: don&#39;t take into account inner method time

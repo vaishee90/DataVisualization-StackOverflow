@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	5	I need to have a java method that can be accessed from anywhere within my API but cannot be accessed from the application using the API
+Q2	4	Method Overridding Access modifier and Return Type Restriction
+Q3	4	Changing access to methods without a compilation error
+Q4	3	Is it a good idea to use &#39;final&#39; modifier with getters and setters?
+Q5	3	How to avoid polluting API classes with internal methods?
+Q6	3	Instantiation of a class with only private constructor from another class in groovy
+Q7	3	What are the equivalents of C#&#39;s access modifiers in Java and Scala?
+Q8	3	Java inheritance: Reducing visibility in a constructor vs inherited method
+Q9	2	public access methods inside a default access class.. what is the point?
+Q10	2	Groovy equivalent to java&#39;s declaration without access modifier

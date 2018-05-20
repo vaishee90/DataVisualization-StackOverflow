@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	2	Is the best way to package jsvc with your java service as source code  then have people who use it compile before using?
+Q2	2	daemonize java program - go backgound after input some data

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	4	how to differentiate received messages between users using smack and java?
+Q2	3	Integrating with Hangouts via Smack 3.1.0 in Java
+Q3	3	Message are printing after closing the chat
+Q4	2	How to use Smack 4.1 in Android?
+Q5	2	java.io.EOFException: no more data available - expected end tag &lt;/stream:stream&gt; to close start tag &lt;stream:stream&gt;
+Q6	2	java smack 4.0.3 libray facebook login error
+Q7	2	When to disconnect bosh connection establish from app server to use prebinding in strophe?
+Q8	2	How to connect XMPP bosh server using java smack library?
+Q9	2	Is there an Android native library for XMPP client?
+Q10	2	Smack throws &quot;java.lang.ClassNotFoundException: org.xmlpull.v1.XmlPullParserFactory:&quot;

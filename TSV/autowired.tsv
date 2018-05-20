@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	12	Understanding spring @Configuration class usage
+Q2	12	How to Autowire Bean of generic type &lt;T&gt; in Spring?
+Q3	3	Autowire a classpath directory / File to a Bean
+Q4	3	spring autowire not working No qualifying bean of type Injection of autowired dependencies failed;
+Q5	3	Could not autowire field: private org.springframework.security.core.userdetails.UserDetailsService
+Q6	2	Autowired fields are null  but not when autowiring by constructor
+Q7	2	Singelton in Spring with Autowired field
+Q8	2	No qualifying bean of type [com.app.fetcher.DataFetcher] found for dependency
+Q9	2	Multiple field with identical name in Spring
+Q10	2	NullPointerException thrown on Spring object injection with @Autowired

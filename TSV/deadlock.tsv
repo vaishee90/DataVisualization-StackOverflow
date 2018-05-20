@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	9	How to diagnose or detect deadlocks in Java static initializers
+Q2	5	HTMLUNIT v. 2.15 Bug Thread deadlock
+Q3	4	Opening MIDI Synth before creating JFrame causes JVM to hang
+Q4	3	Why not using a try with lock in java?
+Q5	3	Java: how to repair a hung thread?
+Q6	3	How to fix this deadlock code in java?
+Q7	2	Print numbers 1-20 with two threads in Java
+Q8	2	How to prevent this simple deadlock in java?
+Q9	2	Threading issue with google guice and spring
+Q10	2	Is this a Deadlock

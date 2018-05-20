@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	5	Why does the java method Integer.toBinaryString(-128) output seven digits?
+Q2	2	Why both (byte) 400000 and (byte) -400000 result -128
+Q3	2	Fail to Understand Java Two&#39;s Complement

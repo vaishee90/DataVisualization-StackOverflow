@@ -1,0 +1,8 @@
+Number	Votes	Question
+Q1	10	NullPointerException or will print the static variable&#39;s content
+Q2	4	Static enum vs. Non-static enum
+Q3	3	Accessing an uninitialised static field in Java
+Q4	3	Unexpected behavior of static member in multithread processing
+Q5	3	When is a static nested class (and static members therein) loaded into memory?
+Q6	2	Difference in C# and Java in accessing static variables and methods
+Q7	2	How the Java Compiler decides about the execution priorities for static and instance members/blocks

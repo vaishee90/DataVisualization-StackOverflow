@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	7	Why Java Character.toUpperCase/toLowerCase has no Locale parameter like String.toUpperCase/toLowerCase
+Q2	4	Test for English only A-Z upper case of a character
+Q3	3	How to only allow capital letters in Java GUI?
+Q4	2	Why does String.equalsIgnoreCase compare both upper-  AND lower-case versions of individual characters?

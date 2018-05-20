@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	12	Class bytes found but defineClass()failed for error when deploying EAR
+Q2	9	Is it discouraged using Java 8 parallel streams inside a Java EE container?
+Q3	8	EJB method takes more time to return after each call
+Q4	5	Intermittent error org.hibernate.PersistentObjectException: detached entity passed to persist
+Q5	5	Is it a good practice to use Entity Beans as usual objects?
+Q6	4	DeploymentException: WELD-001408: Unsatisfied dependencies for type [] with qualifiers @Default
+Q7	4	Why can&#39;t stateful beans be exposed as webservices?
+Q8	3	How should I name the EJB to lookup it correctly?
+Q9	3	Glassfish - share EJB web application between nodes
+Q10	3	Transactions don&#39;t rollback

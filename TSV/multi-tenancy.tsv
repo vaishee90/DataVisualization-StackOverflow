@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	3	No lookup on start for datasources in hibernate multi-tenant application
+Q2	2	Hibernate Search Indexing a single tenant
+Q3	2	How To Implement Dynamic Multitenancy Or Dynamic Table Filtering with JPA/EclipseLink?
+Q4	2	Log exceptions in separate files for each tenant in multi-tenancy architecture

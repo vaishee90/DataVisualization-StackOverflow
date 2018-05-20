@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	8	How to disable Spring logging DEBUG messages?
+Q2	5	Why does spring-security-core exclude commons-logging?
+Q3	2	What is the significance of log4j.rootLogger property in log4j.properties file. What happens if i dont use this property?

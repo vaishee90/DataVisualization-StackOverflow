@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	3	Why is InputStream constructed from Channel much faster than one constructed from FileDescriptor?
+Q2	2	Kryo vs Jackson
+Q3	2	kryo serializing of class (task object) in apache spark returns null while de-serialization

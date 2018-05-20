@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	5	Hibernate Interceptors - Why is onFlushDirty called after onSave?
+Q2	4	Replacing if/else logic with state/strategy pattern
+Q3	2	Avoiding code duplication when overriding abstract methods in enum
+Q4	2	how to send parameter in stateless4j trigger

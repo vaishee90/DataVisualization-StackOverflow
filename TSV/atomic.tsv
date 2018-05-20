@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	69	Is id = 1 - id atomic?
+Q2	7	How is LongAccumulator implemented  so that it is more efficient?
+Q3	5	Atomic Integer lazySet performance gains
+Q4	3	Are size()  put()  remove()  get() atomic in Java synchronized HashMap?
+Q5	2	volatile and atomic together. Does it make any sense?

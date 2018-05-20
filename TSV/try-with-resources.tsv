@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	9	Are resources closed before or after the finally?
+Q2	7	Strange &quot;Resource leak: stream is never closed&quot; with try-with-resources if Exception is thrown in a loop
+Q3	6	Why is close() method of the resource called before catch in a try-with-resources construct in Java?
+Q4	4	Why it is okay in java 7 to catch an IOException even if IOException will never be thrown
+Q5	4	Java 8 FilterOutputStream exception
+Q6	3	Why not using a try with lock in java?
+Q7	3	Behaviour of try-with-resources with closable parameters
+Q8	2	Catch errors during object construction from try-with-resources separately from body
+Q9	2	Java Use a Clip and a Try - with - resources block which results with no sound
+Q10	2	try-with-resources statement in Java

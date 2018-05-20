@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	17	Generics  Type Parameters and Wildcards
+Q2	7	difference between creation unbounded and bounded wild card type array?
+Q3	5	Difficulty Understanding Wildcards in Java
+Q4	4	Why does this code compile? (java generic method)
+Q5	4	Using wildcard in method argument
+Q6	4	nested wild cards and subtyping. How to understand when types are compatible?
+Q7	4	Java wildcard parameterized type incompatible
+Q8	4	Can I use generics wildcard in List declaration?
+Q9	3	Why producer in Collections.max() is a bounded wildcard?
+Q10	3	Invoking generic method with wildcards does not compile

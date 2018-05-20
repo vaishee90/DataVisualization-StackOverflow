@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	3	Is there any API in drools to create the drl files dynamically by just passing values?
+Q2	3	Using Optaplanner to solve VRPTWPD
+Q3	3	Drools singleton StatefulKnowledgeSession as a web service
+Q4	2	Elegant Approach to Using Drools to Process Facts in the Form of Loosely-Structured JSON Entities?
+Q5	2	Working Memory &amp; objects insertion behavior in Drools
+Q6	2	Verify drl file when compiling with maven
+Q7	2	Drools KnowledgeBase Deprecated
+Q8	2	Optaplanner: Evaluate solution
+Q9	2	drools mvel for each element in a map
+Q10	2	Avoid parsing project pom.xml when running Drools

@@ -1,0 +1,8 @@
+Number	Votes	Question
+Q1	3	What is a global transaction?
+Q2	3	What is the real delivered value of JTA?
+Q3	2	JTA Transactional Resource Implementation by Example
+Q4	2	OptimisticLockingFailureException updating step execution after commit failure in Spring Batch
+Q5	2	Why to use jpadialect in JpaTransactionManager
+Q6	2	Container Managed Transactions can not rollback
+Q7	2	Wildfly 8.0.0.Final JTA transaction issues

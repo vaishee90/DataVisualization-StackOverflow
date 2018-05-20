@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	2	How can I make a Spring Boot project with multiple data sources?
+Q2	2	SerializationProxy pattern gives ClassCastException: How to avoid?
+Q3	2	Gson serialize circular references only one way

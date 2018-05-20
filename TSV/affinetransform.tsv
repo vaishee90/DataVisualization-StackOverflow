@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	7	Graphics Context misaligned on first paint
+Q2	2	storing transformed BufferedImage in Java
+Q3	2	porting image rotations to android
+Q4	2	When would you use AffineTransform getScaleX()?

@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	4	Cannot cast from source type to destination type (JNIEnv.GetArray&lt;Java.Lang.Object&gt;(pudis.Handle);)

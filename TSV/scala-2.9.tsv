@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	2	How to convert scala.collection.Set to java.util.Set with serializable within an RDD

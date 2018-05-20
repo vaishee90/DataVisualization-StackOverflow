@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	26	How does HashSet not allow duplicates?
+Q2	14	Java HashMap containsKey returns false for existing object
+Q3	12	Java iterate over ArrayList with HashMap in it
+Q4	8	Is the order of HashMap elements reproducible?
+Q5	6	Statistics for java HashMap
+Q6	6	Storing multiple values with same key in HashMap
+Q7	6	Is there a HashMap implementation in Java that produces no garbage?
+Q8	6	Collectors.groupingBy doesn&#39;t accept null keys
+Q9	5	How can I use a third party Class Object as Hashmap Key?
+Q10	5	How to know/get the capacity of hashmap?

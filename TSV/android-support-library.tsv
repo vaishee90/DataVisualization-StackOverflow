@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	6	Android Floating Action Button API 19 (KitKat)
+Q2	5	android.support.v7.widget.RecyclerView failed to instantiate
+Q3	5	Drawer Layout not closing on back pressed (depending on support-v4 lib)
+Q4	5	NoClassDefFoundError when running PopupMenu using android-support-v7-appcompat library in android
+Q5	5	Android Support Library v17
+Q6	5	No resource identifier found for attribute &#39;paddingEnd&#39; in Package &#39;android&#39;
+Q7	4	How to fix error: package android.support.v4.app does not exist ; in Android studio 0.8
+Q8	3	NullPointerException when switching between fragments containing RecyclerView
+Q9	3	NullPointerException when calling getSupportActionBar() from inside of Fragment (ActionBarCompat)
+Q10	3	Android Support Library v7 + Maven + Eclipse: apklib dependency not found in workspace

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	19	Why is this method overloading ambiguous?
+Q2	7	Java allows to assign byte to java.lang.Short but not to java.lang.Integer
+Q3	4	Nesting multiple levels of Jackson WRAPPER_OBJECTs
+Q4	4	Java wrapper: overriding a method called in the super constructor
+Q5	4	How to wrap each object of a Collection in Java?
+Q6	2	Java wrapper class subclass of concrete type
+Q7	2	javaexe based program does not run normally on Windows 8.1
+Q8	2	How to implement a builder class using Generics  not annotations?
+Q9	2	My friend says my method is useless  could someone please explain why?
+Q10	2	why integer wrapper cases instances in range of -128 to 127

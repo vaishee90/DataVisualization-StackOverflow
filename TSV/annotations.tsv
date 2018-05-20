@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	13	Annotating the functional interface of a Lambda Expression
+Q2	11	If Annotation is an interface then how it can extend an Object class?
+Q3	10	java8 - annotating compareTo &lt;T&gt; of Comparable&lt;T&gt; adds annotations to compareTo(Object o)
+Q4	8	Example of xml config taking precedence over annotation config in Spring
+Q5	6	Annotation-based null analysis - warning appears only with array parameter
+Q6	6	Access constant field in annotation processor
+Q7	5	Scala&#39;s @throws annotation is ignored in javac if I declare the variable as its abstract superclass
+Q8	5	Globally set default &#39;nullable=false&#39; for @Column definition
+Q9	4	Is it required to use annotation on implementation when already specified at interface
+Q10	4	Java hibernate/jpa how to create dynamic generic entity that is self related

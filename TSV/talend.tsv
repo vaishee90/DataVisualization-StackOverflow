@@ -1,0 +1,7 @@
+Number	Votes	Question
+Q1	3	How to parse data in Talend with Java (coming from a previously produced .txt file)?
+Q2	3	Using Talend to extract HTML Search Pages into .txt files based on input keywords. How can I parse this data End-to-End and write it to MySQL?
+Q3	2	Talend : tmap Nullpointer exception while merging two CSV files
+Q4	2	tExtractRegexFields Talend  using regex to seperate column into multiple columns by length
+Q5	2	How to dynamically pass filename to tFTPRename in Talend?
+Q6	2	Optimize writes to heroku Postgresql database

@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	16	Why can&#39;t we set the value of static final variable in static block through class name
+Q2	5	How the order of execution is performed between static variables and blocks?
+Q3	4	static block in a class not executed though it is being referenced
+Q4	4	Static initializers and final constants in Java

@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	17	Ambiguous call from static context in Java
+Q2	2	Calling non-static method from another non-static method
+Q3	2	Referencing non-static variable from a static context
+Q4	2	How is the Static method(main) able to grab hold of non static method(constructor) and execute it?

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	22	Java 8 parallel sorting vs Scala parallel sorting
+Q2	11	Java 8 Collections concurrent processing
+Q3	10	Using a semaphore inside a nested Java 8 parallel stream action may DEADLOCK. Is this a bug?
+Q4	7	How to understand that &quot;Happens-before consistency is not sufficient&quot; in Java
+Q5	7	Nested Java 8 parallel forEach loop perform poor. Is this behavior expected?
+Q6	6	Java lambdas  stateless lambdas and parallel execution
+Q7	6	Reader#lines() parallelizes badly due to nonconfigurable batch size policy in its spliterator
+Q8	5	Parallel and Transactional Processing in Java (Java EE)
+Q9	5	Java 8&#39;s streams: why parallel stream is slower?
+Q10	5	Parallel streams  collectors and thread safety

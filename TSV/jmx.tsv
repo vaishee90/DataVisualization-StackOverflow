@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	5	JBoss EAP 6.2 JMX Server and Registry Bindings
+Q2	4	Java: GarbageCollectorMXBean getCollectionCount throws java.io.IOException: The client has been closed.
+Q3	3	How to get the List of Users registered in James Server through JMX
+Q4	2	Abstract types in MXBean operation signatures
+Q5	2	Weblogic MBeanServer provides the value only after 15 secs
+Q6	2	Tomcat 7: &quot;setenv.sh&quot; vs &quot;/etc/default/tomcat7&quot; to update JAVA_OPTS
+Q7	2	zabbix JMX monitoring of kafka
+Q8	2	clientConnector bean with JBoss 7.2.0
+Q9	2	Initialization of bean failed; nested exception is java.lang.NoClassDefFoundError: org/eclipse/jetty/server/AbstractConnector
+Q10	2	Infinispan Server : How to enable JMX monitoring?

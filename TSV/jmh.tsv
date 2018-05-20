@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	42	Why is StringBuilder#append(int) faster in Java 7 than in Java 8?
+Q2	17	Erratic performance of Arrays.stream().map().sum()
+Q3	16	Strange JIT pessimization of a loop idiom
+Q4	11	Is branch prediction not working?
+Q5	10	Why is JMH saying that returning 1 is faster than returning 0
+Q6	8	What can explain the huge performance penalty of writing a reference to a heap location?
+Q7	5	Strange behavior in sun.misc.Unsafe.compareAndSwap measurement via JMH
+Q8	4	Benchmarking Java HashMap Get (JMH vs Looping)
+Q9	3	Why does JMH run different forks?
+Q10	3	Minimizing Java function call overhead

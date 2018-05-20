@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	10	Java Generics: assignment with nested wildcard parameters
+Q2	8	When is there need for Some&lt;E extends Some&lt;E&gt;&gt; instead of Some&lt;E extends Some&gt;?
+Q3	2	Java Generic Class Exclude Collections from Type Parameter
+Q4	2	type parameters generics in interfaces and concrete classes

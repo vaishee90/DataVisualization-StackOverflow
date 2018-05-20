@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	3	Dozer Mapping field type=&quot;one-way&quot; not working as expected
+Q2	3	Why do we need a bean to bean mapper like dozer in a web application
+Q3	2	JAXB generated objects to business/domain objects
+Q4	2	How to Load Collection in hibernate which fetch type is Lazy?

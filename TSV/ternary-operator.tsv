@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	23	Why does this assignment cause NPE?
+Q2	12	Conditional operator  strange behavior
+Q3	12	Why ternary operation gives nullpointer while its ifelse counterpart doesn&#39;t?
+Q4	12	Ternary Operator Limits
+Q5	10	Why does assigning a null value from a ternary statement to a Boolean variable throw a NPE?
+Q6	10	Unexpected type resulting from the ternary operator
+Q7	7	Compilation error with generics and ternary operator in JDK 7
+Q8	4	Is there a PHP like short version of the ternary operator in Java?
+Q9	4	Java Multiple Ternary operators
+Q10	3	Ternary operator execution of methods

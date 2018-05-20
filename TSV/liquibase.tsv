@@ -1,0 +1,7 @@
+Number	Votes	Question
+Q1	4	Liquibase do not see changes in entities
+Q2	3	Unable to maintain JDBC connection using Oracle XE
+Q3	2	Liquibase - checksum differs with different database vendors
+Q4	2	Liquibase: How to drop unique constraint with no constraint name?
+Q5	2	How to configure the Length of Primary Key Names using Liquibase Hibernate plugin
+Q6	2	Liquibase: How to Set Foreign Key(s) Constraint in Column Tag?

@@ -1,0 +1,8 @@
+Number	Votes	Question
+Q1	67	Why is &quot;while (i++ &lt; n) {}&quot; significantly slower than &quot;while (++i &lt; n) {}&quot;
+Q2	3	Different Output for b=+1 in java
+Q3	3	Difference between b=b++ and b++
+Q4	3	x = x++ doesn&#39;t increment because the ++ is applied after the assignment?
+Q5	3	How are java increment statements evaluated in complex expressions
+Q6	2	Java increment operator
+Q7	2	post increment with addition in Java

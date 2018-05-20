@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	2	How does Maven and/or Junit control how many times tests are run?
+Q2	2	Memory error when running unit tests in SonarQube -- forked VM terminated without saying properly goodbye

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	228	Too many &#39;if&#39; statements?
+Q2	81	Why does i = i + i give me 0?
+Q3	37	Math.pow yields different result depending on java version
+Q4	29	Multiplying two numbers using BigDecimal returns a wrong value
+Q5	23	Java Math.min/max performance
+Q6	14	How can I check if an object(s) are in front of the camera?
+Q7	10	Efficient BigInteger multiplication modulo n in Java
+Q8	10	What is the difference between BigDecimal movePointRight and scaleByPowerOfTen?
+Q9	10	Random &quot;walk&quot; around a central location in a limited area?
+Q10	7	Buiding a math game in Java

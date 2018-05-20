@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	4	Solve Hibernate Lazy-Init issue with hibernate.enable_lazy_load_no_trans
+Q2	3	Is lazy initialization with immutable data always thread-safe?
+Q3	2	How does lazy initialization happen in Singleton?
+Q4	2	Can a Spring Batch job bean be lazily initialized?
+Q5	2	How to Load Collection in hibernate which fetch type is Lazy?

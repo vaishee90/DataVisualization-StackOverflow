@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	7	App not correctly configured to use google play game services
+Q2	5	NullPointerException only after I have setServiceAccountUser() for GoogleCredential object (Grails/Java)
+Q3	3	How is Google verifying SHA1 and package name in API calls?
+Q4	3	Google push notifications - Unauthorized WebHook callback channel
+Q5	3	500 Internal Server Error v3 Upload API: GoogleJsonResponseException
+Q6	3	&quot;401 Unauthorized&quot; when trying to watch changes on Google Drive with Java API Client
+Q7	2	Android 5.0 IllegalArgumentException: Service Intent must be explicit: on com.google.android.location.internal.GoogleLocationManagerService.START
+Q8	2	IllegalArgumentException on trying out &#39;Quickstart: Run a Gmail App in Java&#39;
+Q9	2	Error while executing Google Prediction API Command line Sample
+Q10	2	google api file upload response requires Authorization

@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	2	Why is creation of Clob tied to the Connection class?
+Q2	2	simpleJdbcCall calling Pl/SQL procedure -- ORA-22922 nonexistent LOB value

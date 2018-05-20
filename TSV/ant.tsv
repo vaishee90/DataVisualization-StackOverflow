@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	9	Ant: Class not found: javac1.8
+Q2	9	Trying to build Android Emulator with ionic fails.. &quot;Class not found: javac1.8&quot;
+Q3	8	javac: invalid target release: 1.7
+Q4	7	Error : Executing command &#39;ant&#39;  make sure you have ant installed and added to your path
+Q5	7	Phone Gap [error] cmd: Command failed with exit code ENOENT
+Q6	7	FindBugs can&#39;t locate org.apache.bcel.classfile.ClassFormatException
+Q7	6	Ant/Maven: &quot;javadoc: warning - Error fetching URL&quot;
+Q8	5	How can I define a task named with a hyphen?
+Q9	5	windows classpath issue with ant and java
+Q10	5	Java 8 Javascript Engine backwards compatibility

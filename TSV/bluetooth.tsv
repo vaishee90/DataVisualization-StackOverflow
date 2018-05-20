@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	6	RDP through Bluetooth
+Q2	6	android bluetooth connection fails after 489 successful connections
+Q3	4	Error while sending files through bluetooth in android?
+Q4	4	Android Bluetooth Low Energy: characteristic.getPermissions() returns 0?
+Q5	3	Real-time Bluetooth SPP data streaming on Android only works for 5 seconds
+Q6	3	android sensortag azimuth for compass isn&#39;t working (java code)
+Q7	3	Read from InputStream using read vs. IOUtils.copy
+Q8	3	Bluetooth transfer App stops after using InputStream.read() with no error
+Q9	3	Bluetooth Connection failed &quot;java.io.IOException: read failed  socket might closed or timeout  read ret: -1&quot;
+Q10	3	How to improve Android Bluetooth Low Energy GATT throughput?

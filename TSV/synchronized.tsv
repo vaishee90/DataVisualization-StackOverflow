@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	93	What is the reason why “synchronized” is not allowed in Java 8 interface methods?
+Q2	22	Synchronizing on local variable
+Q3	22	Does empty synchronized(this){} have any meaning to memory visibility between threads?
+Q4	7	Can I make an overriden method synchronized?
+Q5	5	Java When using synchronized do I get volatile functionality for free?
+Q6	4	why synchronized method is not working for multithread
+Q7	4	can I use static boolean variable as a lock for a synchronized thread?
+Q8	4	volatile variables  synchronized blocks
+Q9	3	Java basic synchronized threads
+Q10	3	Does a ConcurrentHashMap need wrapped in a synchronized block?

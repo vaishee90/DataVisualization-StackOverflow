@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	0	Apply generic class @MappedSuperclass as targetEntity.Error: @ManyToOne on models.Unit.parent references an unknown entity: models.GenericHierarchic

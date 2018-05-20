@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	15	Spring Boot - Cannot determine embedded database driver class for database type NONE
+Q2	13	JPA support for Java 8 new date and time API
+Q3	12	Using JPA entity graph with complex conditions
+Q4	11	JPA/Hibernate load recursive object graph without N+1/cartesian products
+Q5	11	Encountered a deprecated javax.persistence.spi.PersistenceProvider
+Q6	10	Inheritance JPA and Hibernate Issue
+Q7	10	org.hibernate.HibernateException: createQuery is not valid without active transaction @scheduled
+Q8	10	Use Point type with PostgreSQL and JPA/Hibernate
+Q9	9	Use abstract super class as parameter to Spring data repository
+Q10	9	Java - Does a loop takes longer to execute each time?

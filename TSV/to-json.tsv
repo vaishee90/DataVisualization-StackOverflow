@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	2	Convert XML to JSON using org.apache.commons.json.utils.XML toJson - Changes empty element to &quot;true&quot;

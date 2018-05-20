@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	5	Netbeans GlassFish Server 4  deploy  Connection refused: connect  false   The module has not been deployed. See the server log for details
+Q2	5	How to make runnable Jar programs that do not fail silently?
+Q3	5	Deploy WAR or &quot;fat&quot; JAR?
+Q4	4	Modern alternatives to packaging and deploying enterprise applications?
+Q5	3	Play! Framework on dokku memory issue (heap object)
+Q6	2	Running Spring app built with gradle on Heroku
+Q7	2	Wrap jar as .app (OSX) and (.exe) for deployment?
+Q8	2	Required trailing slashes in application.xml
+Q9	2	Rolling Deployment of Java/Tomcat application using Capistrano
+Q10	2	Java EE deployment issue

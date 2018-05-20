@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	10	Publishing EAR file hangs on WebSphere 8.0
+Q2	4	Hibernate in emeddable websphere container does not find java:comp/websphere/ExtendedJTATransaction
+Q3	4	How can I set a WebSphere classloader policy to PARENT_LAST for an app created in Eclipse?
+Q4	4	Warning &quot;Call in violation of protocol&quot;
+Q5	3	Performing build using Jenkins
+Q6	3	Shared library in Websphere 7
+Q7	3	best place to put properties file in IBM websphere 8.5?
+Q8	3	JNDI issue with Websphere 6 UserTrasaction and Quartz Scheduler
+Q9	3	WebSphere 7 JAX-WS Log Soap Messages using log4j
+Q10	2	Use JASPIC auth module on WebSphere 8.5

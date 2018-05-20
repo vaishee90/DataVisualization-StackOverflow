@@ -1,0 +1,7 @@
+Number	Votes	Question
+Q1	14	How to give warning message in own API?
+Q2	12	How to avoid deprecation warnings when @SuppressWarnings(&quot;deprecation&quot;) doesn&#39;t work?
+Q3	9	Unchecked casts and unnecessary suppressed warnings with lambdas
+Q4	7	Strange &quot;Resource leak: stream is never closed&quot; with try-with-resources if Exception is thrown in a loop
+Q5	6	Using StringUtils.isEmpty without losing compiler warnings about null pointers
+Q6	5	Why compiler warns about resource leak?

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	8	Return from lambda forEach() in java
+Q2	6	scope of local variable in enhanced for-loop
+Q3	6	How to break or return from Java8 Lambda forEach?
+Q4	4	IntelliJ IDEA suggests replacing for loops with foreach method. Should I always do that when possible?
+Q5	4	How does a for each loop guard against an empty list?
+Q6	4	Inserting extra code into Java for loops
+Q7	3	Is foreach loop literally rewritten to a for loop with iterator?
+Q8	3	Velocity #foreach not working as expected with string passed as $value variable
+Q9	2	For Each loops to first build and then retrieve JTextField inputs
+Q10	2	ConcurrentModificationException: .add() vs .addAll()

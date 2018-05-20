@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	12	How to check String Pool Contents?
+Q2	2	Why String created using new operator creates string literal in string pool
+Q3	2	Strings in Java
+Q4	2	Method Local Strings Memory Allocation?
+Q5	2	Will the String passed from outside the java application be saved in String pool?

@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	3	Implement copy/paste in JTextArea?
+Q2	3	Error when selecting text from Textview (java.lang.IndexOutOfBoundsException: setSpan (-1 ... -1) starts before 0)
+Q3	2	Copy text to clipboard from a JTextfield with press of a button
+Q4	2	Enable Copy/paste across different applications

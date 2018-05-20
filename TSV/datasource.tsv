@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	4	How to allow Tomcat to connect to more than one Databases?
+Q2	4	Autowiring More than One DataSource in Spring
+Q3	3	No lookup on start for datasources in hibernate multi-tenant application
+Q4	3	BoneCP and Hibernate
+Q5	2	Tomcat 7 / Tomee / Java Datasource
+Q6	2	Tomcat JNDI resource name aliases
+Q7	2	Use of multiple DataSources in Spring Batch
+Q8	2	Spring &amp; JDBCTemplate : are resources automatically closed when using the underlying datasource?
+Q9	2	How can I make a Spring Boot project with multiple data sources?
+Q10	2	JavaBean as Datasource in iReport: “General ?roblem: null” (jar is in the classpath!)

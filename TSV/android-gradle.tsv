@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	7	Google Play Services incompatibility
+Q2	7	Peer not authenticated while importing Gradle project in eclipse
+Q3	7	Build Android job with connectedInstrumentTest not working on Jenkins
+Q4	6	Android Studio- Resource Entry already define
+Q5	5	Issues running Espresso instrument tests on Dalvik runtime devices
+Q6	4	Android tests with Appium and Gradle
+Q7	4	Running AspectJ causes NoSuchMethodError: Aspect.aspectOf
+Q8	4	gradlew appengineEndpointsInstallClientLibs has error Execution failed for task &#39;:compileJava&#39;. &gt; invalid source release: 1.7
+Q9	4	Gradle: how do I include a local jar from a dependent java project in an Android build?
+Q10	3	How to set the library build order in gradle?

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	17	Why the bounds check doesn&#39;t get eliminated?
+Q2	15	Solutions for too many parameters
+Q3	15	Optimal merging of triplets
+Q4	13	Does Javac&#39;s StringBuilder optimisation do more harm than good?
+Q5	10	Can a non-changing enum method be optimized by the JVM at runtime?
+Q6	9	What&#39;s wrong with using associativity by compilers?
+Q7	8	Algorithm to find the union of multiple strings grouped by character index
+Q8	6	collatz sequence - optimising code
+Q9	6	C++/JAVA: Efficiently find a set in the collection containing given value
+Q10	5	How can I optimize this class that solves this math sequence

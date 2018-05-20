@@ -1,0 +1,10 @@
+Number	Votes	Question
+Q1	5	Understanding the difference between Collection.isEmpty() and Collection.size() == 0?
+Q2	5	Unexpected output for int type
+Q3	4	JScrollpane not scrolling big content
+Q4	3	How full does the old generation have to be to trigger a major GC cycle?
+Q5	2	When to use length and when to use length()
+Q6	2	My JFrame always becomes a few pixels too big.
+Q7	2	How to solve java.lang.OutOfMemoryError: Java heap space error
+Q8	2	How can I find out the size of a java.util.List if the actual size is greater than the Integer.MAX_VALUE?
+Q9	2	Returning the size of a polymorphic binary search tree in Java?

@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	13	GregorianCalendar DST problems
+Q2	3	Why does Calendar.JUNE set the month to July?
+Q3	2	Configure DST(Daylight Savings Time) in log4j

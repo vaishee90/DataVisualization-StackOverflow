@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	3	How to run two classes in parallel using multithreading?
+Q2	2	Convert Runnable.run() to Callable.call() in JAVA Servlet
+Q3	2	Java - Define a timeout for Callable within a ExecutorCompletionService

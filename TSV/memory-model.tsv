@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	26	Could the JIT collapse two volatile reads as one in certain expressions?
+Q2	22	Does empty synchronized(this){} have any meaning to memory visibility between threads?
+Q3	9	Are synchronizes-with edegs compiler re-ordering barriers in both directions?
+Q4	3	Java - is volatile required with synchronized?

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	7	RMI server shuts down on its own
+Q2	6	Java ArrayList / RMI
+Q3	3	Cannot launch WAR  nested exception is java.lang.NoClassDefFoundError:
+Q4	2	Java RMI has different instantiations on client variables from client itself and from remote calls from server
+Q5	2	Java RMI: Pass remote object reference back to host
+Q6	2	JList sometimes goes blank when modify its DefaultListModel using values from an RMI call
+Q7	2	clientConnector bean with JBoss 7.2.0
+Q8	2	Does RMI guarantee the order of execution?
+Q9	2	Java Server Socket transfer String to web socket
+Q10	2	Java RMI: setup-method returns immediatly and RMI threads aren&#39;t created

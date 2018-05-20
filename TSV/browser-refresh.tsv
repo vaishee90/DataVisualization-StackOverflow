@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	0	Is there a way to know if a Vaadin UI has been refreshed (F5 reload) when it is not @PreservedOnRefresh

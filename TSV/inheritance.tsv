@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	240	Do I really have a car in my garage?
+Q2	62	Why are arrays Objects  but can not be used as a base class?
+Q3	59	Default method returns true for a while  and then returns false? (Possible JVM bug)
+Q4	51	Why we should not use protected static in java
+Q5	48	What&#39;s the size cost of Java inheritance?
+Q6	33	Are there any reasons to have an abstract class with every method in the class defined?
+Q7	25	Super keyword in Java  interesting behavior  please explain
+Q8	23	Why NullPointerException?
+Q9	22	Usage of multiple inheritance in Java 8
+Q10	20	How does the &quot;this&quot; keyword in Java inheritance work?

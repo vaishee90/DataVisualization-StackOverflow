@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	5	GCM CCS server implementation not receiving upstream messages
+Q2	3	Send and Receive IQ XMPP ASMACK Android
+Q3	3	How to get Java 32bit in Mac OS Maverick
+Q4	2	How to use Smack 4.1 in Android?
+Q5	2	How to connect XMPP bosh server using java smack library?
+Q6	2	Smack throws &quot;java.lang.ClassNotFoundException: org.xmlpull.v1.XmlPullParserFactory:&quot;
+Q7	2	error: cannot access SaslException class file for javax.security.sasl.SaslException not found
+Q8	2	Custom plugin not logging
+Q9	2	How to connect Facebook chat using xmpp i want to enter username of friends and then chat-showing SASL Authentication failed
+Q10	2	GCM CCS (XMPP) implementation in JAVA using smack library. Connection failed with gcm.googleapis.com

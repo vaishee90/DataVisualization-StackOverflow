@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	1	BroadcastReceiver doesn&#39;t receive the broadcasted intent in the right time(Receiver&#39;s onReceive is being late to be called)

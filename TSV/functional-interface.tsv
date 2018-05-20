@@ -1,0 +1,9 @@
+Number	Votes	Question
+Q1	9	Is there a way to turn an existing interface into a functional interface?
+Q2	7	Java 8 streams  while does this compile part 2... Or what is a method reference  really?
+Q3	6	Passing an instance of Comparable to a method that expects a Comparator
+Q4	6	Why doesn&#39;t Java 8&#39;s ToIntFunction&lt;T&gt; extend Function&lt;T  Integer&gt;
+Q5	5	Java8: Why Functional Interfaces in Java 8 have one Abstract Method?
+Q6	3	Should &#39;Comparable&lt;T&gt;&#39; be a &#39;Functional interface&#39;?
+Q7	2	Exception handling using Lambda in Java 8
+Q8	2	How to declare Functional Interfaces in static helper classes?

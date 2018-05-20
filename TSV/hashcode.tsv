@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	34	Why is hashCode slower than a similar method?
+Q2	34	Why Hash Code of different Boolean instances is always the same?
+Q3	12	Can you just return a field&#39;s hashCode() value in a hashCode() method?
+Q4	7	How to use String.hashCode to generate primary keys
+Q5	6	Accessing a HashSet using the HashCode directly? (Java)
+Q6	5	Nashorn  Java collections  How to implement equals and hashCode in pure javascript
+Q7	5	Meaning of Double.doubleToLongBits(x)
+Q8	4	Java 1.7 Override of hashCode() not behaving as I would expect
+Q9	4	Why Object.hashCode() does not follow Java code convention
+Q10	4	Generic hash codes in Java

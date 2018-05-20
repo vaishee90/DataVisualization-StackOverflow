@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	6	When to return Iterable&lt;String&gt; rather than List Set Collection?
+Q2	6	Gephi + Neo4J plugin + Mac (Java7)
+Q3	6	How can I find all nodes with a specific label using the Java API in Neo4j 2.0.x?
+Q4	4	Concurrent query and delete  leads to Memory Leak in Neo4j 2.0.3 community
+Q5	3	Neo4j Unmanaged Extension and GuardTimeoutException
+Q6	3	Performance of Java API versus Python with Cypher for Neo4J
+Q7	3	Setting up Spring Data Neo4j examples
+Q8	3	Cannot configure Indexed TypeRepresentationStrategy for spring-data-neo4j 3.0.2
+Q9	3	Structr vs spring-data-neo4j
+Q10	3	Neo4j Start-Guide (IntelliJ)

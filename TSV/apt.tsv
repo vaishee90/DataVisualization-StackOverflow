@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	3	maven-enunciate-plugin on java 1.8 as apt now removed from latest JDK (i.e. java annotation processing tool)
+Q2	2	Is there an infrastructure similar and/or with the same functionality as the Java Annotation Processing Tool (APT) in the Dart Language?

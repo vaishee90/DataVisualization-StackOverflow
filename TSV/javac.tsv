@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	14	Ambiguous overload in Java8 - is ejc or javac right?
+Q2	13	Does Javac&#39;s StringBuilder optimisation do more harm than good?
+Q3	12	What is sjavac  who is it for and how do I use it?
+Q4	12	Bug in compiler or am I doing something wrong?
+Q5	9	Error:java: invalid source release: 8 in Intellij. What does it mean?
+Q6	8	Strange generics behaviour. Being erased early?
+Q7	8	javac: invalid target release: 1.7
+Q8	7	Why does javac emit &quot;error: method in class cannot be applied to given types&quot; when an instance method is used in a static context?
+Q9	7	Java compiler allows accessing uninitialized blank final field using &#39;this&#39; keyword? Is this a bug?
+Q10	7	JDK8 with -source 1.7 [Default Methods]

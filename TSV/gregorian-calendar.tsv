@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	13	GregorianCalendar DST problems
+Q2	11	Why GregorianCalendar changes day when setting HOUR_OF_DAY to 0 in UTC?
+Q3	3	GregorianCalendar: Jumping from tuesday to sunday
+Q4	3	Calendar to Date conversion for dates before 15 Oct 1582. Gregorian to Julian calendar switch
+Q5	3	Why does Calendar.JUNE set the month to July?
+Q6	2	DAY_OF_WEEK always returns 7 in Java GregorianCalendar
+Q7	2	How to use JDK GregorianCalendar object dates with Joda
+Q8	2	How to Convert Gregorian String to Gregorian Calendar
+Q9	2	Convert Java Gregorian Calendar to String
+Q10	2	com.mysql.jdbc.PreparedStatement setDate: unable to persist proleptic Gregorian Calendar dates (for dates before 15 Oct 1582)

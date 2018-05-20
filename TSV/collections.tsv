@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	64	Explain the syntax of Collections.&lt;String&gt;emptyList()
+Q2	24	Should I return a Collection or a Stream?
+Q3	22	Do Collections.unmodifiableXXX methods violate LSP?
+Q4	19	Is iteration via Collections.synchronizedSet(...).forEach() guaranteed to be thread safe?
+Q5	18	What Java Collection should I use?
+Q6	17	Finding if a string contains any string in a collection
+Q7	17	What is difference between Collection.stream().forEach(..) and Collection.forEach(..)
+Q8	15	Java 8: performance of Streams vs Collections
+Q9	14	Check if a collection contains an object  comparing by reference
+Q10	13	Implementing undo and redo for an Array?

@@ -1,0 +1,9 @@
+Number	Votes	Question
+Q1	3	Please help for the Spark SQL performance issue
+Q2	3	Is it possible to connect any RDBMS through spark usinig java?
+Q3	3	How to process a range of hbase rows using spark?
+Q4	2	Cannot programmatically submit Spark application (with Cassandra connector) to cluster from remote client
+Q5	2	Apache Spark: issue with Scala example
+Q6	2	How to get elemnt by Index in Spark RDD (Java)
+Q7	2	Not Serializable exception when integrating Spark SQL and Spark Streaming
+Q8	2	Spark Datastax Java API Select statements

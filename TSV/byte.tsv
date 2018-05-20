@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	7	Casting int to byte gives different results in Netbeans and JCreator
+Q2	6	Does == comparison use byte in ArrayList comparisons?
+Q3	5	char and byte with final access modifier - java
+Q4	5	Why does the java method Integer.toBinaryString(-128) output seven digits?
+Q5	5	Java: Same string returns different byte arrays
+Q6	5	Understanding Java data types
+Q7	4	Why does the bitwise complement operator &#39;~&#39; behave differently in c# and java?
+Q8	4	how can it be possible getting the same string from different bytes data in java?
+Q9	3	How many bytes are used?
+Q10	3	Java String UTF-8 decodes 0xFF as 0xC3BF

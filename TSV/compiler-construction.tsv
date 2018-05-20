@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	35	while(true); loop throws Unreachable code when isn&#39;t in a void
+Q2	15	How to restrict that subclass cannot be generic?
+Q3	12	Java constant expressions and code elimination
+Q4	12	Bug in compiler or am I doing something wrong?
+Q5	12	Java Bug with ambiguous methods using varargs?
+Q6	10	Meaning of Android Studio error: Not annotated parameter overrides @NotNull parameter
+Q7	7	Java changing variable name changes program behaviour
+Q8	7	Purpose for .class files in Java
+Q9	7	How does the Clojure compiler generates JVM bytecode?
+Q10	6	What is &quot;compiler compliance level&quot; in Eclipse?

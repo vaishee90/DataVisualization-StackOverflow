@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	3	Search for a String (as an byte[]) in a binary stream
+Q2	2	How do I fetch specific bytes from a file knowing the offset and length?
+Q3	2	How can I write to a specific line number in a txt file in Java
+Q4	2	Reading specific bytes from RandomAccessFile and testing to see if they equal 0

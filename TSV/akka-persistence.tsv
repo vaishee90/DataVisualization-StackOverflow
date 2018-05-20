@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	3	Akka persistence custom java plugin
+Q2	2	Synchronous (or Future-returning) call to Akka UntypedPersistentActor?

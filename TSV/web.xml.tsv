@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	4	Using web.xml to configure JX-RS with Glassfish 4 is causing errors
+Q2	3	Tomcat 7 Datasource injection mechanism
+Q3	3	Error in Web.xml &quot;Element -- is not allowed here
+Q4	3	getSession() always creates a new session
+Q5	3	Tomcat 7 records all logs into catalina.out but not into log4j2 defined files
+Q6	2	AngularJS CORS with Authorization header
+Q7	2	Wildfly web.xml security constraint blocking basic auth header for JAX-RS methods using ContainerRequestFilter
+Q8	2	default web.xml in maven project
+Q9	2	More information about &lt;data-source&gt; tag in web.xml
+Q10	2	Servlets: where are web.xml files searched for? How are multiple web.xml files merged?

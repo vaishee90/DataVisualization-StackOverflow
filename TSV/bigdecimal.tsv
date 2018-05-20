@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	29	Multiplying two numbers using BigDecimal returns a wrong value
+Q2	16	Java&#39;s Bigdecimal.divide and rounding
+Q3	10	Why this weird output with truncate and BigDecimal?
+Q4	10	What is the difference between BigDecimal movePointRight and scaleByPowerOfTen?
+Q5	9	Adding up BigDecimals using Streams
+Q6	9	Finding the last two digits before the decimal point for the number (4+sqrt(11))^n
+Q7	6	Struts2 BigDecimal Converter is not converting to String
+Q8	6	Java big decimal number format exception
+Q9	5	Canonical representation of a BigDecimal
+Q10	5	Why doesn&#39;t my operation work when I use BigDecimal?

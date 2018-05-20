@@ -1,0 +1,9 @@
+Number	Votes	Question
+Q1	6	How do I set the java.util.logging log level in maven (for Jenkins plugin (JenkinsRule) tests)
+Q2	5	How do I modify a Jenkins plugin to stop it from putting a link on build pages?
+Q3	4	Can Jenkins custom plugin on slave log to master?
+Q4	3	Jira plugin for jenkis is not woking?
+Q5	3	Dynamically create variables for Jelly checkboxes for Jenkins plugin
+Q6	2	Jenkins: doFill Function doesn&#39;t fetch @QueryParameter properly
+Q7	2	Jenkins plugin development - environment variables
+Q8	2	Jenkins html publisher plugins showing old cached htmls - not the updated one

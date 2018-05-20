@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	7	Incorrect String value without &quot;?characterEncoding=UTF-8&quot;
+Q2	6	Retrieving Arabic text from MSSQL NVarchar column
+Q3	5	Inserting same data into two tables belonging to different servers
+Q4	5	how can i retrieve data from multiple databases in a single query?
+Q5	4	Why does Microsoft SQL Server 2012 query take minutes over JDBC 4.0 but second(s) in Management Studio?
+Q6	3	How to convert SQL query with sub query and count to JPA criteria builder
+Q7	3	Check if SQL server is online  using Java
+Q8	3	How do I configure a SQL Server datasource in JBoss to connect using a specific Active Directory user?
+Q9	3	Hibernate NOWAIT does not work with SQLServer2008
+Q10	3	JPA &quot;The multi-part identifier ... could not be bound&quot;

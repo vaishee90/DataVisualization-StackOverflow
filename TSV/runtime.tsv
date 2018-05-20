@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	12	What is the best way of reading configuration parameters from configuration file in Java?
+Q2	10	Can a non-changing enum method be optimized by the JVM at runtime?
+Q3	6	How to determine in java when I&#39;m near to the OutOfMemoryError?
+Q4	6	Executing Java code inside a Java program
+Q5	4	Loading a jar at runtime causes a NoClassDefFoundError/ClassNotFoundException
+Q6	4	Cannot debug  Fatal signal 6 (SIGABRT) at 0x00007c37 (code=-6)
+Q7	4	Force Java 6 usage with Java 7 installed
+Q8	4	java generics runtime type
+Q9	3	calculate the runtime for the Java program
+Q10	3	Modifying an inlined constant at runtime in Java

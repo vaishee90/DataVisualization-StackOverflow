@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	2	&quot;Injection data not found in JNDI context&quot; when injecting TimerService via @Resource

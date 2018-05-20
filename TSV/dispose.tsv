@@ -1,0 +1,7 @@
+Number	Votes	Question
+Q1	2	Custom dialog using JOptionPane API won&#39;t dispose
+Q2	2	Does GC collects garbage from Metaspace?
+Q3	2	Login dialog window won&#39;t dispose completely
+Q4	2	How to get rid of &quot;dead&quot; windows in Java?
+Q5	2	Update JFrame when button from different class is clicked
+Q6	2	Is it safe to dispose a JDialog in a try block  and then continue executing code in a matching finally block?

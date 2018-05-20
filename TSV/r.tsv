@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	12	Unloading rJava and/or restarting JVM
+Q2	5	Getting R to use newer versions of java
+Q3	4	Running an R script from Java
+Q4	3	Why does rJava not work on Ubuntu 14.04 using OpenJDK 7?
+Q5	3	XLConnect crashing R when java.params modified
+Q6	2	Static Java function imported with rJava doesn&#39;t work with tm_map()
+Q7	2	IBrokers - How I send 100000 to IBrokers:::.placeOrder?
+Q8	2	conflict between R 3.1.2 and java7 config in ubuntu 14.10
+Q9	2	NetLogo R Extension Installation Error in Mac OS X Yosemite
+Q10	2	Kernel Regression Smoother - java

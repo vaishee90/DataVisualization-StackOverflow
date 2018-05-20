@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	6	libgdx with displaying Cyrillic
+Q2	5	Detect Chinese character in java
+Q3	5	Java 8 UTF-8 encoding issue (java bug?)
+Q4	4	Change encoding from T1
+Q5	4	Will String.getBytes(&quot;UTF-16&quot;) return the same result on all platforms?
+Q6	4	Reading files with invalid encoding in filename
+Q7	4	Reliance on default encoding  what should I use and why?
+Q8	4	Spring web app encoding
+Q9	3	How can a 21 byte UTF-8 sequence come from just 5 characters?
+Q10	3	Send byte[] in a String from Java to a C program

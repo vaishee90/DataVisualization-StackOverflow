@@ -1,0 +1,8 @@
+Number	Votes	Question
+Q1	4	SwingWorker does not update JProgressBar without Thread.sleep() in custom dialog panel
+Q2	3	When am I supposed to use javax.swing.SwingUtilities.invokeLater()?
+Q3	3	JProgressBar Gets Squeezed/ Resizes Improperly
+Q4	3	How to use Netbeans&#39; indeterminate progress-bar style?
+Q5	3	JProgressBar not updating from SwingWorker  while debugs work fine
+Q6	3	How to make a JProgress bar with a gradient
+Q7	2	Accurately summing file sizes to use in a JProgressBar

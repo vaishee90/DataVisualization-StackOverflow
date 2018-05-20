@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	7	Why is &quot;.concat(String)&quot; so much faster than &quot;+&quot;?
+Q2	3	java concatenate char literal (&#39;x&#39;) vs single char string literal (&quot;x&quot;)
+Q3	3	JSP compiler shows error when using &quot;+&quot; operator
+Q4	3	Concatenate 2 strings in android?
+Q5	3	Why does a null value appear in string output?

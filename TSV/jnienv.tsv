@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	2	Using JNIEnv from a nasm-created dll
+Q2	2	jni call to getClass returns null for a jobject

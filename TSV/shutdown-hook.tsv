@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	6	Is it safe to send SIGTERM to JVM
+Q2	4	Differentiate shutdowns more than Runtime.setShutdownHook() in Java
+Q3	4	How can I get IntelliJ debugger to allow my app&#39;s shutdown hooks to run?

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	9	How to add picture out of JFrame  attached to border
+Q2	6	How can I change the default look and feel of Jframe? (Not theme of Netbeans)
+Q3	5	How to determine if 2 components are on the same frame? (SWING)
+Q4	5	How to make JFrame background and JPanel transparent with only image showing
+Q5	4	Opening MIDI Synth before creating JFrame causes JVM to hang
+Q6	4	Black square showing when adding a .GIF on JPanel
+Q7	4	How can my ActionListener for a JButton access variables in another class?
+Q8	4	Resizing FlowLayout panels
+Q9	3	setUndecorated(true) messing with toFront()
+Q10	3	How to simulate movement of specific JButtons in an array of JButtons

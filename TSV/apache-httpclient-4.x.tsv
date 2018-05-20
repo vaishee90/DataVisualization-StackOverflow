@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	11	java.lang.NoSuchFieldError: org.apache.http.message.BasicLineFormatter.INSTANCE from Mashape Unirest in Java application
+Q2	8	Java http clients and POODLE
+Q3	8	How to use fluent of Apache Components
+Q4	6	Submitting a form using html unit
+Q5	4	Faster detection of interrupted connections during PUT operation with Apache &#39;HttpClient&#39;
+Q6	4	apache httpclient 4.3 not timing out
+Q7	4	What is the difference between CloseableHttpClient and HttpClient in Apache HttpClient API?
+Q8	3	HttpGet get = new HttpGet(url); giving exceptions
+Q9	3	compressing with GZIPOutputStream to upload without creating a gzip file locally
+Q10	3	Why is the constant HTTP.UTF_8 deprecated?

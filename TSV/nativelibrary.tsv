@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	3	Load Native Library from Class path
+Q2	2	Wrong library path when executing from Maven shaded .jar

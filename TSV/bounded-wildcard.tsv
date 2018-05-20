@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	14	Assigning to multilevel wildcards
+Q2	9	Recursive type parameters for an almost-cyclic type bound
+Q3	7	difference between creation unbounded and bounded wild card type array?
+Q4	6	Difference of assignability with nested wildcards in Java 7/8 generics
+Q5	5	Java type inference with lower bounded types
+Q6	5	How do I resolve this wildcard capture issue when using java generics?
+Q7	5	java.util.Comparator.naturalOrder takes a &lt;T extends Comparable&lt;? super T&gt;&gt; and returns a Comparator&lt;T&gt; - why?
+Q8	4	Why is the implicit cast of ArrayList&lt;ArrayList&lt;T&gt;&gt; to Iterable&lt;Iterable&lt;T&gt;&gt; impossible?
+Q9	3	Private helper method to capture wildcard type for generic methods
+Q10	2	Java wildcard error

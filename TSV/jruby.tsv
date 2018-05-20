@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	4	Serializing a JRuby CompiledScript in Java
+Q2	3	How to override the constructor of a Ruby class that extends a Java class?
+Q3	3	Why can&#39;t JRuby use my Java method whose parameter is a RubyArray when it is overloaded?
+Q4	2	Cleanly stop a running JRuby scriptlet

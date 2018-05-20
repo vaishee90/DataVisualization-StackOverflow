@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	16	Public constructor of a private class
+Q2	14	How does the constructor work while initializing an object?
+Q3	13	Is it always safe to call getClass() within the subclass constructor?
+Q4	10	Difference between constructors and methods
+Q5	10	Are Constructors not members of a class?
+Q6	10	type erasure in implementation of ArrayList in Java
+Q7	8	Is using a reference to an overridable method in the constructor safe?
+Q8	7	creating objects with same name as class in java
+Q9	7	Is there a way to explicitly specify a constructor in Java?
+Q10	6	Is instantiating a member of class Test within class Test a recursion?

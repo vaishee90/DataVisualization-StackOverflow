@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	15	Using JDK 7 Or Higher With Android Studio And Eclipse On Mac OSX
+Q2	14	How to change default Java version?
+Q3	13	Setting JAVA_HOME environment variable on MAC OSX 10.9
+Q4	8	javac: invalid target release: 1.7
+Q5	6	No project.properties file and NullPointerException during build of new android application
+Q6	6	Java 1.7 on OSX 10.9.2 running as 1.5?
+Q7	5	Eclipse ADT 22.6.2 still gives the error &quot;java.lang.NullPointerException&quot;
+Q8	4	MacOS Code Signing of bundled JDK7 on Mavericks 10.9.1
+Q9	3	Java: What constitutes a &quot;normal&quot; file in the context of File.isFile()?
+Q10	3	&quot;Too many open files&quot; while dumping data to elasticsearch

@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	6	Using StringUtils.isEmpty without losing compiler warnings about null pointers
+Q2	3	How to properly assign values to objects  where their assignment throws an exception

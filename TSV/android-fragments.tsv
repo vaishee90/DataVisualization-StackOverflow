@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	18	NullPointerException accessing views in onCreate()
+Q2	15	What is the design logic behind Fragments as static inner classes vs standalone public classes?
+Q3	11	how to remove fragment layout in beginning of creating a new app in ADT?
+Q4	8	Why am I getting a null reference on my RecyclerView
+Q5	7	Android Project Fragment Transition throwing Exception when Build target used New API Level 21
+Q6	7	put tabs in the bottom of screen
+Q7	6	Android IllegalStateException: Fragment not attached to Activity webview
+Q8	5	Fragment won&#39;t update after opening notification
+Q9	5	Fragments  AsyncTask and Listeners
+Q10	5	Remove fragment crash

@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	6	strace: Any sense in `dup2(A  B); close(B)`?

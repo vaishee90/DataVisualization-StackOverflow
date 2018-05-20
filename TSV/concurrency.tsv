@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	48	Why is i++ not atomic?
+Q2	31	What exactly does the final keyword guarantee regarding concurrency?
+Q3	27	Java 8 Unsafe: xxxFence() instructions
+Q4	25	What is the purpose of using synchronized (Thread.currentThread()){...} in Java?
+Q5	22	Does empty synchronized(this){} have any meaning to memory visibility between threads?
+Q6	18	How to design an execution engine for a sequence of tasks
+Q7	14	Concurrent ArrayList
+Q8	14	Passing mutable data between threads
+Q9	12	Why ConcurrentHashMap cannot have a lock for each bucket?
+Q10	11	Understanding collections concurrency and Collections.synchronized*

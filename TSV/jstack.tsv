@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	3	understanding line from java thread dump
+Q2	2	Output from jstack missing tid and nid information
+Q3	2	Java thread dump  can&#39;t find thread that blocking others
+Q4	2	jstack results in &quot;Windbg Error: WaitForEvent failed&quot;

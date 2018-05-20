@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	46	Are the bit patterns of NaNs really hardware-dependent?
+Q2	6	0.0 and -0.0 in Java (IEEE 754)
+Q3	3	Is the rounding mode of large float literals well-specified?
+Q4	2	Java: convert floating point binary to floating point decimal

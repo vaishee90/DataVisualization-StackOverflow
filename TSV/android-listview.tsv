@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	6	ListView with Buttons and static String Array
+Q2	3	ListView Error After Scrolling
+Q3	3	The same Android listview code is choppy on scroll in one version of app  in other is not. (known tweaks performed)
+Q4	3	Application crashing because of NullPointerException
+Q5	3	Filter two strings in the same ListView
+Q6	3	Remove Item from Listview on left-to-right swipe
+Q7	3	URL cannot be cast to String
+Q8	2	when clicked on any list view item  show that item text into EditText
+Q9	2	How to add add data at the top of a listview
+Q10	2	Switching 2 Activities on single touch i.e.- using setOnLongClickListener and onTouch ACTION_UP

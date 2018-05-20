@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	2	How to close file in Java and/or know where in my code some file is locked?
+Q2	2	Is a FileLock a POSIX advisory (fcntl) lock

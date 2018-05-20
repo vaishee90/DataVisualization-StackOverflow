@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	3	Servlet context and ServletConfig are the interfaces How web container implements these?
+Q2	2	Container-level Versioned Libraries Shared by WARs
+Q3	2	Run a command via Runtime.exec from java code inside Web Archive (WAR deployed in Jetty)
+Q4	2	what are differences between the non-Java EE 5 servlet and Java EE 5 servlet containers?

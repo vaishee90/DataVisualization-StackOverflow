@@ -1,0 +1,9 @@
+Number	Votes	Question
+Q1	5	Creating Custom Spinner Model
+Q2	4	Multiple JSpinners Initialized differently
+Q3	3	JSpinner Arrows in odd positioning when used with JLabel
+Q4	3	JTable with JSpinner Enable/Disable
+Q5	2	SpinnerNumberModel with short values
+Q6	2	JSpinner with dateModel &quot;H:mm&quot; updates hours instead of minutes when cursor in minutes zone
+Q7	2	JSpinner with a SpinnerNumberModel gets stuck when an initial value with four decimal digits is used
+Q8	2	Set color of FillRect() using value of scrollbar or spinner

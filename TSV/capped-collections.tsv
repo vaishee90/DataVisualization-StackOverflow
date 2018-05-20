@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	2	why MongoDB will not remove older documents if a capped collection reaches the maximum size?

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	12	Android error randomly java.lang.NoClassDefFoundError: com.facebook.internal.Utility
+Q2	10	java.lang.RuntimeException with Facebook Login example
+Q3	7	Handling login session of facebook sdk in android
+Q4	6	Login with Facebook in java From Desktop Removing Permission box
+Q5	5	How do I notify a user when social login is blocked by a proxy?
+Q6	5	Android - How do I detect if user has chosen to share to Facebook or twitter using intent?
+Q7	4	How to integrate facebook login with Struts2?
+Q8	4	java.lang.NoClassDefFoundError: android.support.v4.content.LocalBroadcastManager facebook android app
+Q9	4	how to differentiate received messages between users using smack and java?
+Q10	4	failing to do fb like to postId I have just shared successfully

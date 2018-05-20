@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	5	Java fatal error SIGSEGV
+Q2	2	Why does java app crash in gdb but runs normally in real life?
+Q3	2	Trivial modification to java.lang.String in rt.jar causing VM segfault

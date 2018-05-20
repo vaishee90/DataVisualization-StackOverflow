@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	0	Why am I getting errors while calling context.getResources().getString(R.string.string) in my class?

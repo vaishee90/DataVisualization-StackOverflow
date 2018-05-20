@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	5	Spring Auditable entity is being modified even when nothing has changed
+Q2	5	Can I use Spring Data JPA Auditing without the orm.xml file (using JavaConfig instead)?
+Q3	2	hibernate auditions generating same rev id in for multiple insert in one table

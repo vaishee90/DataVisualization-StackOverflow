@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	4	ORM mapping to lucene
+Q2	3	Dozer Mapping field type=&quot;one-way&quot; not working as expected
+Q3	3	Too much boilerplate  how can I reduce my POJO builders?
+Q4	3	How to compare value of array of objects?
+Q5	3	POJO data with one to many / many to one relationship(JDBC)
+Q6	3	Mapping NativeQuery results into a POJO
+Q7	3	Jaxb POJOs generation with Inheritance
+Q8	2	Java PropertyChangeSupport using annotation
+Q9	2	Java POJO that supports unkonwn fields
+Q10	2	Why are java hibernate-mapped objects encouraged to be POJO&#39;s?

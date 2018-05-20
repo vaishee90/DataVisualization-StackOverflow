@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	20	Why is the max recursion depth I can reach non-deterministic?
+Q2	9	Query on usage of this variable in Recursion
+Q3	8	When is there need for Some&lt;E extends Some&lt;E&gt;&gt; instead of Some&lt;E extends Some&gt;?
+Q4	6	Is instantiating a member of class Test within class Test a recursion?
+Q5	6	How does this recursion loop code executes
+Q6	5	Ruby vs Java: Why world is going to end faster with Java?
+Q7	5	How do you best convert a recursive function to an iterative one?
+Q8	5	Recursive objects to JSON
+Q9	5	Memory Management Recursion Java
+Q10	5	How does recursive method to count white spaces in a string work?

@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	6	Creating a connection with Java ODBC results in a java.sql.SQLException: Invalid Cursor Type exception
+Q2	2	Windows 7 64  Eclipse 64  JDK 64 and specified DSN contains an architecture mismatch
+Q3	2	Filemaker SQL query with question mark in column name using JDBC
+Q4	2	How to resolve &quot;Invalid string or buffer length&quot; after calling resultset.getString() connection from java to access mdb
+Q5	2	MS Access Connection to JDBC in Java 8

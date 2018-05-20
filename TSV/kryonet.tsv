@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	3	What does `instanceof` check to determine object types?
+Q2	2	Using kryonet and amazon aws elastic beanstalk
+Q3	2	How to register an Enum class in Kryonet?

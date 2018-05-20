@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	6	How do I tell visualvm where to find my source code?
+Q2	5	Why does Java CPU profile (using visualvm) show so many hits on a method that does nothing?
+Q3	4	How can I find the local variables in Heap file
+Q4	3	How come my HashMap have a duplicate key?
+Q5	3	Why is tomcat using more and more heap space during idling?
+Q6	3	VisualVM: Ideal Heap Memory Usage Graph
+Q7	3	VisualVM profiler error: &quot;Class JavaLaunchHelper is implemented in both ..bin/java and ..jre/lib&quot;
+Q8	3	Does Java VisualVM gives correct Heap Size of heap dump (.hprof file)
+Q9	2	Why doesn&#39;t profiler see one of time-consuming methods?
+Q10	2	VisualVM cannot perform profiling under Windows XP

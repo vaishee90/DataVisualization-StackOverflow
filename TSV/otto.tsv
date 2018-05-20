@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	3	Using Otto  method only subscribes if I call it directly elsewhere
+Q2	3	RuntimeException: Could not dispatch event @ otto
+Q3	3	Passing String with Otto between Fragments
+Q4	2	How do I effectively use an event bus?

@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	2	how to define java codeModel generated class within another generatede class WITHOUT fully qualifuied name
+Q2	2	How to generate type List&lt;? super Number&gt;?
+Q3	2	JCodeModel - How to chain invoke methods

@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	2	12 factor app config and Java
+Q2	2	Java Config @Bean not autowired in other @Configuration class
+Q3	2	String hostname from properties file: Java
+Q4	2	Too frequent load of Quartz Scheduler in a Spring application

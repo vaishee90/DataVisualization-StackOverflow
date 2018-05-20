@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	15	Prevent Android phone from connecting to WiFi network unless my app approves it?
+Q2	11	How to disable the SSLv3 protocol in Jetty to prevent Poodle Attack
+Q3	8	Java http clients and POODLE
+Q4	8	Secure plain text passwords in configuration
+Q5	7	How do I securely handle and zero key material buffers on the JVM?
+Q6	7	Java EE Security: JASPIC / JAAS or apply a Security Framework? (Glassfish 3)
+Q7	6	Repetitive usage of Java&#39;s SecureRandom
+Q8	6	Securing a Thrift server aginst the POODLE SSL vulnerability
+Q9	6	What are the implications of Java strings not really being immutable?
+Q10	6	SSL Error when trying to download a Java JDK

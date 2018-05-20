@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	3	Is it recommended to check view for null with every findViewById call?
+Q2	2	ListView onItemSelected Listener not working
+Q3	2	Android: How to avoid doubling ViewGroups with LayoutInflater
+Q4	2	Image with caption Android Viewpager
+Q5	2	LayoutInflater not returning a new object

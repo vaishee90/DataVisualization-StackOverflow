@@ -1,0 +1,7 @@
+Number	Votes	Question
+Q1	5	Test a weak reference before using it java
+Q2	4	Do I hide the impl of WeakReferences or force the client to use them
+Q3	3	Declare an array of WeakReferences?
+Q4	2	Confusion regarding weak references in java
+Q5	2	Understanding Phantom reference vs weak reference with respect to Reference queue
+Q6	2	Java Can I guarantee that WeakHashMap entry will not disappear after check

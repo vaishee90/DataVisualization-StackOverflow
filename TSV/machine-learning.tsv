@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	7	Classifying data with naive bayes using LingPipe
+Q2	6	apache spark MLLib: how to build labeled points for string features?
+Q3	6	Decision tree implementation issue in apache spark with java
+Q4	3	How does Mahout store users Preferences to allow fast similarity computation and how does it work?
+Q5	3	Processing a large (GB) file  quickly and multiple times (Java)
+Q6	3	Perceptron learning - most important feature
+Q7	3	Get prediction percentage in WEKA using own Java code and a model
+Q8	3	How to implement category based text tagging using WordNet or related to wordnet?
+Q9	2	How to speed up the model creation process of OpenNLP
+Q10	2	using weka with python for loading the classifier model

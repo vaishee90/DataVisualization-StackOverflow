@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	3	Java: while((line = bufferedReader.readLine()) != null) MISSING 2 LINES
+Q2	2	readline() blocks when using BufferedReader over Java input/output streams

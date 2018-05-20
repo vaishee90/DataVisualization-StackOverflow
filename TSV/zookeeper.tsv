@@ -1,0 +1,7 @@
+Number	Votes	Question
+Q1	4	How to implement 2pc in Zookeeper cluster?
+Q2	4	How to watch for events on the descendant nodes in ZooKeeper using curator?
+Q3	2	hbase startup slow -- Error while calling watcher java.lang.NullPointerException: ZK is null
+Q4	2	Access hbase remotely
+Q5	2	Kafka java consumer freezes after rebalance failure
+Q6	2	Service Registery with many unreliable services  located everywhere on the internet

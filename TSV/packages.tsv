@@ -1,0 +1,8 @@
+Number	Votes	Question
+Q1	6	Gaining access to package-access members by creating the same package name
+Q2	4	What is the best practice for putting classes under package names in Android
+Q3	4	Source for sun.awt.AppContext and others?
+Q4	3	Are the java.util.* packages only meant for utility classes?
+Q5	2	Is it bad to import unused packages?
+Q6	2	Is there a way to make empty packages visible in Eclipse Juno?
+Q7	2	I am facing a error when I compile the source code  It is throwing an error that is given below

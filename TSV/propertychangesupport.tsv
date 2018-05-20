@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	2	Design a PropertyChangeListener that listens only to some properties
+Q2	2	propertyChange Support vs EventListenerList differences and when to prefer each ones?

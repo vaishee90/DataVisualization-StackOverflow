@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	4	Netbeans: project&#39;s main artifact is processed through maven-shade-plugin
+Q2	3	Unable to shade jar with maven (INVOKESPECIAL/STATIC)
+Q3	2	Shaded jar in a maven environment
+Q4	2	Maven shade - repackage dependecy jar with custom configuration

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	16	Error while compiling when using AspectJ compiler instead of Javac
+Q2	12	Using JPA entity graph with complex conditions
+Q3	11	JPA/Hibernate load recursive object graph without N+1/cartesian products
+Q4	11	Encountered a deprecated javax.persistence.spi.PersistenceProvider
+Q5	10	Read/Write splitting Hibernate
+Q6	10	Inheritance JPA and Hibernate Issue
+Q7	10	org.hibernate.HibernateException: createQuery is not valid without active transaction @scheduled
+Q8	10	Use Point type with PostgreSQL and JPA/Hibernate
+Q9	10	How to limit Java String creation in Hibernate?
+Q10	10	How to find classloader leak with free tools?

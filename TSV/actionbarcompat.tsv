@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	9	How to change the text color of SlidingTabLayout?
+Q2	3	NullPointerException when calling getSupportActionBar() from inside of Fragment (ActionBarCompat)

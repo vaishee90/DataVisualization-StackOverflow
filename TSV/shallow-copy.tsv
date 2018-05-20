@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	3	Java: Copy attributes from one object instance to another?
+Q2	2	In Java  are fields of array type deep copied or shallow copied?
+Q3	2	Why is the Object class&#39;s clone() method giving a deep copy of object?

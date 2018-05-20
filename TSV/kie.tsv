@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	3	Is there any API in drools to create the drl files dynamically by just passing values?
+Q2	2	Avoid parsing project pom.xml when running Drools

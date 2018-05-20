@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	5	Unable to run JUnit test with PowerMockRunner
+Q2	4	Using PowerMockit to mock method with void return-type: &quot;invalid void parameter&quot;
+Q3	4	Bad type on the operand stack in arraylength
+Q4	4	How can I test a method which invoke protected (unwanted) methods of parent class?
+Q5	4	Mixing Powermock with Weld?
+Q6	3	Mocking a static method in a final class in Java/Mockito
+Q7	3	java.lang.verify errors in Zulu 1.7.65
+Q8	3	Bad &lt;init&gt; method call from inside of a branch
+Q9	3	UnsatisfiedLinkError with PowerMockito and SWT on running a test suite
+Q10	3	How to call a private constructor of an abstract class for mocking.

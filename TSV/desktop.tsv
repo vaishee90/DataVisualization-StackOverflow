@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	4	Desktop.open() silently fails on some JREs
+Q2	2	Open a file using Desktop(java.awt)
+Q3	2	LibGdx stretched / deformated pixels (for example in pixel art)

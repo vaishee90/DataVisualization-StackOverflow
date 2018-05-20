@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	3	Using JTextField - Unable to convert value to int
+Q2	2	In Java  how to assign the variable number=Integer.parseInt(args[0]) a value if no argument is passed?

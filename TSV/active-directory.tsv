@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	4	Active Directory Authentication using Spring Security 3.2  Spring Ldap 2.0 and JavaConfig
+Q2	3	Single sign-on not working in Spring web app
+Q3	3	How do I configure a SQL Server datasource in JBoss to connect using a specific Active Directory user?
+Q4	2	Spring Security: how to map Active Directory users to application users?
+Q5	2	javax.naming.initialcontext is a restricted class google app engine

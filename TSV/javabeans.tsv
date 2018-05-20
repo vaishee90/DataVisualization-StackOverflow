@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	12	Complex Bean Mapping
+Q2	10	Default method in interface in Java 8 and Bean Info Introspector
+Q3	6	Is it a good idea to always use the Java Beans naming conventions?
+Q4	5	Intermittent error org.hibernate.PersistentObjectException: detached entity passed to persist
+Q5	5	PMD &quot;Bean Members Should Serialize&quot; rule. Can we do it in more smart way?
+Q6	4	What is the convention with Java beans  and implementing interfaces like Comparable?
+Q7	4	Flattening Java Bean to a Map
+Q8	4	Working with Java beans and Servlet values dynamically
+Q9	4	Java bean: Fastest way to implement an iterator of elements?
+Q10	3	Spring Core Framework - Where are the beans hold?

@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	3	Spring social vs javascript (facebook authentication )
+Q2	3	Spring Social integration for Facebook Twitter and Google in maven project
+Q3	2	java.lang.ClassNotFoundException: org.springframework.boot.SpringApplication when calling from a servlet
+Q4	2	Spring Social Google - converting a one-time authorization code into an access token/ refresh token on the server

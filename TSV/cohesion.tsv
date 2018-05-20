@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	6	How to separate Swing GUI from Business Logic when Spring etc. is not used
+Q2	5	What is the Java standard for object cohesion? Does too much information in an object mean bad design? - see example
+Q3	4	Decreasing coupling and cohesion by facade pattern

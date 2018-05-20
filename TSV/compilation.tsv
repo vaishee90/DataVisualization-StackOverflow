@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	64	Infinite loop breaks method signature without compilation error
+Q2	12	How to avoid deprecation warnings when @SuppressWarnings(&quot;deprecation&quot;) doesn&#39;t work?
+Q3	9	Error:java: invalid source release: 8 in Intellij. What does it mean?
+Q4	8	javac: invalid target release: 1.7
+Q5	7	How does the Clojure compiler generates JVM bytecode?
+Q6	5	Which information from imported class is stored inside compiled class after compilation?
+Q7	5	IntelliJ IDEA 13 extremely slow compilation
+Q8	4	Compiling Class files in Java has been confusing
+Q9	4	What is the Translastion Process of Java?
+Q10	4	Programming at compile time or at runtime

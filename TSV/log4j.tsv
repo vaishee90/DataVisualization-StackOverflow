@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	8	How to disable Spring logging DEBUG messages?
+Q2	7	How to redirect all logs from hibernate and spring to log4j2?
+Q3	4	Difference between Asynclogger and AsyncAppender in Log4j2
+Q4	4	Apache CXF AtomPullServer
+Q5	4	Is it possible to configure logback logger levels on the command line?
+Q6	4	How can I encrypt password in log4j.properties?
+Q7	3	How can i use Filter Expression in jmx logger LogConsole?
+Q8	3	Why do we need to create loggers per class?
+Q9	3	log4j template file for multiple environments
+Q10	3	Log4j 2 doesn&#39;t write to file

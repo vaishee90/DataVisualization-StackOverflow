@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	17	Why is this Float constant null when executing the static block?
+Q2	2	Are there circumstances under which Java does not initialize static fields immediately?
+Q3	2	Reusing static initialization block

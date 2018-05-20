@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	12	What is the best way of reading configuration parameters from configuration file in Java?
+Q2	12	Understanding spring @Configuration class usage
+Q3	8	Tomcat oomParachute: how to configure correctly
+Q4	6	Spring Security Warning: Class AuthorityUtils is abstract?
+Q5	6	How to configure and get session in Hibernate 4.3.4.Final?
+Q6	3	Hibernate add custom prefix to the catalogs
+Q7	3	Is this an appropiate use of a Singleton?
+Q8	3	Recommended way to handle spring-boot application/external config?
+Q9	3	JDK is updated but previous version is still getting shown as current version
+Q10	3	ProGuard for Android and GSON

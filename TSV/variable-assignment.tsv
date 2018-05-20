@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	81	Why does i = i + i give me 0?
+Q2	8	updating references in an expression with a nested assignment
+Q3	5	Assigning multiple values to an array in same statement
+Q4	5	Different behaviour for generic method return value to method and to assignment
+Q5	4	Array assignment output behaves differently for two code snippets
+Q6	4	In Java  is an expression assignable to a declared variable iff. it can be passed as a parameter declared with the same type?
+Q7	3	Java - Linked stack implementation  can&#39;t figure out why same number is always printed
+Q8	2	Java &gt;&gt;&gt;= operator
+Q9	2	Reading number from a file and checking against a random generation
+Q10	2	Boolean assignment vs declaration

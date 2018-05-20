@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	5	Static Initializers vs Instance Initializers vs Constructors
+Q2	3	can an instance method be called from initializer block?
+Q3	2	Initializing a JavaBean

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	69	Is id = 1 - id atomic?
+Q2	48	Why is i++ not atomic?
+Q3	32	What does &quot;inherently thread-safe&quot; mean?
+Q4	31	What exactly does the final keyword guarantee regarding concurrency?
+Q5	25	What is the purpose of using synchronized (Thread.currentThread()){...} in Java?
+Q6	23	Is Java-8&#39;s DoubleStream.sum() method stable when run in parallel?
+Q7	22	Synchronizing on local variable
+Q8	20	Behavior of memory barrier in Java
+Q9	19	How does the JVM internally handle race conditions?
+Q10	18	How to design an execution engine for a sequence of tasks

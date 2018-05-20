@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	3	Hibernate NOWAIT does not work with SQLServer2008
+Q2	3	Determine which row updated or inserted in the sql server periodically
+Q3	3	Calling MS Sql server stored procedure which has cursor and temporal table in it from java?
+Q4	3	JDBC getUpdateCount is returning 0  but 1 row is updated  in SQL Server

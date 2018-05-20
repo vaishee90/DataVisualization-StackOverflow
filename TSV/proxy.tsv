@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	6	Changes in HTML not reflected as long as I am using proxy
+Q2	5	Grails: simulate a hibernate proxy for testing
+Q3	5	Hibernate exception _$$_javassist_0 cannot be cast to javassist.util.proxy.Proxy
+Q4	4	Hibernate Entity proxy initialization
+Q5	3	Java Applets and Proxies
+Q6	3	Problems using Maven and SSL behind proxy
+Q7	3	How to set nonProxyHosts for a SOCKS proxy
+Q8	3	Another entities-cannot-be-cast-to-javassist-util-proxy-proxy
+Q9	2	Java multithreaded post method with proxy (using Jsoup)
+Q10	2	MITM with Netty 5.0: Browser unable to receive full http response

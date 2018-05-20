@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	36	Hidden performance cost in Scala?
+Q2	22	Java 8 parallel sorting vs Scala parallel sorting
+Q3	14	Difference between Java Optional and Scala Option
+Q4	13	Abstract methods and the varargs annotation
+Q5	11	Scala vs Java performance (HashSet and bigram generation)
+Q6	10	Scala repl throws error
+Q7	10	Running a Job on Spark 0.9.0 throws error
+Q8	9	How to diagnose or detect deadlocks in Java static initializers
+Q9	9	Scala and Java futures apparently having unexpected interactions
+Q10	8	Best practices with Akka in Scala and third-party Java libraries

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	149	How can I replace two strings in a way that one does not end up replacing the other?
+Q2	22	Alternative to successive String.replace
+Q3	8	Replace &quot;\\&#39;&quot; with any other character with String&#39;s replace()
+Q4	7	confusion in behavior of capturing groups in java regex
+Q5	4	What does replace do if no match is found? (under the hood)
+Q6	4	Showing email address as hint
+Q7	4	Remove all special characters from a string not including non-latin characters
+Q8	4	Are these String operations equivalent in Java and Python?
+Q9	3	Get what was removed by String.replaceAll()
+Q10	3	String index out of range with replace all

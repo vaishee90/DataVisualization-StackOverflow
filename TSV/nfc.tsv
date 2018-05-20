@@ -1,0 +1,8 @@
+Number	Votes	Question
+Q1	4	NFC NdefFormatable class connect() throws IOException
+Q2	3	java.lang.RuntimeException: Unable to instantiate activity ComponentInfo - NFC access
+Q3	2	Is a pre-shared key safe between Android and another java application?
+Q4	2	Reconnect USB device (ACR122U) without unplugging
+Q5	2	The PN532 configured as target has been released by its initiator
+Q6	2	Using NFC in a webapp
+Q7	2	Unable to read PAN from debit card using EMV contactless (Interac Flash)

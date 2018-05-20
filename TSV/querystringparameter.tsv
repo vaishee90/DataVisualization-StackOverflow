@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	1	Is there a way of getting values of properties in an action class without supplying them as query-string parameters while using a redirect action?

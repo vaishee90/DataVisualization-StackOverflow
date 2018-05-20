@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	9	Convert TIF to JPG without increasing Bit Depth
+Q2	7	Java allows to assign byte to java.lang.Short but not to java.lang.Integer
+Q3	4	nested wild cards and subtyping. How to understand when types are compatible?
+Q4	4	Type Casting Math.random?
+Q5	3	Using scala object inside java?
+Q6	3	generics collections.mixin raw and generic type. Integer -&gt; String - exception but String -&gt; Integer works good
+Q7	3	How To Implement A Method Signature That Will Return a Concrete Type of an Enum?
+Q8	3	Is there a way to convert a byte to a boolean array in java?
+Q9	3	Dont understand the result of conversion of type double to type byte
+Q10	2	How to convert a double array into a int array

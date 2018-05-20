@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	3	How to handle when System.nanoTime() returns the same value between calls?
+Q2	3	How can the &quot;&lt;&quot; or &quot;&gt;&quot; operators overflow?
+Q3	2	why is this simple C++ addition 6 times slower than the equivalent Java?

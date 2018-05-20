@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	11	UnsatisfiedLinkError (Native method not found)
+Q2	4	Android NDK: load_library: cannot locate srand
+Q3	4	UnsatisfiedLinkError: Couldn&#39;t load X from loader

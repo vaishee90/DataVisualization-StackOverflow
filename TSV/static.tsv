@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	51	Why we should not use protected static in java
+Q2	26	Java classes and static blocks
+Q3	23	Static final int v/s static int
+Q4	17	Ambiguous call from static context in Java
+Q5	16	Why can&#39;t we set the value of static final variable in static block through class name
+Q6	15	Why can&#39;t I use generics in an inner interface?
+Q7	14	Creating object using static keyword in Java
+Q8	12	Why is a subclass&#39; static initializer not invoked when a static method declared in its superclass is invoked on the subclass?
+Q9	10	NullPointerException or will print the static variable&#39;s content
+Q10	7	Why can&#39;t I statically reference an inner class&#39;s static method on a generic class?

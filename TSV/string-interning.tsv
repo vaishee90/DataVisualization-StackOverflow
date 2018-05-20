@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	15	Related to String interning
+Q2	15	Does String.intern() really increase performance?
+Q3	10	How does string interning work in Java 7+?
+Q4	4	HashMap&lt;String Value&gt;.remove() synchronized by using String.intern() on the Key  does this even work? Or is this broken code?

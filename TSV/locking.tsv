@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	5	PessimisticLockScope.NORMAL and locking &quot;relationships&quot;
+Q2	4	Lock on existence of file in Java
+Q3	4	Is it possible to prevent a database row from being read via Hibernate?
+Q4	3	Why not using a try with lock in java?
+Q5	3	Eclipse keeps bin/META-INF/persistence.xml in use
+Q6	3	ReentrantReadWriteLock. read and write acquire priority
+Q7	3	Java - is volatile required with synchronized?
+Q8	3	Is calling ReentrantReadWriteLock#lock() within the catch block wrong?
+Q9	3	Object intrinsic monitor as java.util.concurrent.Lock
+Q10	3	Java - lock acquisition on get method

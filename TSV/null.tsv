@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	7	Why are my null checks so slow?
+Q2	6	What&#39;s the point of Guava checkNotNull
+Q3	6	Implicit wrap of Java Null
+Q4	5	Method overloading and passing null
+Q5	5	Why is an Integer variable assigned null by default?
+Q6	5	Calling stream().reduce() on a list with only one element
+Q7	5	Why Initializing References to Null Is allowed In Java?
+Q8	5	Call seems ambiguous  but runs perfectly with unexpected output
+Q9	4	null value considered as Object or Array
+Q10	3	Java ArrayList without &quot;direct access&quot;

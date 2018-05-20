@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	3	RandomAccessFile Vs NIO Channel
+Q2	3	Getting a wrong FileChannel size
+Q3	2	File Channel reads/adds wrong data

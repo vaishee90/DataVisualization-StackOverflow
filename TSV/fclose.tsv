@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	0	Should I close a JarFile if it throws an I/O error when opening it? (Do the general rules for handling streams apply?)

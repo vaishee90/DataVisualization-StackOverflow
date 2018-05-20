@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	5	Why we Pass String array as argument to main() method  why not any collection type or wrapper type or primitive type?
+Q2	4	Best way to check arguments before running method
+Q3	3	Java RegEx for parsing the quoted arguments
+Q4	3	Creating an argument handler for managing and parsing command arguments
+Q5	3	Passing System.out.println(); as an argument in a method
+Q6	2	what is the difference between method(String str) and method(Final String str)
+Q7	2	Clarifying this Java &quot;Activity&quot; from &quot;SamsTeachYourself Java&quot;
+Q8	2	passing arguments across many classes
+Q9	2	How can I pass null arguments to my Java main method using run configuration arguments in Eclipse?
+Q10	2	Java Casting Object into Object[] Array And Enriched For Loop

@@ -1,0 +1,8 @@
+Number	Votes	Question
+Q1	5	Difference between a no-arg constructor and a default constructor in Java
+Q2	5	Will the compiler-generated default constructor be public?
+Q3	4	Disappearing default constructors
+Q4	3	Java: Linking user inputs to constructor and back
+Q5	2	Converting POJO into XML without defult POJO constructor
+Q6	2	Difference between creating an object within the constructor vs outside of the constructor?
+Q7	2	Is it possible to call both default and parameterized constructors of SubClass and SuperClass for a particular instance(parameterized) in Java?

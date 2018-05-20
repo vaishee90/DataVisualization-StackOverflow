@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	10	Generate unique ID in Java  to label groups of related entries in a log
+Q2	5	UUID.randomUUID().getLeastSignificantBits() always returns negative values?
+Q3	4	Convert PostgreSQL bytea-stored serialized-java-UUID to postgresql-UUID
+Q4	3	How to query remote mobile phone via Bluetooth as to whether it supports PBAP or not?
+Q5	3	platform-independent unique machine id java
+Q6	2	convert byte array to guid using bytebuffer and UUID  byte size has 4
+Q7	2	Auto generate unique random string in Spring MVC + Hibernate
+Q8	2	Convert ByteArray to UUID java
+Q9	2	How unique RandomStringUtils.randomAlphanumeric(int count) is?
+Q10	2	How to use UUIDs with Hibernate as a field?

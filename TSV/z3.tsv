@@ -1,0 +1,7 @@
+Number	Votes	Question
+Q1	4	Checking syntactic equivalence of two constraints efficiently in Z3
+Q2	4	Performance about the check() in Z3 for Java
+Q3	3	Use of &quot;for all&quot; with Uninterpreted sorts JAVA API
+Q4	2	Z3 bug in substitution
+Q5	2	Performance issues about Z3 for Java
+Q6	2	Display declarations parsed from an SMT-LIB2 file

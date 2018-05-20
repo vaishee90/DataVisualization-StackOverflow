@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	88	Java 8 stream&#39;s .min() and .max(): why does this compile?
+Q2	24	Should I return a Collection or a Stream?
+Q3	22	Java 8: Formatting lambda with newlines and indentation
+Q4	22	Java 8 parallel sorting vs Scala parallel sorting
+Q5	21	Lambdas  multiple forEach with casting
+Q6	18	Java 8 Collector that returns a value if there&#39;s only a single value
+Q7	18	Why does Collection.parallelStream() exist when .stream().parallel() does the same thing?
+Q8	18	Convert stream to array
+Q9	17	What is difference between Collection.stream().forEach(..) and Collection.forEach(..)
+Q10	15	Java 8: performance of Streams vs Collections

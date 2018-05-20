@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	21	Spring Security on Wildfly / Undertow: error executing the filter chain
+Q2	6	How do I get Wildfly to use additional Jackson Datatypes?
+Q3	5	Spring &amp; wildfly async requests
+Q4	5	Add plugin for WildFly Application Server to NetBeans
+Q5	4	Error connecting stand-alone Java program to JMS on WildFly server
+Q6	4	Eclipse  Spring  Wildfly log4j logging
+Q7	3	Start and configure a WildFly server and deploy the app using wildfly-maven-plugin in 1 maven run
+Q8	3	CDI can&#39;t set @Singleton into @Provider in @Requestscoped REST service after redeploy on WildFly
+Q9	3	MDB is not consuming Messages from Queue on standalone Hornetq
+Q10	3	JPA 2.1 Entity graph&#39;s subgraphs generating empty joins

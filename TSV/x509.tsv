@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	2	Unable to validate SAML assertion with ColdFusion
+Q2	2	How to encode a proprietary asymmetric publickey in X509
+Q3	2	Certificate generated through CSR signing with BouncyCastle considered untrusted
+Q4	2	Verify non-SSL certificate against default system keystore in Java
+Q5	2	Validate if RSA key matches X.509 certificate in Java

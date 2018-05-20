@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	2	Differing number of features in test and training set
+Q2	2	Probabilistic prediction with liblinear (java)  with direct usage of the classifier inside the code

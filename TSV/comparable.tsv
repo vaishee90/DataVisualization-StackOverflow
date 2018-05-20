@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	6	Passing an instance of Comparable to a method that expects a Comparator
+Q2	4	What is the convention with Java beans  and implementing interfaces like Comparable?
+Q3	4	Java - how to sort object in many ways: Arrays.sort()  Comparable&lt;T&gt;
+Q4	4	Comparable not sorting object
+Q5	4	Compiler thinks Comparable type is not Comparable
+Q6	3	Why doesn&#39;t invalid compareTo cause Collections.sort to crash?
+Q7	3	Ensuring that &quot;Object o&quot; parameter is of the same generic type when implementing java interfaces
+Q8	3	comparable used as structure in a binary tree
+Q9	3	Anonymous inner Comparable class in Java method?
+Q10	3	How to use Comparable as a Generic parameter in a Class

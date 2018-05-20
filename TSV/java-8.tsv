@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	111	Why is Cloneable not deprecated?
+Q2	107	Why is &quot;final&quot; not allowed in Java 8 interface methods?
+Q3	96	Is it possible to use Java 8 for Android development?
+Q4	93	What is the reason why “synchronized” is not allowed in Java 8 interface methods?
+Q5	88	Java 8 stream&#39;s .min() and .max(): why does this compile?
+Q6	71	When is an interface with a default method initialized?
+Q7	60	What does the -&gt; &lt;- operator do?
+Q8	59	Default method returns true for a while  and then returns false? (Possible JVM bug)
+Q9	58	Why does this Java 8 program not compile?
+Q10	49	What are &quot;sugar&quot;  &quot;desugar&quot; terms in context of Java 8?

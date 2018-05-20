@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	7	Can I make an overriden method synchronized?
+Q2	6	Name clash when overriding method of generic class
+Q3	4	parent / child method overriding
+Q4	4	Method Overridding Access modifier and Return Type Restriction
+Q5	3	Two interfaces with same method name  what happens when I override?
+Q6	3	Reason for not supporting dynamic polymorphism for static methods in Java
+Q7	3	Why should we override a method?
+Q8	3	overridden method does not throw exception
+Q9	3	Why can I override a protected method with public method?
+Q10	2	Type compatibility issues in overriding methods

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	6	Creating and wiring related instances at runtime with CDI
+Q2	5	How do you inject jdbiFactory DAOs into a Dropwizard Command?
+Q3	5	How do you override Play framework controller in a unit testing context?
+Q4	4	Injected objects became null after upgrading to Roboguice 3
+Q5	4	What are Best Practice Recommendations for Java EE 7 Property File Configuration?
+Q6	4	Traceback on Dagger .plus() on incomplete parent
+Q7	4	CDI inside OSGI - it doesn&#39;t see bean
+Q8	4	Looking for an example for Dagger assisted injection
+Q9	4	Dependency injection using guice for a client sdk/library design pattern
+Q10	3	Spring. Resolve circular dependency with java config and without @Autowired

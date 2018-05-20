@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	11	How to identify the issue when Java OutOfMemoryError?
+Q2	9	What is the best way to handle out of memory conditions in Java?
+Q3	8	Tomcat oomParachute: how to configure correctly
+Q4	6	How to determine in java when I&#39;m near to the OutOfMemoryError?
+Q5	5	Objects not being finalized and Finalizer thread not doing anything
+Q6	3	OutOfMemoryError even though enough free memory
+Q7	3	Java OutOfMemoryError even with Correct Structuring?
+Q8	3	ActiveMQ Consumer OutOfMemoryException
+Q9	3	Finally block will be executed in case of OutOfMemoryError?
+Q10	3	Tomcat threw out &quot;java.lang.OutOfMemoryError: Java heap space&quot;  but heap size in dump is less than -Xmx

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	8	What are the 37 Java API packages possibly encumbered by the May 2014 Oracle v Google decision?
+Q2	8	How to debug &quot;com.android.okhttp&quot;
+Q3	4	What is the best strategy to recover from an error - neglecting the record where error occurs
+Q4	4	Disappearing default constructors
+Q5	3	Conversion to Dalvik format failed: Unable to execute dex: method ID not in [0  0xffff]: 65536 in Android
+Q6	3	Is it possible to get an estimation of the number of instructions executed by Dalvik bytecode through analyzing Java bytecode
+Q7	3	java.lang.NoClassDefFoundError: [generic] at dalvik.system.NativeStart.main(Native Method)
+Q8	2	Need help porting android on top of ubuntu to run android apps
+Q9	2	Installation failed on Android Gingerbread and Froyo - INSTALL_FAILED_DEXOPT
+Q10	2	Understading ART / Dalvik compilation correctly

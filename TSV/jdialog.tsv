@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	19	Why does setting JDialog or JFrame setVisible(true) toggle my IME setting?
+Q2	3	Disable Escape key on JDialog Box
+Q3	3	Something wrong with JDialog
+Q4	2	Java Swing: Controlling focus with textfield and autocompletion dialog/menu
+Q5	2	Return a double value from JDialog to JFrame?
+Q6	2	Java Modal Dialog Won&#39;t Block Code Execution
+Q7	2	Why is a Joptionpane not modal on top of a JDialog
+Q8	2	How to convert a JOptionPane to a JDialog
+Q9	2	Is it safe to dispose a JDialog in a try block  and then continue executing code in a matching finally block?
+Q10	2	How to make a JDialog not always on top of parent

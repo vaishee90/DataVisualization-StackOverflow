@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	4	How do I safely convert an MD5 hash into buckets in Java/Scala?
+Q2	2	Java OSX MessageDigest.getInstance(&quot;MD5&quot;) hangs

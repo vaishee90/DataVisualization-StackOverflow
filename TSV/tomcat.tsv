@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	22	Why does Tomcat start so much slower with shared libraries?
+Q2	10	How to find classloader leak with free tools?
+Q3	9	Eclipse Luna debug slow only up to the very first breakpoint
+Q4	9	How to use Asynchronous Callbacks in Jersey 2 in tomcat 7
+Q5	8	Tomcat oomParachute: how to configure correctly
+Q6	7	H2 in Tomcat SqlException locked by another process when embeded mode
+Q7	7	Where should I keep the credentials of my database?
+Q8	7	Terminating mvn spring-boot:run doesn&#39;t stop tomcat
+Q9	7	CORS Filter not working as intended
+Q10	7	How to redirect all logs from hibernate and spring to log4j2?

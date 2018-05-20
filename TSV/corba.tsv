@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	8	Cannot recover from org.omg.CORBA.TRANSIENT (becomes permanent)
+Q2	4	Insert variables into SAS using JAVA (IOM Bridge). Should i use CORBA stubs and JDBC or is there any other alternative?
+Q3	2	Add elements in ObjectList in Java using CORBA
+Q4	2	CORBA example uses a different JDK

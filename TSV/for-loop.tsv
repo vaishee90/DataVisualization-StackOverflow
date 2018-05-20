@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	29	How does continue work?
+Q2	29	Why can&#39;t I use ?: operators in the 3rd argument of for loops in Java?
+Q3	13	Why can&#39;t I define a variable inside a for loop in this way?
+Q4	11	for loop in Java runs 3 times before taking next input
+Q5	7	Creating my own enhanced for loop
+Q6	7	How for( ; ;) is infinite loop?
+Q7	6	Java 8: Parallel FOR loop
+Q8	6	Why is the prompt in my for loop printing twice the first time?
+Q9	6	When using a random parameter in a loop&#39;s qualifying comparison  does it call the randomization function once or each time the loops runs?
+Q10	5	write 0&#39;s and 1&#39;s on each line where the last 2 weren&#39;t the same

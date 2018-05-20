@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	10	When to use Enum / Int Constants
+Q2	7	Declare constants inside of enum
+Q3	5	Why are in-range narrowed long values not implicitly converted?
+Q4	4	Implementing a class of &quot;constants&quot; initialized at application start not at compile time
+Q5	4	Compile-time value-binding of Java constants
+Q6	4	String pool vs Constant pool
+Q7	4	Is there a way to treat scala value as constant from java
+Q8	4	If the constant interface anti-pattern is such a crime  why does Swing do it?
+Q9	3	How can be the best way to create constants in Java program?
+Q10	3	char constant display in Javadoc &quot;Constant Field Values&quot; page

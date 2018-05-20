@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	21	JavaFX 8 Memory leak when Hiding Stage
+Q2	9	What is the best way to handle out of memory conditions in Java?
+Q3	9	How to hold 5GB constantly memory in application without suffering from poor performance due to GC?
+Q4	9	Concurrent Mark and Sweep algorithm details
+Q5	9	Problems with Java garbage collector and memory
+Q6	9	How to explicitly perform garbage collection
+Q7	8	Size of Huge Objects directly allocated to Old Generation
+Q8	8	Can java finalize an object when it is still in scope?
+Q9	8	What is the use of MetaSpace in Java 8?
+Q10	8	Java Garbage Collection  Class Based Tenuring

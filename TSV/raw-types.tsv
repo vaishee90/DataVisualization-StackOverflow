@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	4	Java Generics and Raw Types
+Q2	2	Getting raw class from a type erased Java object
+Q3	2	Is this raw type assignment type-safe? List&lt;T&gt; = new ArrayList();

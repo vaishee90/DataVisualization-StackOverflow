@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	6	javac: invalid target release: 1.8
+Q2	4	Stack overflow occurring on first procedure call inside recursive procedure
+Q3	3	Unexpected runtime error in simple Java code
+Q4	3	Vowel check - array out of bounds error
+Q5	3	jvisualvm: Software caused connection abort: socket write error
+Q6	3	ERROR SchemaExport with Hibernate
+Q7	3	Finally block will be executed in case of OutOfMemoryError?
+Q8	2	Remove all characters except last n characters from a string
+Q9	2	String index out of bounds? Where?
+Q10	2	Java.lang.NoClassDefFoundError : org/apache/poi/ss/usermodel/Font

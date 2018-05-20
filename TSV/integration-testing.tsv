@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	6	@ReplaceWithMock with @Qualifier
+Q2	5	Integration Testing DropWizard Apps
+Q3	4	Integration testing with remote restful service
+Q4	4	REST API integration tests with java/scala/groovy
+Q5	3	Integration testing with aerospike?
+Q6	3	Is this an Integration Test or a Unit Test?
+Q7	3	Google App Engine Datastore integration testing
+Q8	2	How can I run integration tests on a jersey application without restarting the server for every test?
+Q9	2	Why jmeter recording does not capture Basic Authorization related Http headers
+Q10	2	How to load a big bulk of data and use it in several test cases?

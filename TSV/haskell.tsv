@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	23	What kinds of type errors can Haskell catch at compile time that Java cannot?
+Q2	11	Calling Haskell from Java  dynamic linking error Relocation
+Q3	7	What are the key differences between Java 8&#39;s Optional  Scala&#39;s Option and Haskell&#39;s Maybe?
+Q4	2	Calling Haskell function returning String from Java
+Q5	2	Is it possible to implement `Functor&lt;T&gt;` in Java?

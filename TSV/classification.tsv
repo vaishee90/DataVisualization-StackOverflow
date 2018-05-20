@@ -1,0 +1,8 @@
+Number	Votes	Question
+Q1	7	Classifying data with naive bayes using LingPipe
+Q2	3	How to parse a CSV file so that can be classified by Mahout
+Q3	3	OCR of digits. Classify with Hu Invariant Moments
+Q4	3	Get prediction percentage in WEKA using own Java code and a model
+Q5	3	How to implement category based text tagging using WordNet or related to wordnet?
+Q6	2	Creating Weka classifier model without evaluation
+Q7	2	Test a stochastic gradient descent model in Apache Mahout in Java

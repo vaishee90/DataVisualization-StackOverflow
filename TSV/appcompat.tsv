@@ -1,0 +1,10 @@
+Number	Votes	Question
+Q1	37	NoClassDefFoundError: android.support.v7.internal.view.menu.MenuBuilder
+Q2	21	Eclipse ADT appcompat... what is it?
+Q3	5	Cannot instantiate class: android.support.v7.widget.SearchView
+Q4	4	R.java is not generating due to appcompat v7?
+Q5	3	Searchview doesn&#39;t work since app compat
+Q6	3	Difference between appcompat_v7 and android-support-v7-appcompat?
+Q7	3	Appcompat_v7 --&gt;res --&gt;layout error - Orientation Lint Error
+Q8	2	Appcompat res values-v21 themes_base errors on eclipse are not going away
+Q9	2	NavigationDrawerFragment not working with AppCompat Toolbar

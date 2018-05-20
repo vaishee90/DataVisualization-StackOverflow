@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	3	Does a Java ByteArrayInputStream built off of bytes from a local String variable need to be closed?
+Q2	2	Coding Java against serial ports: buffers and stream strategies

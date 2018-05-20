@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	7	Custom sorting list of strings (following Chamorro language collation rules)
+Q2	2	CollatorProvider mechanism has no effect on Collator

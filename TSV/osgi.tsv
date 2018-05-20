@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	11	Installing a new version of Groovy on my OSGi environment makes my bundle import it  though it shouldn&#39;t
+Q2	9	Using Java 7 Comparators in Java 8
+Q3	4	Java ClassLoader stops working when used in new Thread (Runnable)
+Q4	4	CDI inside OSGI - it doesn&#39;t see bean
+Q5	3	Getting a specific implementation from Felix
+Q6	3	Use @Scheduled annotations in an  at runtime  created spring bean
+Q7	3	Is there a way to access SlingRepository in a POJO?
+Q8	3	Weld OSGi + Apache Felix = can&#39;t find packages
+Q9	3	Does CDI work inside OSGI bundle (GF4  WELD)?
+Q10	3	OSGi test fragment dependencies with Eclipse-ExtensibleAPI

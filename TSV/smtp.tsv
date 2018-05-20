@@ -1,0 +1,7 @@
+Number	Votes	Question
+Q1	3	com.sun.mail.smtp.SMTPSendFailedException: 530 5.7.0 Must issue a STARTTLS command first
+Q2	3	I need to find file path to attach multiple file in my application to send others
+Q3	3	I need to send mail for multiple recipients
+Q4	3	Java Mail API: Callbacks
+Q5	2	Receiving email via SMTP
+Q6	2	Send email to myself using SMTP and Apache Camel

@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	2	How can I safely use semaphores in a while loop?
+Q2	2	Is it safe to dispose a JDialog in a try block  and then continue executing code in a matching finally block?

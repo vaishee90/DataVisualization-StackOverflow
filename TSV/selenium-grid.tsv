@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	2	Selenium Hub incorrectly believes CLIENT_STOPPED_SESSION has happened
+Q2	2	Parameterized Selenium Tests in Parallel with TestNg
+Q3	2	Unable to connect to host 127.0.0.1 on port 7055 after 45000 ms. with FF version 26.0 and selenium standalone jar 2.39
+Q4	2	How run 2 and more nodes on same selenium hub programmatically(without console)

@@ -1,0 +1,9 @@
+Number	Votes	Question
+Q1	5	Hibernate Interceptors - Why is onFlushDirty called after onSave?
+Q2	4	In Dart  is there a way to intercept accesses and mutations to programming constructs?
+Q3	3	How to use @ExceptionHandler with Spring Interceptor for two JSP pages?
+Q4	2	cannot find the symbol @Before in play2.2.1 java
+Q5	2	HandlerInterceptorAdapter doesn&#39;t run for error page
+Q6	2	Difference between Work-flow Interceptor and Validation Interceptor
+Q7	2	How to get http response body in an Out Interceptor without the logging feature enabled?
+Q8	2	Why the Interceptor brokes the wildcard in Struts 2?

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	16	Why doesn&#39;t Java 8&#39;s Predicate&lt;T&gt; extend Function&lt;T  Boolean&gt;
+Q2	11	A java List that implements the new Stream interface?
+Q3	8	Purpose of third argument to &#39;reduce&#39; function in Java 8 functional programming
+Q4	7	Abstract class as functional interface
+Q5	6	java lambda returning a lambda
+Q6	5	Calling stream().reduce() on a list with only one element
+Q7	5	Java 8 fill array with supplier
+Q8	5	Does Java SE 8 have Pairs or Tuples?
+Q9	5	Functional style of Java 8&#39;s Optional.ifPresent and if-not-Present?
+Q10	4	A concise way to write functions for arithmetical operations in Java 8

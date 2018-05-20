@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	4	Does a ZipEntry persist after a ZipFile is closed?
+Q2	3	Creation of single zip containing multiple zips fails for ServletOutputStream
+Q3	3	ZipOutputStream produces corrupted zip file on Android
+Q4	2	Downloaded zip file is invalid

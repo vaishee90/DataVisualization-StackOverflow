@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	9	Get nested JSON object with GSON using retrofit
+Q2	5	Versioned Object/JSON Mapping to/from Mongo?
+Q3	5	how does the method infer the type of &lt;T&gt;
+Q4	5	Make Gson throw exception on parsing JSON with duplicated key
+Q5	4	Java: deserialise a json array with nulls
+Q6	4	Is there way to associate arbitrary data structure with GSON parser?
+Q7	4	Gson custom serialization
+Q8	4	GSON to Ormlite foreign collection
+Q9	3	GSON is deprecated. Which one we can use to serialize and deserialize Java objects to and from JSON?
+Q10	3	How to preserve data types of a particular key in JSON Object using GSON?

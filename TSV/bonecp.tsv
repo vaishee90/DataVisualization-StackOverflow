@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	3	BoneCP and Hibernate
+Q2	2	BoneCP: Is there a way to configure the Statement Timeout for all statements?
+Q3	2	No.of Inactive session increased while connection made using BoneCP - for every run

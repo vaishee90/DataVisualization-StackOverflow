@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	6	Java 8 ImageIO reads JPEG incorrectly in Linux
+Q2	3	ImageIO.write strange behaviour: different runs  different compression
+Q3	3	Java Swing adding images code in MigLayout does not seem to be working?
+Q4	3	ArrayIndexOutOfBoundsException: 4096 while reading gif file
+Q5	3	Performing setRGB on BufferedImage changes pixel to black instead of color
+Q6	2	Opening an image file from java InputStream
+Q7	2	Changing LWJGL icons (taskbar and program)
+Q8	2	Read a 16 Bit Bitmap in Java
+Q9	2	when and how will ImageIO.write throw nullpointerexception?
+Q10	2	Could not initialize class javax.imageio.ImageIO

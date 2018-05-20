@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	10	Android: Cannot perform this operation because the connection pool has been closed
+Q2	7	Threadsafe Singleton without synchronization in Java?
+Q3	6	Why private static field = new Singleton is not lazy in Java?
+Q4	4	Implementing a class of &quot;constants&quot; initialized at application start not at compile time
+Q5	4	Implementing Singleton as Enum in Java
+Q6	4	Singletons not available when the App comes back to memory
+Q7	4	Avoid multiple instances of Singleton?
+Q8	4	Eager instantiation of Singleton
+Q9	4	@singleton behaving like @stateless bean
+Q10	4	Get application context from non activity singleton class

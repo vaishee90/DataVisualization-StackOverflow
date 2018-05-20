@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	3	Apache Jena - got 3 identical results for one query
+Q2	3	converting resultset to RDF/XML in Jena
+Q3	3	Sparql query running forever
+Q4	3	ContentNegotiation: How to serve other than the highest ranking type from accept header
+Q5	3	how to query an ontology file with jena on eclipse
+Q6	2	Jena: Property Paths when building queries programatically
+Q7	2	Pull string from RDF node
+Q8	2	why does the addDomain method affect the Domain&#39;s SuperClass
+Q9	2	how to remove and a UnionClass in jena
+Q10	2	How to Use the Jena OntModel.listClasses() method?

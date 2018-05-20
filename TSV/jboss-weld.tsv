@@ -1,0 +1,7 @@
+Number	Votes	Question
+Q1	6	Creating and wiring related instances at runtime with CDI
+Q2	3	How to programmatically inject a Java CDI managed bean into a local variable in a static method
+Q3	3	Weld OSGi + Apache Felix = can&#39;t find packages
+Q4	3	Does CDI work inside OSGI bundle (GF4  WELD)?
+Q5	2	How to use CDI / weld without javax.el and javax.servlet.jsp in classpath
+Q6	2	How to bootstrap weld-osgi version 2 in SE application

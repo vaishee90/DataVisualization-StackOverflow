@@ -1,0 +1,8 @@
+Number	Votes	Question
+Q1	13	Reducing android app (apk) size
+Q2	3	Android java app installation under the hood
+Q3	3	Android APK Build Error. Showing an Interesting Error
+Q4	2	Why does apk signing with jarsigner give java.security.NoSuchAlgorithmException: SHA11 MessageDigest not available?
+Q5	2	Check if Android app is installed by playstore
+Q6	2	Exported APK Not Working
+Q7	2	How can I list all 3rd party jars in an apk?

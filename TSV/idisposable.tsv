@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	1	Is it meaningful for AutoCloseable&#39;s close method to throw an exception? How should this be handled?

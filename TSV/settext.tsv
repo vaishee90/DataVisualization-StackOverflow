@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	4	label.setText NullPointerException
+Q2	2	JTextField text display
+Q3	2	Update swing JEditorPane from runnable class

@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	2	How do I fetch specific bytes from a file knowing the offset and length?
+Q2	2	Check File Extension in Java/Android
+Q3	2	OpenJPA PersistenceException: LongId cannot be cast to MyEntityClass... @OneToMany in combination with FetchType.EAGER

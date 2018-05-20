@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	14	Is this Monster Builder a good Builder / Factory pattern for abstracting long constructors mixed with setters?
+Q2	2	Combining builder methods with service methods - bad practice?
+Q3	2	Is it possible to get both the status code and the body content when using Apache HttpClient&#39;s Facade?

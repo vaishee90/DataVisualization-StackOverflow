@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	5	Spring: how to initialize related lazy beans after main bean creation
+Q2	5	No bean class specified on bean definition
+Q3	4	Weak requirements: how to make sure an object is initialized
+Q4	3	Spring lazy loading - loading one bean loads all @Lazy beans of that class
+Q5	2	How to add internationalization to Spring MVC

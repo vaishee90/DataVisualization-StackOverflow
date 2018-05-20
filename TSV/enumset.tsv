@@ -1,0 +1,7 @@
+Number	Votes	Question
+Q1	9	Justification for using a bitfield instead of EnumSet in modern Java 8 API
+Q2	6	Check enumsets for same enum values
+Q3	4	Java: How to write generic function that accepts Enum constants that implement a given interface?
+Q4	3	How do you properly extend/subclass EnumSet in Java?
+Q5	2	Thread-safe Enumset in Java
+Q6	2	EnumSet from array  shortest variant?

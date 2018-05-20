@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	2	Initialization of bean failed; nested exception is java.lang.NoClassDefFoundError: org/eclipse/jetty/server/AbstractConnector

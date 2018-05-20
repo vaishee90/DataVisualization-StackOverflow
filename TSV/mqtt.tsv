@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	15	Synch and Asynchronous interface of MqttClient object are not working
+Q2	3	Cannot receive already published messages to subscribed topic on mqtt paho
+Q3	2	MQTT over WebSockets using Netty?

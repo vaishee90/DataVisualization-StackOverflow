@@ -1,0 +1,10 @@
+Number	Votes	Question
+Q1	4	MariaDB: Enable Java Stored Procedure
+Q2	4	Is it possible to pass a null parameter to a stored procedure in Java JPA 2.1?
+Q3	3	Calling MS Sql server stored procedure which has cursor and temporal table in it from java?
+Q4	2	Oracle JDBC / PL SQL / TYPE / Package Level / Invalid Name Pattern
+Q5	2	Syntax of JDBC Connection prepareCall SQL
+Q6	2	Null value is returned from stored procedure
+Q7	2	how to pass parameters to a stored procedure using @NamedNativeQuery in spring hibernate
+Q8	2	Oracle Java Stored Function - ORA-00932: inconsistent datatypes
+Q9	2	Calling Java method in trigger after insert in Java Derby

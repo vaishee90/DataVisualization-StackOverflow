@@ -1,0 +1,9 @@
+Number	Votes	Question
+Q1	6	Automate the webstart process
+Q2	4	MacOS Code Signing of bundled JDK7 on Mavericks 10.9.1
+Q3	3	Code signing issue with 3rd party lib
+Q4	3	How do I install a GoDaddy Signing Certificate?
+Q5	2	Code sign Java app for OS X Gatekeeper
+Q6	2	How can I sign and deploy a JavaFX application into a single .JAR?
+Q7	2	Class found before  but not after  signing Jar file
+Q8	2	Comodo vs StartSSL: will the code signing authority affect ability of Java applets to run without security warnings?

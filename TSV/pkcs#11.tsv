@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	4	Always ask for the pin KeyStore PKCS11
+Q2	2	Sign multiple PDFs without calling login for each file

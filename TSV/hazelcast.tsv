@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	8	Performance drop upgrading from Hazelcast 2.5 to 3+
+Q2	5	Hazelcast Logging 70% threshold Message with out adding anything to map
+Q3	5	Hazelcast query in custom objects
+Q4	4	Partition warning message in Hazelcast
+Q5	3	Hazelcast instance is not active! in 3.2.1
+Q6	2	HazelcastClientCachingProvider class not found exception when requesting hazelcast jcache provider
+Q7	2	Distributed ReadWrite Lock in Hazelcast
+Q8	2	hazelcast map is not ready warnings
+Q9	2	warn message using hazelcast 3.3 during mapstore loadAll
+Q10	2	hazelcast data distribution

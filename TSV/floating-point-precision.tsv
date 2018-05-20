@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	127	Why does adding 0.1 multiple times remain lossless?
+Q2	5	Is it possible to get floating point error in this case?
+Q3	3	General strategies for testing for equality of double precision numbers in computational geometry
+Q4	3	This very small float constant is more approximate than could be expected
+Q5	2	Error with Random.nextDouble math

@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	17	Coldfusion 10 slower when using Java 1.7 compared to 1.6
+Q2	7	getMetaData() throws internal NullPointerException
+Q3	4	java.security.AccessControlException: access denied (&quot;java.net.SocketPermission&quot; &quot;localhost:10648&quot; &quot;listen resolve&quot;)
+Q4	3	Coldfusion server is working fine but one site goes down just around two minutes

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	6	Accessing a HashSet using the HashCode directly? (Java)
+Q2	6	Are there Hash Arrays in Delphi?
+Q3	5	Persisting sha256 hash objects?
+Q4	5	Go SHA-256 hash differs from Java SHA-256 hash
+Q5	4	Hashmap Capacity not increased even on reaching threshold
+Q6	4	How do I safely convert an MD5 hash into buckets in Java/Scala?
+Q7	4	Change to HashMap hash function in Java 8
+Q8	4	How do I correct my hash function?
+Q9	3	HashMap and concurrency- different keys
+Q10	3	Why is value of a value class as its hashCode &quot;not a good idea&quot;?

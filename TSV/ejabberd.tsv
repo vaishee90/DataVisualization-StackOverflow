@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	3	Message are printing after closing the chat
+Q2	2	java.io.EOFException: no more data available - expected end tag &lt;/stream:stream&gt; to close start tag &lt;stream:stream&gt;
+Q3	2	Is there an Android native library for XMPP client?
+Q4	2	XML Response time ejabberd

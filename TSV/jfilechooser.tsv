@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	4	Open any file from within a java program
+Q2	3	Save the state of a JFileChooser
+Q3	3	Adding a Search field to a Jfilechooser
+Q4	3	Java File browser
+Q5	2	how to perform drag and drop from JFileChooser to JList containig Folders
+Q6	2	JFileChooser to pick a directory or a single file
+Q7	2	How to get properties of a selected file from a JFileChooser
+Q8	2	Is there a bug setting title using JFileChooser.showDialog(Component  String) in Mac OS X?
+Q9	2	How to store a image and rename that image at the same time while storing?
+Q10	2	JFileChooser not saving file even after entering the name

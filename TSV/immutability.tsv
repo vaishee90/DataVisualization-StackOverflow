@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	62	Is it okay to expose the state of an Immutable object?
+Q2	17	final String class vs final methods of Non-final String class
+Q3	13	How to make object immutable in java
+Q4	6	What are the implications of Java strings not really being immutable?
+Q5	5	why is Immutable Objects safe in Double-Checked Locking?
+Q6	5	A method declaring a mutable data structure as an output and returning an immutable one actually
+Q7	5	volatile + immutable holder object = thread safe?
+Q8	5	Good way to create a immutable class with modifiers (thread-safe)
+Q9	5	Making a field `Final` in an Immutable class?
+Q10	4	how using Mutable key in hashamp working in this example?

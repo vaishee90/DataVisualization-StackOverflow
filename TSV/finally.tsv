@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	9	Are resources closed before or after the finally?
+Q2	7	Does finally completely execute if an exception is thrown within finally block
+Q3	3	Java lost exception
+Q4	3	Finally block will be executed in case of OutOfMemoryError?

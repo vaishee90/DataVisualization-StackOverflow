@@ -1,0 +1,10 @@
+Number	Votes	Question
+Q1	4	Does awaitTermination in ExecutorService &quot;happens-before&quot; any code executed after it?
+Q2	4	Java ThreadPoolExecutor and BlockingQueue to be used
+Q3	3	Using ThreadPools to process M tasks of N users on K threads (N*M &gt;&gt; K) in Java
+Q4	3	Where to close connection/file/logs with multiple threads?
+Q5	2	new Thread(task).start() VS ThreadPoolExecutor.submit(task) in Android
+Q6	2	Detect when idle ThreadPoolExecutor thread is killed
+Q7	2	Reusing ThreadPoolExecutor vs Creating and Disposing Ad Hoc?
+Q8	2	executorservice to read data from database in chuncks and run process on them
+Q9	2	Cancel function in a java ThreadPool - Detect specific runnable in the Pool and cancel it

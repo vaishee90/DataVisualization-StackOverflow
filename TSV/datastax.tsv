@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	3	Is there a good way to check whether a Datastax Session.executeAsync() has thrown an exception?
+Q2	2	Get a BigInteger attribute from Cassandra ResultSet
+Q3	2	Datastax cassandra QueryBuilder insertion error (java)
+Q4	2	Spark Datastax Java API Select statements
+Q5	2	Correct Way to Scale Cassandra Cluster Using Authentication

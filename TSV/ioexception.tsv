@@ -1,0 +1,10 @@
+Number	Votes	Question
+Q1	4	Encountered an IOException reading from InputStream in Java
+Q2	3	IO Exception - read end dead - what causes it in this example and how to fix it - multithread application in Java
+Q3	2	ServerSocket.close(). When does it throw an exception?
+Q4	2	CentOS 6.5 + JasperReports 5.6.0 = exception while reading font data
+Q5	2	JVM failed to start: java.io.IOException: Cannot run program &quot;/usr/libexec/StartupItemContext; error=2  No such file or directory
+Q6	2	Exception at the BufferedReader.reset() method
+Q7	2	Throw IOException instead of Exception
+Q8	2	Android - GET Request using Https failing - not sure why
+Q9	2	Array of BufferedImage instances: IIOException

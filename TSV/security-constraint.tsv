@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	2	Wildfly web.xml security constraint blocking basic auth header for JAX-RS methods using ContainerRequestFilter

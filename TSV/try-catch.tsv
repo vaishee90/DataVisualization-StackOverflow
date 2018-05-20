@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	6	Why does the caller of the method that throws an exception not have to handle the exception in this situation?
+Q2	6	Why does not java detect unreachable catch block if I use multiple catch blocks?
+Q3	6	try with resources introduce unreachable bytecode
+Q4	4	Catch duplicate key insert exception
+Q5	4	Why such output is coming?
+Q6	4	What is a squelch in java?
+Q7	4	Why does processing try-catch without any exception thrown not slow down the program at all?
+Q8	4	amazing output for try/catch/finally?
+Q9	3	Is there an alternative to try/catch in Java for opening a file?
+Q10	3	multiple statements in try/catch block - Java

@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	1	No active contexts for scope type javax.enterprise.context.RequestScoped when invoking a bean from a thread

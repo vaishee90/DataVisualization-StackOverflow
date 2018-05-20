@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	4	Hadoop &quot;Spill Failed&quot; Exception in an ec2 instance with 420GB of instance storage
+Q2	3	PHP On EC2 hangs
+Q3	3	Instance ID doesn&#39;t exist
+Q4	3	Memory leak with SocksSocketImpl finalize method
+Q5	2	Cannot programmatically submit Spark application (with Cassandra connector) to cluster from remote client
+Q6	2	How to host java application in aws?
+Q7	2	Webapp with MEAN stack and Java
+Q8	2	Access Tomcat root application under different path (on AWS/Elastic Beanstalk)
+Q9	2	AWS Jclouds resource not found
+Q10	2	Why might describing Amazon EC2 instances yield no result?

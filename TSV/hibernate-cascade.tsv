@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	0	org.hibernate.ObjectDeletedException: deleted object would be re-saved by cascade when collection objecs have a one to one association

@@ -1,0 +1,7 @@
+Number	Votes	Question
+Q1	3	How does Mahout store users Preferences to allow fast similarity computation and how does it work?
+Q2	3	How to parse a CSV file so that can be classified by Mahout
+Q3	3	Break/Stop forEachRemaning using Java8
+Q4	2	Mahout error with Hadoop2.4.0
+Q5	2	Test a stochastic gradient descent model in Apache Mahout in Java
+Q6	2	How to print data from Canopy Clusters in Apache Mahout

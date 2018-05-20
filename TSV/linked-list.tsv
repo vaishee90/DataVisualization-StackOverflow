@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	5	Why no ConcurrentModificationException in this situation with LinkedList iterator?
+Q2	4	Why do you need (LinkedList)?
+Q3	4	Condition always true when reached in while loop
+Q4	4	Simply changing the value of a variable changes the value of a node in my linked list? This should not happen
+Q5	3	Linklist in hashmap java
+Q6	3	Java - Comparing efficiency of two O(n) algorithms
+Q7	3	Adding Integers to ArrayList&lt;Integer&gt;
+Q8	3	How can I remove a decorator from an object?
+Q9	3	How to find a missing element between two linked lists in O(n)?
+Q10	3	Big-O notation for LinkedList and BinarySearch

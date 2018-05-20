@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	12	Unloading rJava and/or restarting JVM
+Q2	3	Why does rJava not work on Ubuntu 14.04 using OpenJDK 7?
+Q3	2	Static Java function imported with rJava doesn&#39;t work with tm_map()

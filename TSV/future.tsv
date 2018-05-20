@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	8	Does the future object returned by executorService.submit(Runnable) hold any reference to the runnable object?
+Q2	5	Using an event listener as Java 8 Stream source
+Q3	4	Java cancel Future - How to wait for finish?
+Q4	4	Flatten Java Futures
+Q5	3	How to subclass CompletableFuture?
+Q6	3	How to use CompletableFuture.thenComposeAsync()?
+Q7	3	Transform Java Future into a CompletableFuture
+Q8	3	Java fixed size Thread Pool and optimal usage of all CPU cores
+Q9	2	When is a Future task finished
+Q10	2	Most efficent use for executor and futures to minimize initilization costs

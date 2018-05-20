@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	20	Underlying mechanism of String pooling in Java?
+Q2	2	Would a connection Pool benefit a multithreaded Java program
+Q3	2	What to use to make sure a connection pool always gets closed?

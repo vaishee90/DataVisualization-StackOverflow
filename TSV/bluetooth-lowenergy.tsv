@@ -1,0 +1,9 @@
+Number	Votes	Question
+Q1	4	Android Bluetooth Low Energy: characteristic.getPermissions() returns 0?
+Q2	3	Android BLE: cannot write a Characteristic (no PROPERTY_WRITE)
+Q3	3	How to improve Android Bluetooth Low Energy GATT throughput?
+Q4	3	Difference between close() and disconnect() in Android Bluetooth 4.0 API?
+Q5	2	Altbeacon - Scan multiple UUID in an array
+Q6	2	Android BLE: onCharacteristicRead() appears to be blocked by thread
+Q7	2	Android Bluetooth status 133 in onCharacteristicwrite
+Q8	2	Android: Sending data &gt;20 bytes by BLE

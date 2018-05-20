@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	4	BigDecimal.divide() yields extra digit of precision when called with a MathContext

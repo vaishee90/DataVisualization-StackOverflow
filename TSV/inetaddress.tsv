@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	3	INetAddress Direct Instantiation
+Q2	2	Occasional error Using InetAddress.getByName()
+Q3	2	get IP from socket connect from localhost in java

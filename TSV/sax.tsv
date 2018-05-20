@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	4	Removing duplicated newlines/tabs/whitespaces in XML character element
+Q2	4	SaxParseException in eclipse: XML document structures must start and end within the same entity
+Q3	3	Using a SAX parser when I need a DocumentBuilder
+Q4	2	How to parse nested XML data and extract only the userid from it?
+Q5	2	SAXParser doesn&#39;t allow Xinclude
+Q6	2	Java SAX is not parsing properly
+Q7	2	How to get element&#39;s value from xml using Sax parser in startElement?
+Q8	2	Way to capture part XML code in SAXParser
+Q9	2	Why DocumentBuilder.parse throws SaxParserException
+Q10	2	Serializing Java DOM Document to XML: Add CData Elements

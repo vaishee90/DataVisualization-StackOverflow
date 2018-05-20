@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	3	\\n and \\r seem to work everywhere. Why is line.separator more portable?

@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	6	Why can I write to &quot;mnt/sdcard&quot; and not to &quot;mnt/extsd&quot;?
+Q2	3	Using DownloadManager to download into new folder on phones storage
+Q3	3	Does SAF(Storage Access Framework) solve the SD card WRITE issue in Android 4.4 (KitKat)?

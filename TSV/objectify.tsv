@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	4	Slow deserialization when fetching low level datastore Entity objects from Memcache
+Q2	3	GAE Endpoints (Java) with objectify - how to model partial data (for client)?
+Q3	2	Objectify count async
+Q4	2	Nearby search in objectify
+Q5	2	objectify v4 - couldn&#39;t import static com.googlecode.objectify.objectifyService.ofy;

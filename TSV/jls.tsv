@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	28	Lambda expression and method overloading doubts
+Q2	14	Ambiguous overload in Java8 - is ejc or javac right?
+Q3	13	Is it always safe to call getClass() within the subclass constructor?
+Q4	9	Java Bounded Generics: Type inference bug? (Method invocation  JLS 15.12.2.7)
+Q5	5	Java grammar definition completeness
+Q6	5	getDeclaredConstructors() lists 2 constructors but there is only one
+Q7	4	In Java  is an expression assignable to a declared variable iff. it can be passed as a parameter declared with the same type?
+Q8	4	Example 8.1.2-1 Of Java Language Specification(Mutually Recursive Type Variable Bounds)
+Q9	4	Order of automatically imported packages and ambiguity
+Q10	3	What&#39;s the definition of &quot;during the operation of the Java Virtual Machine&quot;?

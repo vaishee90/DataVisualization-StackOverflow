@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	17	Java8 Lambdas vs Anonymous classes
+Q2	13	What does a variable being &quot;effectively final&quot; mean?
+Q3	8	Java 8 Lambda Expressions - what about multiple methods in nested class
+Q4	5	Is it possible to serialize anonymous class without outer class?
+Q5	5	Why am I able to print this field in a static method?
+Q6	5	Anonymous classes field accessing on Java 1.8 compatibility with older versions
+Q7	4	call function of outter class from inner anonymous class (same class as outter)
+Q8	4	Why is this Java code working? compiler doesn&#39;t complain about closure
+Q9	3	Netbeans fails to find main class when creating anonymous subclass of inner class of anonymous subclass
+Q10	3	Why can I not call methods added to an anonymous class in Java?

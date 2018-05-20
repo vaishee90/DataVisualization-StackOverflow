@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	21	Declaring variable final and static
+Q2	13	Is it always safe to call getClass() within the subclass constructor?
+Q3	8	When should classes be initialised - at load time or at first use?
+Q4	8	Is the defining classloader of a class level annotation always a parent of the initiating classloader of that class?
+Q5	8	Accessing Package Private element between parent / child classloaders
+Q6	6	How to block access to some classes  when executing groovy scripts from java?
+Q7	6	When exactly is a class loaded?
+Q8	5	Who loads java.lang.ClassLoader?
+Q9	5	Spark MLlib 0.91 org.jblas.DoubleMatrix errors
+Q10	5	Java replace jar at runtime

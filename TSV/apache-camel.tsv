@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	6	Can you programmatically alter a queue&#39;s &quot;dead letter&quot; handling in a Java embedded broker?
+Q2	5	Camels producer consumer confusion
+Q3	4	What is the right way to &quot;pause&quot; a route using camel with activemq?
+Q4	4	How to mock AMQP consumers in Camel testing?
+Q5	4	Simple spring application terminates unless there is a call to Thread.sleep(...)
+Q6	3	Spring AMQP RabbitMQ implementing priority queue
+Q7	3	How to exclude jar that contains StaticLoggerBinder from activemq-all maven dependency?
+Q8	3	Camel pattern for multiple sources specific messages aggregation and redirect to destination
+Q9	3	How to make the event-driven consumer in Apache Camel delete the consumed messages?
+Q10	3	Camel jdbc: How can I reset datasource if mysql connection gets closed

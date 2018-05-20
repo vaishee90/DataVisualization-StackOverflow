@@ -1,0 +1,3 @@
+Number	Votes	Question
+Q1	4	Happens-Before relation in Java Memory Model
+Q2	3	Out of order writes without memory-barrier: the only possible cause of Data Race?

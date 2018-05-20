@@ -1,0 +1,9 @@
+Number	Votes	Question
+Q1	10	Manipulating a legacy MDB (Access 2.0) with Java 8
+Q2	3	JDBC driver installed but exception
+Q3	2	java.sql.SQLException : &quot;Driver does not support this function&quot;
+Q4	2	Occasional &quot;General error&quot; Occurs on INSERT into POSTGRES Database from Java
+Q5	2	SQL Exception error
+Q6	2	java.lang.ClassNotFoundException: sun.jdbc.odbc.JdbcOdbcDriver Exception occuring ? why?
+Q7	2	No.of Inactive session increased while connection made using BoneCP - for every run
+Q8	2	JavaFX TextField can&#39;t set Text from a ResultSet

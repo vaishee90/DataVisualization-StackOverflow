@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	6	How to block access to some classes  when executing groovy scripts from java?
+Q2	4	Java Sandbox API - Denying access in a used class
+Q3	2	How do I run untrusted Groovy code in a sandbox with memory and time limits?

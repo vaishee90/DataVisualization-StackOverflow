@@ -1,0 +1,10 @@
+Number	Votes	Question
+Q1	9	What is the best way to handle out of memory conditions in Java?
+Q2	9	Why does a Java process hang from Gradle when sub-process is still open?
+Q3	4	Simple Java Process Input/Output failing
+Q4	3	Processes vs threads in Java
+Q5	3	Process Synchronization in java
+Q6	3	Java Thread hanging without deadlocks
+Q7	3	A java process launched from another java process without &amp; doesn&#39;t work as expected
+Q8	2	In Java - How to check if a running process is using more than 1GB of memory?
+Q9	2	How to get JVM cache location for current process in linux

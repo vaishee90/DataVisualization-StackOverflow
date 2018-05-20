@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	12	SQuirreL Plugin Tutorial
+Q2	8	NullPointerException on calling ResultSet.getDate()
+Q3	7	Why is my embedded h2 program writing to a .mv.db file
+Q4	7	Postgresql JDBC Table Valued Parameters
+Q5	6	glassfish throwing org.postgresql.xa.PGXAException
+Q6	6	Creating a connection with Java ODBC results in a java.sql.SQLException: Invalid Cursor Type exception
+Q7	6	How to get UTC timestamps from JDBC+postgreSql timestamp?
+Q8	6	Very weird PreparedStatement in java?
+Q9	6	No matter what  I can&#39;t batch MySQL INSERT statements in Hibernate
+Q10	5	PreparedStatement is faster in Java  How db do it?

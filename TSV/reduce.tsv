@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	11	Is the accumulator of reduce in Java 8 allowed to modify its arguments?
+Q2	6	Is there an elegant way to reduce a stream of maps to one map
+Q3	4	Java 8 collect vs reduce
+Q4	2	MRUnit reducer test: Mismatch in value class

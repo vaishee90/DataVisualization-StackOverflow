@@ -1,0 +1,6 @@
+Number	Votes	Question
+Q1	5	Is there a way for a thread to tell which thread has interrupted it?
+Q2	5	Instantly ending a game with complex turns
+Q3	4	Thread.interrupt is not called when using ExecutorService
+Q4	3	java alternative Thread.stop() to interrupt specific call
+Q5	2	Java methods that get to wait somehow and that throw InterruptedException

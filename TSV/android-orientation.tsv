@@ -1,0 +1,2 @@
+Number	Votes	Question
+Q1	2	Is AsyncTask delivering any response between onDestroy() and onCreate() callbacks of a fragment?

@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	6	Which is &quot;better&quot;. AtomicIntegerArray (1/0 as true/false) versus AtomicBoolean[]?
+Q2	5	Strange behavior in sun.misc.Unsafe.compareAndSwap measurement via JMH
+Q3	3	Getting Jasig Cas Client Validation Error. PKIX path building failed
+Q4	2	How to serialize UIMA CAS combined with Java Serialization

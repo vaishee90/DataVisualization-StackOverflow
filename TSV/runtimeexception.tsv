@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	7	Making a checked exception a RuntimeException
+Q2	5	java.lang.RuntimeException: takePicture failed
+Q3	3	RuntimeException: Could not dispatch event @ otto
+Q4	2	Android RuntimeException and NullPointerException

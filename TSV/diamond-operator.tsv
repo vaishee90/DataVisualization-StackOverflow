@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	16	Why can&#39;t Java 7 diamond operator be used with anonymous classes?
+Q2	7	Why does the diamond operator not work for java.util.Collections methods in Java 7?
+Q3	5	Java 7 diamond operator and initialization with the derived class
+Q4	3	Maven project Error: Diamond/multicatch operator not supported in -source 1.5
+Q5	3	Why Diamond operator was not missed from Right hand side in Java 7?
+Q6	2	Why can&#39;t I use the Java 7 diamond syntax with a guava ImmutableSortedMap.Builder
+Q7	2	java diamond operator doesn&#39;t compile
+Q8	2	Illogical compilation error with Java 1.7: &#39;&lt;&gt;&#39; operator
+Q9	2	Wildcards with diamond operator
+Q10	2	Is the type parameter useful in the constructor of generic object instantiation?

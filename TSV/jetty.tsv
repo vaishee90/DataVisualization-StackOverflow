@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	11	How to disable the SSLv3 protocol in Jetty to prevent Poodle Attack
+Q2	5	Integration Testing DropWizard Apps
+Q3	4	Gradle + Intellij IDEA 13 bug
+Q4	4	Cargo NoClassDefFoundError when having a webapp which uses jetty modules embedded 9.1.1
+Q5	4	How to gracefully close an Endpoint when an exception occurs?
+Q6	4	JETTY_LOGS is being appended to JETTY_HOME
+Q7	4	Why can&#39;t java webapps have 2 webcontexts?
+Q8	4	Cross-domain $http request with AngularJS
+Q9	4	Is there any maven sleep functionality?
+Q10	4	PermGen space with jetty

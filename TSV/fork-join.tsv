@@ -1,0 +1,10 @@
+Number	Votes	Question
+Q1	7	Where does say that Java&#39;s parallel stream operations use fork/join?
+Q2	7	Fork Join optimization
+Q3	6	In a Java 7+ ForkJoinPool  is it possible to cancel a task and all subtasks?
+Q4	3	How to re-partition each line in a file in Java
+Q5	3	Iterative Fork-Join for base case of divide-and-conquer
+Q6	2	Can I use the work-stealing behaviour of ForkJoinPool to avoid a thread starvation deadlock?
+Q7	2	Java parallel stream using only one thread?
+Q8	2	Fork/Join: optimal threads count
+Q9	2	Why my QuickSort using ForkJoin is so slow?

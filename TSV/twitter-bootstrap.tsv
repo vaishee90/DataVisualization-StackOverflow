@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	3	giving each file a proper html5 tag based on MIME type to be displayed in an html+bootstrab template
+Q2	3	Google reCaptcha doesn&#39;t get loaded when Bootstrap call the remote modal
+Q3	2	Bootstrap not 100% using $(&#39;html&#39;).html(data);

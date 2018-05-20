@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	228	Too many &#39;if&#39; statements?
+Q2	29	Is there any way to force java to test two condition regardless the first condition?
+Q3	24	How is String in switch statement more efficient than corresponding if-else statement?
+Q4	17	How to check if a string at a certain position contains character a-h?
+Q5	11	One &#39;else&#39; for nested &#39;if&#39; statements
+Q6	6	Quick alternative to lots of if statements
+Q7	5	How to check for a device language in android?
+Q8	4	Covering all scenarios with if statement
+Q9	4	Replacing if/else logic with state/strategy pattern
+Q10	4	Why does my code step into an else-if statement whose condition should be false?

@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	9	Does SonarQube not support Java8 yet?
+Q2	8	SonarQube on Java8-project gives jacoco-Exception
+Q3	7	GC overhead Limit exceeded while running sonar runner
+Q4	7	Can SonarQube code duplication detector be parameterized to stop on method boundaries?
+Q5	6	New Sonar IntelliJ plugin incremental analysis and detection not working
+Q6	4	inconsistent synchronisation violation
+Q7	4	How to measure Java code unit test coverage per developer?
+Q8	4	Integrating Sonar  Jacoco  Gradle  ScalaTest with Junit  Java
+Q9	3	sonar-maven-plugin fails because of invalid checkstyle.xml (The processing instruction target matching &quot;[xX][mM][lL]&quot; is not allowed)
+Q10	3	SonarQube not accepting externally generated JaCoCo report for IT coverage

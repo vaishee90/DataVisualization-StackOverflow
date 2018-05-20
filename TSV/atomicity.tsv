@@ -1,0 +1,7 @@
+Number	Votes	Question
+Q1	6	Perl shared variables atomicity and visibility
+Q2	5	What is the best way to &quot;roll back&quot; changes?
+Q3	5	Why and how does volatile imply atomic reads/writes?
+Q4	5	AtomicInteger incrementAndGet atomicity
+Q5	4	Why I am seeing lot of TimeoutException if any one server goes down?
+Q6	2	Having full atomicity against all the threads without impacting performance or throughputs

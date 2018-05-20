@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	22	Do Collections.unmodifiableXXX methods violate LSP?
+Q2	18	How to design an execution engine for a sequence of tasks
+Q3	15	Uses for Java8 Optional
+Q4	14	Are there any coding examples of a full application in a microservice style?
+Q5	8	Why Java7 introduces AutoCloseable specially?
+Q6	8	Polymorphism  how to avoid type casting?
+Q7	6	Why doesn&#39;t Stack Overflow always occur?
+Q8	6	Should a function go in one/both of two classes or be free-standing?
+Q9	6	Separating protocol parser and handler in Java
+Q10	5	What is the best way to &quot;roll back&quot; changes?

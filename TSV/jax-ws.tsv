@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	7	Using JAX-WS 2.2.5 client with JDK/JRE 1.5
+Q2	6	Single WSDL with no schema imports in WebLogic with JAX-WS
+Q3	5	Trapping a ConnectException in a JAX-WS webservice call
+Q4	4	keep history of connected clients to a web-service jax-ws
+Q5	4	Validate soap requests against schema in a JAX-WS code-first approach
+Q6	4	How to set custom ValidationEventHandler on JAXB unmarshaller when using annotations
+Q7	4	How to gracefully close an Endpoint when an exception occurs?
+Q8	4	A recommended JAX-WS framework for working with Moxy
+Q9	3	Jersey client with ignore ssl with proxy setting
+Q10	3	WebSphere 7 JAX-WS Log Soap Messages using log4j

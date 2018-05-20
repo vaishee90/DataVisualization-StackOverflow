@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	69	Is id = 1 - id atomic?
+Q2	4	Codes on the same thread executed in unusual order
+Q3	3	x = x++ doesn&#39;t increment because the ++ is applied after the assignment?
+Q4	3	calling methods using object reference variable
+Q5	3	Confuse with String and instance of
+Q6	2	Methods that don&#39;t change a variable&#39;s value need to be synchronized if they accessed the variable
+Q7	2	why compilation fails for that example
+Q8	2	why this synchronized method is not working as expected?
+Q9	2	Which run first? default values for instance variables or Super Constructors?
+Q10	2	Method call is ambigous with varargs operator

@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	7	How to use String.hashCode to generate primary keys
+Q2	2	Java Spring Hibernate : Model class primary key auto increment field : set automatic and manually on a field
+Q3	2	JDBC SQLite not enforcing unique primary key constraint

@@ -1,0 +1,9 @@
+Number	Votes	Question
+Q1	5	Gstreamer Java &quot;No such Gstreamer factory&quot; - why?
+Q2	5	Can I runtime.exec() a 32-bit batch file from 64-bit Java?
+Q3	4	Differences in collections implementations between 32 bit and 64 bit  any pitfalls we need to worry about?
+Q4	4	Android Studio Emulator - Java instance does not support 32 bit JVM
+Q5	3	RHEL jdk-8u20-linux-x64.tar.gz 1.8 acting like 32bit
+Q6	2	Using 32 bit OS for Java development
+Q7	2	Cannot find java.exe when run from a .bat file launched via VBA
+Q8	2	Run a command via Runtime.exec from java code inside Web Archive (WAR deployed in Jetty)

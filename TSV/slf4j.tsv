@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	8	How to disable Spring logging DEBUG messages?
+Q2	7	Formatting floating point numbers in SLF4J
+Q3	6	Is there a Logback Layout that Creates JSON Objects with Message Parameters as Attributes?
+Q4	5	Pass log event specific data with slf4j (and log4j)
+Q5	4	Spring logs not coming machine specific
+Q6	4	using slf4j with log4j2
+Q7	3	Changing logging levels localized name with jdk logging/slf4j
+Q8	3	Why do we need to create loggers per class?
+Q9	3	How to exclude jar that contains StaticLoggerBinder from activemq-all maven dependency?
+Q10	3	coloring slf4j/log4j output in eclipse

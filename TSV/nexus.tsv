@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	4	Add mysql connector to a maven / nexus build in eclipse
+Q2	3	How to disable nexus-staging-maven-plugin in sub-modules
+Q3	3	automate deployment to sonatype&#39;s oss maven repository
+Q4	2	Sonatype Nexus  disallow downloading of source for certain account
+Q5	2	Handling artifacts changing groupID and transitive dependency risk
+Q6	2	Maven dependency not getting corresponding POM file downloaded
+Q7	2	How to share Maven archetypes?
+Q8	2	How to move Nexus maven repository index (nexus-maven-repository-index) to other directory (not temp)
+Q9	2	How can I automatically deploy a war from Nexus to Tomcat?
+Q10	2	Difference between P2 and P2 Update site in Nexus P2 proxy support

@@ -1,0 +1,4 @@
+Number	Votes	Question
+Q1	9	How to add &lt;![CDATA[ and ]]&gt; in XML prepared by Jaxb
+Q2	4	Is there any way to force JAVA to print empty CDATA within Elements?
+Q3	2	JAXB marshalling CDATA with Maven plugin

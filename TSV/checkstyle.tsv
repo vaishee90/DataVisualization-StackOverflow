@@ -1,0 +1,11 @@
+Number	Votes	Question
+Q1	4	Ensuring Java classes do not import from certain packages
+Q2	4	What is &quot;syntactically parallel elements&quot; in Java?
+Q3	3	sonar-maven-plugin fails because of invalid checkstyle.xml (The processing instruction target matching &quot;[xX][mM][lL]&quot; is not allowed)
+Q4	3	Reports from PMD  checkstyle  findbugs
+Q5	3	How to run Checkstyle  Findbugs  or PMD programmatically on file *content*
+Q6	3	How to check style arbitrary list of java files from command line?
+Q7	3	Enforcing Code Style in Maven
+Q8	2	Travis checkstyle warning
+Q9	2	CheckStyle warning unable to recognize exceptions like ServletException  HibernateException
+Q10	2	Intellij IDEA checkstyle

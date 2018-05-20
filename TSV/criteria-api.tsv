@@ -1,0 +1,8 @@
+Number	Votes	Question
+Q1	4	JPA Criteria: Convert int to String then select from substring of resulting String
+Q2	3	Stop java code execution until mysql query completes in Java?
+Q3	3	JPA2 Criteria API runtime cast from varchar(25) to decimal
+Q4	3	JPA Criteria api join through embedded ID
+Q5	2	Using field of type ListAttribute of static metamodel in a CriteriaQuery
+Q6	2	Criteria API: filter by class type
+Q7	2	Using dates in Criteria Query where clause

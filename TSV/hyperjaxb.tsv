@@ -1,0 +1,5 @@
+Number	Votes	Question
+Q1	2	Jaxb list unmarshalling order
+Q2	2	upgrade hyperjaxb3 to jpa 2.1
+Q3	2	HibernateException: Unable to resolve entity name from Class [java.lang.Boolean] expected instance/subclass of
+Q4	2	&quot;http://annox.dev.java.net&quot; customizations require the &quot;-Xannotate&quot; switch

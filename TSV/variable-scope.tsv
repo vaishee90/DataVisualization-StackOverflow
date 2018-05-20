@@ -1,0 +1,10 @@
+Number	Votes	Question
+Q1	6	scope of local variable in enhanced for-loop
+Q2	6	Where should I declare my variables?
+Q3	5	How the order of execution is performed between static variables and blocks?
+Q4	4	Is Java7 intelligent in collecting objects if they are not used further in a scope  although the scope has not completely ended
+Q5	3	What are the advantages of using a single integer for multiple for loops?
+Q6	2	Java RMI has different instantiations on client variables from client itself and from remote calls from server
+Q7	2	Is this Unwise Use of the &#39;this&#39; Keyword?
+Q8	2	Java lambda parameter name issue
+Q9	2	How to use the variable of one method in another method in Java(android)
